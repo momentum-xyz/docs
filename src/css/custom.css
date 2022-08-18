@@ -1,0 +1,74 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+/*
+ * Momentum styles:
+ * Blueish green: #01ffb3
+ * Pink: #F24DFF
+ *
+ * Dark blue ng #051745cc (rgba, 80% opacity)
+ * Black #000000
+ * Body text: #fff
+ * Spaces blue?: #157E99
+ * Cancel: #FFAE63
+ * Attention: #F25D05
+ * Forms bg: #132247
+ * Stacking yellow: #FFD300
+ * */
+:root {
+  --momentum-green: #01ffb3;
+  --momentum-flamingo: #f24dff;
+
+  --site-primary-hue-saturation: 55 68%;
+
+  --ifm-color-primary: #051745;
+  --ifm-color-primary-dark: #04153e;
+  --ifm-color-primary-darker: #04143b;
+  --ifm-color-primary-darkest: #041030;
+  --ifm-color-primary-light: #05194c;
+  --ifm-color-primary-lighter: #061a4f;
+  --ifm-color-primary-lightest: #061e5a;
+
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+[data-theme='dark'] {
+  --ifm-color-primary: #01ffb3;
+  --ifm-color-primary-dark: #00e6a1;
+  --ifm-color-primary-darker: #00da98;
+  --ifm-color-primary-darkest: #00b37e;
+  --ifm-color-primary-light: #1bffbb;
+  --ifm-color-primary-lighter: #27ffbe;
+  --ifm-color-primary-lightest: #4effca;
+
+  /*
+  --ifm-color-secondary: #f24dff;
+  --ifm-color-secondary-dark: #f02cff;
+  --ifm-color-secondary-darker: #ee1bff;
+  --ifm-color-secondary-darkest: #d700e8;
+  --ifm-color-secondary-light: #f46eff;
+  --ifm-color-secondary-lighter: #f67fff;
+  --ifm-color-secondary-lightest: #f9b1ff;
+  */
+}
+
+div[class^='announcementBar_'] {
+  --site-announcement-bar-stripe-color1: hsl(
+    var(--site-primary-hue-saturation) 85%
+  );
+  --site-announcement-bar-stripe-color2: hsl(
+    var(--site-primary-hue-saturation) 95%
+  );
+  background: repeating-linear-gradient(
+    35deg,
+    var(--site-announcement-bar-stripe-color1),
+    var(--site-announcement-bar-stripe-color1) 20px,
+    var(--site-announcement-bar-stripe-color2) 10px,
+    var(--site-announcement-bar-stripe-color2) 40px
+  );
+  font-weight: bold;
+}
