@@ -1,14 +1,17 @@
-name: Test deployment
+name: Test build
 
 on:
   pull_request:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
   test-deploy:
-    name: Test deployment
-    runs-on: ubuntu-latest
+    name: Test build
+    runs-on: self-hosted  #ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v3

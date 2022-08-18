@@ -9,7 +9,7 @@ const config = {
   title: 'Momentum',
   tagline: 'Monumental',
   url: 'https://momentum.xyz',
-  baseUrl: '/',
+  baseUrl: process.env.BASE_URL || '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
