@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmomentum=self.webpackChunkmomentum||[]).push([[717],{6056:e=>{e.exports=JSON.parse('{"title":"Under the hood","slug":"/category/under-the-hood","permalink":"/category/under-the-hood","navigation":{"previous":{"title":"glossary","permalink":"/glossary"},"next":{"title":"Momentum software stack","permalink":"/arch/software-stack"}}}')}}]);

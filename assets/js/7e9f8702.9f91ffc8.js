@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmomentum=self.webpackChunkmomentum||[]).push([[469],{2799:i=>{i.exports=JSON.parse('{"title":"Writing plugins","slug":"/category/writing-plugins","permalink":"/category/writing-plugins","navigation":{"previous":{"title":"terminology","permalink":"/terminology"},"next":{"title":"plugins","permalink":"/plugins"}}}')}}]);

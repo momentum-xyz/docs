@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmomentum=self.webpackChunkmomentum||[]).push([[954],{5670:e=>{e.exports=JSON.parse('{"title":"Reference","slug":"/category/reference","permalink":"/category/reference","navigation":{"previous":{"title":"dummy","permalink":"/dummy"},"next":{"title":"api","permalink":"/api"}}}')}}]);
