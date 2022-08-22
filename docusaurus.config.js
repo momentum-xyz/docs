@@ -34,7 +34,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/momentum-xyz/docs/',
+            'https://github.com/momentum-xyz/docs/blob/develop/',
         },
         blog: false,
         theme: {
