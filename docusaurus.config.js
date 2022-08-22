@@ -42,6 +42,27 @@ const config = {
         },
       }),
     ],
+    [
+      'redocusaurus',
+      {
+        // Plugin Options for loading OpenAPI files
+        specs: [
+          {
+            spec: 'https://kusama.momentum.xyz/api/v3/backend/docs-json',
+            route: '/api/',
+            layout: {
+              title: 'Momentum API',
+            },
+          },
+        ],
+        // Theme Options for modifying how redoc renders them
+        theme: {
+          // Change with your site colors
+          primaryColor: '#1890ff',
+          primaryColorDark: '#01ffb3',
+        },
+      },
+    ],
   ],
 
   themeConfig:
@@ -74,12 +95,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {
-            type: 'doc',
-            docId: 'api',
-            position: 'left',
-            label: 'API',
-          },
+          {to: 'api', label: 'API', position: 'left'},
           {
             href: 'https://github.com/momentum-xyz/',
             label: 'GitHub',
