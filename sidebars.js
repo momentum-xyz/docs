@@ -52,7 +52,9 @@ const sidebars = {
       link: {
         type: 'generated-index',
       },
-      items: ['api', 'sdk-ts', 'sdk-go', 'glossary'],
+      items: [
+        { type: 'link', label: 'API', href: '/api' },
+        'sdk-ts', 'sdk-go', 'glossary'],
     },
    {
       type: 'category',
