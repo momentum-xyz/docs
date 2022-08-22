@@ -174,8 +174,6 @@ const config = {
     ],
     */
   ],
-  themes: ["docusaurus-theme-openapi-docs"] // Allows use of @theme/ApiItem and other components
-
 
 };
 
