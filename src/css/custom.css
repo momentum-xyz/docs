@@ -54,6 +54,10 @@
   --ifm-color-secondary-lighter: #f67fff;
   --ifm-color-secondary-lightest: #f9b1ff;
   */
+
+  .mermaid svg {
+      background-color: #fff;
+  }
 }
 
 div[class^='announcementBar_'] {
