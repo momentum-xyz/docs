@@ -17,7 +17,7 @@ The simplified model of the main entities is:
 
 So space and user each have a type and a recursive relation. This relation is used to create a tree-like hierarchy as the model in a world.
 
-**Space hierarchy**
+## Space hierarchy
 
 The root of this tree is a special space with the ‘Node’ type (which maps to a server/hosting environment where multiple worlds can be located). Children linked to this node are the space entities with the ‘world’ type. Everything underneath a world is configurable for each world.
 
@@ -35,7 +35,7 @@ Each `spaceType` defines what type of children are allowed (so one or more `spac
 
 
 
-**User hierarchy**
+## User hierarchy
 
 The user model uses this structure to group users together. This is then used to create a role/permission model. This differs from the parent-child space model in that there is not necessarily a single root node and users can be connected to multiple ‘parent’ users. 
 
@@ -48,7 +48,7 @@ An example hierarchy of users:
 
 Users are initially created without any connection. But can then later be added as a member of another user. Meaning in this model the user entity is also used as a Group or Role and through this structure can inherit their membership/roles. So in the above example ‘Bob’ is a member of the ‘World A owners’, but through that relation also a member of the ‘Node admins’.  ‘Trent’ is a member of ‘Bob’ so is a member of the same things. But is also a member of ‘Group X’ and thus a ‘World B owner’.
 
-**User space membership**
+## User space membership
 
 Between the main two entities is a many to many relationship. This relationship facilitates the permission model. Users can be made a ‘space member’ of a certain space. This relation currently has a single additional property (`isAdmin`) that allows an ‘admin’ role to be defined.
 
@@ -56,15 +56,23 @@ If a user has the admin role for a space, it is also considered to be an admin f
 
 This same mechanism can be used by a world owner to give specific users administrative powers over a specific part of the world.
 
-The user hierarchy can be used to ease maintaining these permission roles, by creating special users that act as roles or groups, so permission can be given to a single entity. After that users only need to be added as a member and will get _all _the configured permissions.
+The user hierarchy can be used to ease maintaining these permission roles, by creating special users that act as roles or groups, so permission can be given to a single entity. After that users only need to be added as a member and will get _all_ the configured permissions.
 
-TODO: do we need a drawing combining both examples showing the permission model? For spaces we walk ‘up’ the tree, then for users we walk ‘down’ the tree to look for specific users.
+![Diagram of an example permission model](diagrams/momentum-permission-model-example.svg "Example permission model")
 
-**Space types**
+[comment]: # (https://docs.google.com/drawings/d/1k080zS7_IeNzkreINazEwtvJok9X6i0kZ_XFFs8jk5Y/edit?usp=sharing)
+
+Example to lookup the members (or admins) of a space:
+Check the space membership, walking 'up' the space hierachy and for each user walk 'down' the user hierarchy to find all the users.
+
+Example to lookup the spaces of a user:
+Check user membership parents, walking 'up' the user hierachy and for each user check the space user membership and walk 'down' the space hierarchy to find all the spaces.
+
+## Space types
 
 The type of a space is used for two things: Control the usage and constraints of a group of spaces and provide default values for individual spaces, which can be overridden.
 
-**User types**
+## User types
 
 Controls who and how the users are managed. E.g. end user accounts vs. automatically generated ‘system’ users, which are used as groups or roles.
 
