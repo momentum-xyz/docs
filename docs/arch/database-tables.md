@@ -253,7 +253,7 @@ TODO: Add descriptions as comments to the database schema, so this can be automa
 
 #### Spaces, users and permissions:
 
-See the documentation about the [main domain model](domain-model/).
+See the documentation about the [main domain model](../domain-model/).
 
 
 #### Generic attributes
