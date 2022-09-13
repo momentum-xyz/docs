@@ -10,7 +10,7 @@ async function createConfig() {
   /** @type {import('@docusaurus/types').Config} */
   const config = {
     title: 'Momentum',
-    tagline: 'Monumental',
+    tagline: 'Enabling digital societies to create, build and scale together in a decentralized metaverse network',
     url: 'https://momentum.xyz',
     baseUrl: process.env.BASE_URL || '/',
     onBrokenLinks: 'throw',
@@ -97,11 +97,23 @@ async function createConfig() {
           items: [
             {
               type: 'doc',
-              docId: 'what-is',
+              docId: 'learn/what-is',
               position: 'left',
-              label: 'Docs',
+              label: 'Learn',
             },
-            {to: 'api', label: 'API', position: 'left'},
+            {
+              type: 'doc',
+              docId: 'build/getting-started',
+              position: 'left',
+              label: 'Build',
+            },
+            {
+              type: 'doc',
+              docId: 'dummy',
+              position: 'left',
+              label: 'Create',
+            },
+            //{to: 'api', label: 'API', position: 'left'},
             {
               href: 'https://github.com/momentum-xyz/',
               label: 'GitHub',
