@@ -134,8 +134,8 @@ async function createConfig() {
               title: 'Docs',
               items: [
                 {
-                  label: 'Introduction',
-                  to: '/what-is',
+                  label: 'Learn',
+                  to: '/learn/what-is',
                 },
               ],
             },
