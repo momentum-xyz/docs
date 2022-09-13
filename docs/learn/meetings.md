@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
-# What is Momentum?
+# Meeting design
 
 Hello world!
 
