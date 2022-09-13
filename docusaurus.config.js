@@ -37,7 +37,7 @@ async function createConfig() {
             routeBasePath: '/',
             sidebarPath: require.resolve('./sidebars.js'),
             editUrl:
-              'https://github.com/momentum-xyz/docs/blob/develop/',
+              'https://github.com/momentum-xyz/docs/blob/main/',
             remarkPlugins: [[mdxMermaid.default, {
               theme: { light: 'default', dark: 'dark' }
             }]],
