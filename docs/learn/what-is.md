@@ -8,25 +8,25 @@ Momentum is software technology used to build browser based 3D worlds without ph
 
 Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of covid, this couldn’t happen physically. So we’ve built our own Online Mass Collaboration Arena.
 
-# How did we ended up here?
+### How did we ended up here?
 
 In 2016, we started as the Dutch Blockchain Hackathon and organized the first Dutch Blockchain Hackathon, attended by 55 teams, 350 participants, 100 jedi, and supported by 50 volunteers. 
 
 The Hackathon was part of a program that consisted of three phases: preparation, hackathon, acceleration.
 
-### **Dutch Blockchain Hackathon 2016-2017**
+### Dutch Blockchain Hackathon 2016-2017
 
 Here we hosted 5 challenges of partners like The Dutch Chamber of Commerce, APG (largest Dutch pension provider), and The Dutch Authority for Identity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KB_iTbDrkxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Blockchaingers Hackathon**
+### Blockchaingers Hackathon
 
 In 2018, we organized our second, larger and growing hackathon, the Blockchaingers Hackathon. 63 teams working on 7 challenges.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4h87L6IRu0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Blockathon**
+### Blockathon
 
 In 2018 we organized the Blockathon with the European Commission, The European Union Intellectual Property Office, together with Deloitte and Bencom Group. Here 11 curated teams worked together with EC, EUIPO, and experts from the field from Alibaba, KML/ Airfrance, Chanel, and many more to build the next level anti-counterfeiting infrastructure. 
 
@@ -34,13 +34,13 @@ The winning solution of Cryptomice is currently being build together with EUIPO 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sb3ecqzhW6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Odyssey Hackathon 2019**
+### Odyssey Hackathon 2019
 
 In 2019, we organized the last physical Odyssey Hackathon, where 100 teams participated in 20 challenges.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wnhpSLb30BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Odyssey Momentum**
+### Odyssey Momentum
 
 In 2020, due to COVID we were forced to host the hackathon online. When we couldn’t find a fitting solution or tool to create an epic online hack in, we decided to build something ourselves. So we changed gears and dimensions and inspired by (amongst many other things) EVE online, we set out sail to build Momentum. 
 
@@ -52,7 +52,7 @@ Within three months we built the very first version of Momentum, which went live
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mwpj70Gcatg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Developing Momentum further**
+### Developing Momentum further
 
 After successfully hosting the Odyssey Hackathon online with Momentum, we chose to further develop the stack that we created. During the hackathon we understood the core utility and the foundation of our purpose. We supported the befriended company Bencom to host their company hackathon in Momentum.
 
