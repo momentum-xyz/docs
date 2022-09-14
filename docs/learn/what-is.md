@@ -24,15 +24,21 @@ Here we hosted 5 challenges of partners like The Dutch Chamber of Commerce, APG 
 
 In 2018, we organized our second, larger and growing hackathon, the Blockchaingers Hackathon. 63 teams working on 7 challenges.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4h87L6IRu0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Blockathon**
 
 In 2018 we organized the Blockathon with the European Commission, The European Union Intellectual Property Office, together with Deloitte and Bencom Group. Here 11 curated teams worked together with EC, EUIPO, and experts from the field from Alibaba, KML/ Airfrance, Chanel, and many more to build the next level anti-counterfeiting infrastructure. 
 
 The winning solution of Cryptomice is currently being build together with EUIPO and an industry consortium.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sb3ecqzhW6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Odyssey Hackathon 2019**
 
 In 2019, we organized the last physical Odyssey Hackathon, where 100 teams participated in 20 challenges.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wnhpSLb30BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Odyssey Momentum**
 
@@ -40,11 +46,17 @@ In 2020, due to COVID we were forced to host the hackathon online. When we could
 
 In November 2020 we hosted the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. We had built our own Online Mass Collaboration Arena.
 
-Within three months we built the very first version of Momentum, which went live in on November 15, 2020 during Odyssey Momentum (the first digital Odyssey Hackathon). During the hackathon we hosted 1600 people simultaneously in the same space, collaborating with experts. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XaUYm2QShX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Within three months we built the very first version of Momentum, which went live in on November 15, 2020 during Odyssey Momentum (the first digital Odyssey Hackathon). During the hackathon we hosted 1600 people simultaneously in the same space, collaborating with experts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwpj70Gcatg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Developing Momentum further**
 
 After successfully hosting the Odyssey Hackathon online with Momentum, we chose to further develop the stack that we created. During the hackathon we understood the core utility and the foundation of our purpose. We supported the befriended company Bencom to host their company hackathon in Momentum.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WnczF58GPo?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 During 2021 we experimented with a variety of clients for whom we build custom 3D worlds in which they hosted hackathons, gave classes, or hosted innovation competitions. Examples of client worlds we have built and are live: 
 
@@ -62,4 +74,6 @@ After feeling a good click with SNI, a week in Lisbon on a DAO conference, we ex
 When we felt a click with the DOTSAMA ecosystem, we went head first into building the Kusamaverse. We did a proposal to the Kusama treasury, which got approved. We officially delivered Milestone 1 on May 11, 2022.
 
 Within 3 months we delivered the community base of the Kusamaverse: https://kusama.momentum.xyz/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmSJIEZQAyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
