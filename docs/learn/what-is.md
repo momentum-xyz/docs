@@ -18,6 +18,8 @@ The Hackathon was part of a program that consisted of three phases: preparation,
 
 Here we hosted 5 challenges of partners like The Dutch Chamber of Commerce, APG (largest Dutch pension provider), and The Dutch Authority for Identity.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KB_iTbDrkxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### **Blockchaingers Hackathon**
 
 In 2018, we organized our second, larger and growing hackathon, the Blockchaingers Hackathon. 63 teams working on 7 challenges.
