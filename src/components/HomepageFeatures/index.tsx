@@ -15,27 +15,27 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/flamingo_white.svg').default,
     description: (
       <>
-        What is Odyssey, who is building Momentum, and how we manage our processes.
+        We're Odyssey, we're building Momentum - an open source, decentralized 3D social action medium for digital societies.
       </>
     ),
     link: "/wat-is"
   },
   {
-    title: 'Build',
+    title: 'Developers',
     Svg: require('@site/static/img/flamingo_white.svg').default,
     description: (
       <>
-          With us the Momentum open-source web3 metaverse stack for digital societies.
+          Build the Momentum open-source web3 metaverse stack for digital societies with us.
       </>
     ),
     link: "/wat-is"
   },
   {
-    title: 'Create',
+    title: 'Community',
     Svg: require('@site/static/img/flamingo_white.svg').default,
     description: (
       <>
-         Your own unique metaverse experience with the Momentum World Builder (coming soon).
+         Create your own unique metaverse experience with the Momentum stack (coming soon).
       </>
     ),
     link: "/wat-is"
