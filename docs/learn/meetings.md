@@ -9,14 +9,15 @@ Odyssey is building Momentum. Momentum is an online public space to meet, connec
 At Odyssey we see meetings as tools. To put a screw in a plank a screwdriver (or cordless drilling machine) is the way to go, whilst a hammer (or tacker) is better with nails. And to cheer up a crowd a flute, guitar or sampling station is the best option. So pick or create the best tool for each job. And if you don’t need a tool (anymore), don’t use it, pick another, drop it or keep your hands and mind empty to be able to applause – for example. So: not meeting is the standard, each and every meeting is a conscious choice.
 
 **Checklist – too short summary**
-1. Does your invitation contain?
-2. Inviting, meaningful title.
-3. Goal
-4. Desired result / follow-up
-5. Role of every participant in achieving this result.
-6. What will happen next (with the result)?
-7. Times. Doors open, start, finish, doors closed.
-8. Location / URL and tools being used.
+
+Does your invitation contain?
+1. Inviting, meaningful title.
+2. Goal
+3. Desired result / follow-up
+4. Role of every participant in achieving this result.
+5. What will happen next (with the result)?
+6. Times. Doors open, start, finish, doors closed.
+7. Location / URL and tools being used.
 
 **And check:**
 1. Is the meeting really necessary? 
