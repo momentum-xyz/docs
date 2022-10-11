@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # WTF is Momentum?
 
-Momentum is software technology used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
+Momentum is software stack used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
 
 Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of COVID, this couldn’t happen physically. So we built our own Online Mass Collaboration Arena.
 
@@ -62,7 +62,7 @@ During 2021 we experimented with a variety of clients for whom we build custom 3
 
 - Dutch Ministry of interior world, built to enable cross ministerial collaboration with various societal stakeholder: [https://watwerktvoorons.odyssey.org/](https://watwerktvoorons.odyssey.org/)
 - Vattenfall world, built to host their innovation competition: [https://fossilfreefuture.odyssey.org/](https://fossilfreefuture.odyssey.org/login)
-- The the Royal Netherlands Standardization Institute hosted an innovation hackathon in their dedicated world: [https://nen.odyssey.org/](https://nen.odyssey.org/)
+- The Royal Netherlands Standardization Institute hosted an innovation hackathon in their dedicated world: [https://nen.odyssey.org/](https://nen.odyssey.org/)
 - Digicampus held their digital hackathon here: [https://digicampus.odyssey.org/](https://digicampus.odyssey.org/)
 - Sovereign Nature Initiative hosted their digital hackathon with Momentum here:  [https://sni.odyssey.org/](https://sni.odyssey.org/)
 - Watch their aftermovie here: [https://youtu.be/uleZwoWPB68](https://youtu.be/uleZwoWPB68)
