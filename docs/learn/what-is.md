@@ -6,11 +6,11 @@ sidebar_position: 1
 
 Momentum is software technology used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
 
-Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of covid, this couldn’t happen physically. So we’ve built our own Online Mass Collaboration Arena.
+Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of COVID, this couldn’t happen physically. So we built our own Online Mass Collaboration Arena.
 
 ### How did we end up here?
 
-In 2016, we started as the Dutch Blockchain Hackathon and organized the first Dutch Blockchain Hackathon, attended by 55 teams, 350 participants, 100 jedi, and supported by 50 volunteers. 
+In 2016, we started as the Dutch Blockchain Hackathon and organized the first Dutch Blockchain Hackathon, attended by 55 teams, 350 participants, 100 Jedi, and was supported by 50 volunteers. 
 
 The Hackathon was part of a program that consisted of three phases: preparation, hackathon, acceleration.
 
@@ -71,7 +71,7 @@ After feeling a good click with SNI, a week in Lisbon on a DAO conference, we ex
 
 ### Igniting the Kusamaverse
 
-When we felt a click with the DOTSAMA ecosystem, we went head first into building the Kusamaverse. We did a proposal to the Kusama treasury, which got approved. We officially delivered Milestone 1 on May 11, 2022.
+When we felt a click with the DOTSAMA ecosystem, we went head first into building the Kusamaverse. We wrote a proposal for the Kusama treasury, which got approved. We officially delivered Milestone 1 on May 11, 2022.
 
 Within 3 months we delivered the community base of the Kusamaverse: https://kusama.momentum.xyz/
 
