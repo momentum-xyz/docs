@@ -8,7 +8,7 @@ Momentum is software technology used to build browser based 3D worlds without ph
 
 Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of covid, this couldn’t happen physically. So we’ve built our own Online Mass Collaboration Arena.
 
-### How did we ended up here?
+### How did we end up here?
 
 In 2016, we started as the Dutch Blockchain Hackathon and organized the first Dutch Blockchain Hackathon, attended by 55 teams, 350 participants, 100 jedi, and supported by 50 volunteers. 
 
