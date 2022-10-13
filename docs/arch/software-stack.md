@@ -8,6 +8,8 @@ High level overview of the different parts of the momentum application.
 
 ![alt_text](diagrams/momentum-stack.svg "image_tooltip")
 
+[comment]: # (https://docs.google.com/drawings/d/1coUAALL0HqD2DUdqWUQWi5p2p509StLqORKcBMJMIIo/edit?usp=sharing)
+
 
 Momentum is a web application accessible by any modern web browser.
 
