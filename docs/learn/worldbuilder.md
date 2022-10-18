@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-Ever since the [inception](what-is/#odyssey-momentum) of the Momentum Stack it has been designed to support multiple worlds. With the Worldbuilder we will unleash this functionality - allowing anyone to create a metaverse while having an epic experience at the same time.
+Ever since the [inception](what-is.md#odyssey-momentum) of the Momentum Stack it has been designed to support multiple worlds. With the Worldbuilder we will unleash this functionality - allowing anyone to create a metaverse while having an epic experience at the same time.
 
 #The Worldbuilder Hierarchy
 
