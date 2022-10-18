@@ -2,9 +2,11 @@
 sidebar_position: 10
 ---
 
+# Worldbuilder
+
 Ever since the [inception](what-is.md#odyssey-momentum) of the Momentum Stack it has been designed to support multiple worlds. With the Worldbuilder we will unleash this functionality - allowing anyone to create a metaverse while having an epic experience at the same time.
 
-# The Worldbuilder Hierarchy
+## The Worldbuilder Hierarchy
 
 A metaverse is born when a  node owner installs and configures the Momentum Stack on their hardware. At this point, the node owner can also install any number of plugins at the node level which will enable functionalities in the worlds that are created on this node. The node owner can also whitelist accounts (or distribute a token) to allow those accounts to create a world on their node.
 
@@ -15,23 +17,23 @@ Once the world owner has entered their world, they will notice a new button on t
 User Generated Content can be created by anyone, and is a collection of resources, configurations and plugins that when combined will allow for simple integration of new content (and functionalities) inside a world. This UGC can be turned into a NFT and sold, as well as given away for free. UGC is a fractionalised NFT - meaning that content creators that contributed to the UGC are rewarded for their content automatically.
 
 
-# The Worldbuilder Components
+## The Worldbuilder Components
 
 The Worldbuilder project consists of three distinct parts, with each part collectively being part of the Worldbuilder experience.
 
-## The Drive token
+### The Drive token
 
 The Drive token is a decentralised social network - allowing people to connect, earn and collaborate together within the metaverse. This token will allow for different worlds to be connected together, allowing seamless transport between them.
 
-## Plug-in infrastructure
+### Plug-in infrastructure
 
 Installed at the node level, plug-ins provide the backbone to power the different aspects of a world. A plug-in can be as simple as a dashboard integration (for instance, enabling Miro on platforms) or as complex as a space simulation game. World owners can enable these during the configuration of the world, as well as being able dynamically enable and disable these plugins when their world is running.
 
-## The Worldbuilder
+### The Worldbuilder
 
 The Worldbuilder itself allows for the creation and customisation of a world. Designed to be a collaborative and epic experience, the Worldbuilder will empower anyone to be able to create their own world without writing a single line of code. 
 
-# Development Status
+## Development Status
 
 The Worldbuilder project is under constant development, and the information below is subject to change, however, the different stages of the development of the Worldbuilder is listed below:
 
