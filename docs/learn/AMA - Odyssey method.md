@@ -3,9 +3,9 @@
 
 **Let’s learn together! So, Ask Me Anything…**
 
-[Odyssey] (https://odyssey.org/) is building Momentum, an open source web3 metaverse stack, serving to unlock the collaborative superpowers of humanity. At Odyssey we believe in the power of web3 / open source / sharing. This is why we share – almost – all our knowledge (and not just only about the tech stack) and invite others to use it, to test it and build on top of it. 
+[Odyssey](https://odyssey.org/) is building Momentum, an open source web3 metaverse stack, serving to unlock the collaborative superpowers of humanity. At Odyssey we believe in the power of web3 / open source / sharing. This is why we share – almost – all our knowledge (and not just only about the tech stack) and invite others to use it, to test it and build on top of it. 
 
-Our favourite way of knowledge sharing and creation is by hosting Ask Me Anything sessions to share our source knowledge and invite others to ask clarifying questions on whatever needs clarification. At Odyssey we love to learn together, create together, help each other forward and… have fun. We are [Human After All] (https://youtu.be/PXYeARRyDWk).
+Our favourite way of knowledge sharing and creation is by hosting Ask Me Anything sessions to share our source knowledge and invite others to ask clarifying questions on whatever needs clarification. At Odyssey we love to learn together, create together, help each other forward and… have fun. We are [Human After All](https://youtu.be/PXYeARRyDWk).
 
 In this article, we’ve gathered both our theory and best practices for hosting AMA sessions using the available Momentum features, such as collaborative tools like Miro, Google Docs, as well as Stage Mode, Screen sharing and Video/Audio. 
 
@@ -28,12 +28,12 @@ As a bonus, AMA sessions are a **great way to connect with your community, inclu
 
 What will happen after a session? **Upgrade of knowledge stack, by adding the answers to the stack.**
 
-Do you need help to prepare or chair your AMA? Great! Get in [Ritzo] (https://twitter.com/ritzotencate) (design) and/or [Nick] (https://twitter.com/Clogish) (host)!
+Do you need help to prepare or chair your AMA? Great! Get in [Ritzo](https://twitter.com/ritzotencate) (design) and/or [Nick](https://twitter.com/Clogish) (host)!
 
 
 **What does a typical AMA look like? Flow and Program.**
 
-Screen grab from [Miro] (https://miro.com/app/board/uXjVPcMDtS4=/?moveToWidget=3458764536205613676&cot=14).
+Screen grab from [Miro](https://miro.com/app/board/uXjVPcMDtS4=/?moveToWidget=3458764536205613676&cot=14).
 
 
 **Pro-tips.**
