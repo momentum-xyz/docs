@@ -39,7 +39,7 @@ What do you want the participants to get out of the session?
 What will the participants be able to do differently after the AMA?
 What change has happened, or will be happening that requires this AMA?
 
->> **Make the goal of your session the topic of the AMA itself**, so that it is clear to everyone. Example: ‘Ask My Anything for black belt hosts on hosting a 100+ user session in Miro.’
+**Make the goal of your session the topic of the AMA itself**, so that it is clear to everyone. Example: ‘Ask My Anything for black belt hosts on hosting a 100+ user session in Miro.’
 
 A very broad topic can attract many people. But you will want to make sure that your **audience is more or less on the same page** when it comes to their level of knowledge of the topic and their experience. By being clear about the goal and knowledge stack you will create a filter. Otherwise you will end up with complete newbies asking basic questions in a technical deep dive, and… having highly technical people being bored.
 
