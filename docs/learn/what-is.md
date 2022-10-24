@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# WTF is Momentum?
+# What is Momentum?
 
 Momentum is software stack used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
 
