@@ -37,6 +37,8 @@ Do you need help to prepare or chair your AMA? Great! Get in [Ritzo](https://twi
 
 Screen grab from [Miro](https://miro.com/app/board/uXjVPcMDtS4=/?moveToWidget=3458764536205613676&cot=14).
 
+![Miro](2: Miro.png)
+
 
 **Pro-tips.**
 
