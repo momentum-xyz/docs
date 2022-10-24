@@ -77,7 +77,7 @@ Create a low threshold Miro-board, Google Doc, Wiki entry or whatever to share t
 
 Don’t expect all participants to have reviewed all content thoroughly, but be sure that at least a few of them can be on the level of asking valuable questions.
 
-![Helloama]helloama.png)
+![Helloama](helloama.png)
 
 
 **Test whether and why a session is wanted. And consider retrieving questions upfront.**
