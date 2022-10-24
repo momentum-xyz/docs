@@ -11,8 +11,7 @@ In this article, we’ve gathered both our theory and best practices for hosting
 
 Please feel welcome to ask any questions :-)
 
-![Meme](1:%20ama-1.png)
-![Test](Screenshot%202022-09-14%20at%2017.35.14.png)
+![Meme](ama.png)
 
 
 **An Ask Me Anything Session? 👇**
@@ -38,7 +37,7 @@ Do you need help to prepare or chair your AMA? Great! Get in [Ritzo](https://twi
 
 Screen grab from [Miro](https://miro.com/app/board/uXjVPcMDtS4=/?moveToWidget=3458764536205613676&cot=14).
 
-![Miro](2: Miro.png)
+![Miro](miroama.png)
 
 
 **Pro-tips.**
