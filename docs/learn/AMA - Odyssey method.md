@@ -12,6 +12,7 @@ In this article, we’ve gathered both our theory and best practices for hosting
 Please feel welcome to ask any questions :-)
 
 ![Meme](1:%20ama-1.png)
+![Test](Screenshot%202022-09-14%20at%2017.35.14.png)
 
 
 **An Ask Me Anything Session? 👇**
