@@ -60,6 +60,8 @@ It might be an option to split up your AMA into a newbies session and a Jedi lev
 
 **Get your AMA Session right and clear in the calendar of the participants**
 
+![Calendar](calendar.png)
+
 For all Invitations and promotion, the goal is to get into the calendar of people. Otherwise there is a high chance people will not show up.
 
 Provide every information you have available to indicate why people should care and join: who is the front runner / knowledge provider; the time, date and location and links to location, pre-reading etc. For example, use the ‘Magic Link’ to get a direct link to your space in Momentum, where you will be hosting an AMA session, and share it with the participants.
@@ -74,6 +76,8 @@ Create the invitation with attention AKA granularity. It will increase the numbe
 Create a low threshold Miro-board, Google Doc, Wiki entry or whatever to share the knowledge on what the AMA is going to be about.
 
 Don’t expect all participants to have reviewed all content thoroughly, but be sure that at least a few of them can be on the level of asking valuable questions.
+
+![Helloama]helloama.png)
 
 
 **Test whether and why a session is wanted. And consider retrieving questions upfront.**
@@ -96,6 +100,8 @@ To pick the most suitable time and day to host a session - consider the particip
 **Have an arrival / start activity so that people can immediately start to be interactive (and don’t tune out / get some final work done in the meantime)**
 
 Encourage them to start this activity as soon as they arrive. Our favourite is **“who is in the room”** where people introduce their name and company/role on the board and **select a meme** that resonates with them.
+
+![Memeama](memeama.png)
 
 
 **Start a session with warm welcome, why and how the Q&A will work and front runners / knowledge providers**
