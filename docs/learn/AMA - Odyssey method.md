@@ -11,6 +11,8 @@ In this article, we’ve gathered both our theory and best practices for hosting
 
 Please feel welcome to ask any questions :-)
 
+!Meme ([1: ama-1.png)](https://github.com/momentum-xyz/docs/blob/main/docs/learn/1:%20ama-1.png)
+
 
 **An Ask Me Anything Session? 👇**
 
