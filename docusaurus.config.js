@@ -109,7 +109,7 @@ async function createConfig() {
             },
             {
               type: 'doc',
-              docId: 'dummy',
+              docId: 'create/dummy',
               position: 'left',
               label: 'Create',
             },
