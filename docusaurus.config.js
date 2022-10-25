@@ -177,6 +177,19 @@ async function createConfig() {
           darkTheme: darkCodeTheme,
         },
       }),
+    plugins: [
+      [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/learn/AMA - Odyssey method/',
+            to: '/Odyssey method/How to/',
+          },
+        ],
+      }
+      ],
+    ],
   };
   return config;
 }
