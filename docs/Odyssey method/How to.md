@@ -1,4 +1,4 @@
-# How to run an Ask Me Anything (AMA) session
+# How to run an AMA
 
 
 **Let’s learn together! So, Ask Me Anything…**
