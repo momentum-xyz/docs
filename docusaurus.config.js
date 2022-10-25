@@ -109,7 +109,7 @@ async function createConfig() {
             },
             {
               type: 'doc',
-              docId: 'Odyssey method/dummy',
+              docId: 'Odyssey method/How to',
               position: 'left',
               label: 'Odyssey method',
             },
