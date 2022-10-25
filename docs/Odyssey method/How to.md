@@ -1,7 +1,8 @@
-# AMA (Ask Me Anything) session
+---
+title: AMA (Ask Me Anything)
+---
 
-
-**How to run an AMA session - the Odyssey method**
+# How to run an AMA (Ask Me Anything) session - the Odyssey method
 
 
 **Let’s learn together! So, Ask Me Anything…**
