@@ -109,9 +109,9 @@ async function createConfig() {
             },
             {
               type: 'doc',
-              docId: 'create/dummy',
+              docId: 'Odyssey method/dummy',
               position: 'left',
-              label: 'Create',
+              label: 'Odyssey method',
             },
             //{to: 'api', label: 'API', position: 'left'},
             {
