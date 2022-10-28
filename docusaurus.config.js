@@ -183,6 +183,10 @@ async function createConfig() {
       {
         redirects: [
           {
+            from: '/category/learn/',
+            to: '/learn/what-is/',
+          },
+          {
             from: '/learn/AMA - Odyssey method/',
             to: '/Odyssey method/How to/',
           },
