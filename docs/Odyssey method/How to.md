@@ -105,7 +105,7 @@ To pick the most suitable time and day to host a session - consider the particip
 
 Encourage them to start this activity as soon as they arrive. Our favourite is **“who is in the room”** where people introduce their name and company/role on the board and **select a meme** that resonates with them.
 
-![Memeama](blurred.png)
+![Blurred](Blurred.png)
 
 
 **Start a session with warm welcome, why and how the Q&A will work and front runners / knowledge providers**
