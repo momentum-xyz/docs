@@ -38,13 +38,11 @@ The winning solution of Cryptomice is currently being build together with EUIPO 
 
 In 2019, we organized the last physical Odyssey Hackathon, where 100 teams participated in 20 challenges.
 
-Watch the Odyssey Polaris opening Movie feat Charles Eisenstein:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vc2Vfst1F54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+At Odyssey Polaris, nearly 350 highly curated international pioneers gathered to kick-off the Odyssey 2019 Open Innovation Program. We presented the challenges for the new season and upcoming hackathon. With challenges from different contexts, like energy, identity, cybersecurity, logistics, nature conservation, health care, and critical infrastructure, it is at Odyssey Polaris where we connected the dots.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtV8eBuprIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Odyssey Hackathon 2019 opening:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vc2Vfst1F54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch the Official Odyssey Hackathon 2019 Aftermovie:
 
@@ -91,5 +89,5 @@ Christel (co-founder) presentation at Polkadot Decoded in Berlin, May 2022 (newe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J0wSLQ8Co3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Polkadot Decoded is a virtual conference for the Polkadot community, featuring talks and workshops on all things Polkadot.
 
