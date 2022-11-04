@@ -38,6 +38,12 @@ The winning solution of Cryptomice is currently being build together with EUIPO 
 
 In 2019, we organized the last physical Odyssey Hackathon, where 100 teams participated in 20 challenges.
 
+Watch the Odyssey Polaris opening Movie feat Charles Eisenstein:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtV8eBuprIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch the Official Odyssey Hackathon 2019 Aftermovie:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wnhpSLb30BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Odyssey Momentum
