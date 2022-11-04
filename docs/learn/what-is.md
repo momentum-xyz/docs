@@ -87,3 +87,9 @@ Within 3 months we delivered the community base of the Kusamaverse: https://kusa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmSJIEZQAyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Christel (co-founder) presentation at Polkadot Decoded in Berlin, May 2022 (newest material):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0wSLQ8Co3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
