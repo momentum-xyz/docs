@@ -64,14 +64,16 @@ In 2020, due to COVID we were forced to host the hackathon online. When we could
 
 In November 2020 we hosted the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. We had built our own Online Mass Collaboration Arena.
 
-
+&nbsp;
+&nbsp;
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaUYm2QShX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Within three months we built the very first version of Momentum, which went live in on November 15, 2020 during Odyssey Momentum (the first digital Odyssey Hackathon). During the hackathon we hosted 1600 people simultaneously in the same space, collaborating with experts.
 
-
+&nbsp;
+&nbsp;
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mwpj70Gcatg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -80,7 +82,8 @@ Within three months we built the very first version of Momentum, which went live
 
 After successfully hosting the Odyssey Hackathon online with Momentum, we chose to further develop the stack that we created. During the hackathon we understood the core utility and the foundation of our purpose. We supported the befriended company Bencom to host their company hackathon in Momentum.
 
-
+&nbsp;
+&nbsp;
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WnczF58GPo?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
