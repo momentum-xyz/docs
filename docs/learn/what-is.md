@@ -49,6 +49,7 @@ In 2019, we organized the last physical Odyssey Hackathon, where 100 teams parti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vc2Vfst1F54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
+<br />
 
 At Odyssey Polaris, nearly 350 highly curated international pioneers gathered to kick-off the Odyssey 2019 Open Innovation Program. We presented the challenges for the new season and upcoming hackathon. With challenges from different contexts, like energy, identity, cybersecurity, logistics, nature conservation, health care, and critical infrastructure, it is at Odyssey Polaris where we connected the dots.
 
@@ -56,6 +57,7 @@ At Odyssey Polaris, nearly 350 highly curated international pioneers gathered to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtV8eBuprIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
 <br />
 
 Watch the Official Odyssey Hackathon 2019 Aftermovie:
@@ -75,6 +77,7 @@ In November 2020 we hosted the 4th annual 48-hour Odyssey Hackathon with 3000 pa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaUYm2QShX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
+<br />
 
 Within three months we built the very first version of Momentum, which went live in on November 15, 2020 during Odyssey Momentum (the first digital Odyssey Hackathon). During the hackathon we hosted 1600 people simultaneously in the same space, collaborating with experts.
 
@@ -90,6 +93,7 @@ After successfully hosting the Odyssey Hackathon online with Momentum, we chose 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WnczF58GPo?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
 <br />
 
 During 2021 we experimented with a variety of clients for whom we build custom 3D worlds in which they hosted hackathons, gave classes, or hosted innovation competitions. Examples of client worlds we have built and are live: 
@@ -114,6 +118,7 @@ Within 3 months we delivered the community base of the Kusamaverse: https://kusa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmSJIEZQAyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
+<br />
 
 Christel (co-founder) presentation at Polkadot Decoded in Berlin, May 2022 (newest material):
 
@@ -121,6 +126,7 @@ Christel (co-founder) presentation at Polkadot Decoded in Berlin, May 2022 (newe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J0wSLQ8Co3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
 <br />
 
 Polkadot Decoded is a virtual conference for the Polkadot community, featuring talks and workshops on all things Polkadot.
