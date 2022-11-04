@@ -17,6 +17,9 @@ For us, the project is the primary unit for achieving results.
 Read more about our Summer 2022 Reboot projects here:
 https://myodyssey.medium.com/momentum-reboot-projects-c9fa7f4e8682
 
+And our journey from Berlin Decoded to Momentum Reboot:
+https://myodyssey.medium.com/our-journey-from-decoded-to-momentum-reboot-and-onwards-aad5a7ed7d11
+
 3. Show and tell
 
 Once a week, all projects present their progress, #wins and cockups for everyone's questions, tips and help.
