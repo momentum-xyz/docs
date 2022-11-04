@@ -22,6 +22,8 @@ Here we hosted 5 challenges of partners like The Dutch Chamber of Commerce, APG 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KB_iTbDrkxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
+
 ### Blockchaingers Hackathon
 
 In 2018, we organized our second, larger and growing hackathon, the Blockchaingers Hackathon. 63 teams working on 7 challenges.
@@ -29,6 +31,8 @@ In 2018, we organized our second, larger and growing hackathon, the Blockchainge
 <br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4h87L6IRu0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 ### Blockathon
 
@@ -70,6 +74,8 @@ In November 2020 we hosted the 4th annual 48-hour Odyssey Hackathon with 3000 pa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaUYm2QShX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
+
 Within three months we built the very first version of Momentum, which went live in on November 15, 2020 during Odyssey Momentum (the first digital Odyssey Hackathon). During the hackathon we hosted 1600 people simultaneously in the same space, collaborating with experts.
 
 <br />
@@ -83,6 +89,8 @@ After successfully hosting the Odyssey Hackathon online with Momentum, we chose 
 <br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WnczF58GPo?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 During 2021 we experimented with a variety of clients for whom we build custom 3D worlds in which they hosted hackathons, gave classes, or hosted innovation competitions. Examples of client worlds we have built and are live: 
 
