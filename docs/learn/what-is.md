@@ -44,10 +44,16 @@ In 2019, we organized the last physical Odyssey Hackathon, where 100 teams parti
 At Odyssey Polaris, nearly 350 highly curated international pioneers gathered to kick-off the Odyssey 2019 Open Innovation Program. We presented the challenges for the new season and upcoming hackathon. With challenges from different contexts, like energy, identity, cybersecurity, logistics, nature conservation, health care, and critical infrastructure, it is at Odyssey Polaris where we connected the dots.
 
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtV8eBuprIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
 Watch the Official Odyssey Hackathon 2019 Aftermovie:
+
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wnhpSLb30BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,15 +64,24 @@ In 2020, due to COVID we were forced to host the hackathon online. When we could
 
 In November 2020 we hosted the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. We had built our own Online Mass Collaboration Arena.
 
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaUYm2QShX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Within three months we built the very first version of Momentum, which went live in on November 15, 2020 during Odyssey Momentum (the first digital Odyssey Hackathon). During the hackathon we hosted 1600 people simultaneously in the same space, collaborating with experts.
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mwpj70Gcatg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Developing Momentum further
 
 After successfully hosting the Odyssey Hackathon online with Momentum, we chose to further develop the stack that we created. During the hackathon we understood the core utility and the foundation of our purpose. We supported the befriended company Bencom to host their company hackathon in Momentum.
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2WnczF58GPo?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -88,10 +103,16 @@ When we felt a click with the DOTSAMA ecosystem, we went head first into buildin
 Within 3 months we delivered the community base of the Kusamaverse: https://kusama.momentum.xyz/
 
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UmSJIEZQAyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
 Christel (co-founder) presentation at Polkadot Decoded in Berlin, May 2022 (newest material):
+
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J0wSLQ8Co3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
