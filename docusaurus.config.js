@@ -54,8 +54,8 @@ async function createConfig() {
           // Plugin Options for loading OpenAPI files
           specs: [
             {
-              spec: 'https://kusama.momentum.xyz/api/v3/backend/docs-json',
-              route: '/api/',
+              spec: 'https://momentum-xyz.github.io/ubercontroller/swagger.json',
+              route: '/api/develop/',
               layout: {
                 title: 'Momentum API',
               },
