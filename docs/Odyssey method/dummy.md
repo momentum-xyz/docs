@@ -64,6 +64,8 @@ Add a Google Document in Momentum from the left menu and give ‘anyone with the
 
 ![Docs2](docs2.png)
 
+![Docsaccess](docsaccess.png)
+
 **3\. Encourage fun with Emojis**
 
 There’s nothing quite like seeing a stream of hearts at the perfect time. Encourage it and you’ll brighten up your AMA.♥️
@@ -71,6 +73,8 @@ There’s nothing quite like seeing a stream of hearts at the perfect time. Enco
 People in Momentum space can react with Emoji throughout the entire AMA session, to express their emotions and show their engagement with the front runner and the topic. If a minimum of 10 users react with the same emoji - a MEGAmoji effect will be triggered ;)
 
 Emojis can be found right in the bottom left of Momentum. 👇
+
+![Emojii](emojii.png)
 
 **4\. Stage mode + Chat + Miro board or Google Doc + Emojis can be used at the same time!**
 
