@@ -121,20 +121,17 @@ async function createConfig() {
             },
             //{to: 'api', label: 'API', position: 'left'},
             {
-              type: 'doc',
-              docId: 'about-odyssey/about-odyssey',
+              to: 'about-us',
               position: 'right',
               label: 'About',
             },
             {
-              type: 'doc',
-              docId: 'contact-us/contact-us',
+              to: 'get-in-touch',
               position: 'right',
               label: 'Contact',
             },
             {
-              type: 'doc',
-              docId: 'careers/careers',
+              to: 'careers',
               position: 'right',
               label: 'Careers',
             },
@@ -155,11 +152,23 @@ async function createConfig() {
           style: 'dark',
           links: [
             {
-              title: 'Docs',
+              title: 'Discover Odyssey',
               items: [
                 {
-                  label: 'Learn',
-                  to: '/learn/what-is',
+                  label: 'What is Odyssey?',
+                  to: '/what-is-odyssey/what-is-odyssey',
+                },
+                {
+                  label: 'Get Started',
+                  to: '/create-your-odyssey/create-your-odyssey',
+                },
+                {
+                  label: 'Explore the features',
+                  to: '/explore-the-features/explore-the-features',
+                },
+                {
+                  label: 'Build (Developers)',
+                  to: '/build/getting-started',
                 },
               ],
             },
@@ -172,16 +181,40 @@ async function createConfig() {
                 },
                 {
                   label: 'Twitter',
-                  href: 'https://twitter.com/docusaurus',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'Telegram',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'YouTube',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'Medium',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'LinkedIn',
+                  href: 'https://twitter.com/MomentumXYZ',
                 },
               ],
             },
             {
-              title: 'More',
+              title: 'Bits and bobs',
               items: [
                 {
-                  label: 'Momentum.xyz',
-                  href: 'https://momentum.xyz',
+                  label: 'About us',
+                  to: 'about-us',
+                },
+                {
+                  label: 'Get in touch',
+                  to: 'get-in-touch',
+                },
+                {
+                  label: 'Careers',
+                  to: 'careers',
                 },
               ],
             },
