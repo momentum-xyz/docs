@@ -89,18 +89,24 @@ async function createConfig() {
           isCloseable: false,
         },
         navbar: {
-          title: 'Momentum',
+          title: 'Odyssey',
           logo: {
-            alt: 'Momentum Logo',
-            src: 'img/flamingo_cyan.svg',
-            srcDark: 'img/flamingo_white.svg',
+            alt: 'Odyssey Logo',
+            src: 'img/flamingo_cyan.svg', //need to change logo when available
+            srcDark: 'img/flamingo_white.svg', //need to change logo when available
           },
           items: [
             {
               type: 'doc',
-              docId: 'learn/what-is',
+              docId: 'create-your-odyssey/create-your-odyssey',
               position: 'left',
-              label: 'Learn',
+              label: 'Create',
+            },
+            {
+              type: 'doc',
+              docId: 'explore-the-features/explore-the-features',
+              position: 'left',
+              label: 'Explore',
             },
             {
               type: 'doc',
@@ -109,12 +115,29 @@ async function createConfig() {
               label: 'Build',
             },
             {
-              type: 'doc',
-              docId: 'Odyssey method/How to',
+              to: 'api/develop',
               position: 'left',
-              label: 'Odyssey method',
+              label: 'API',
             },
             //{to: 'api', label: 'API', position: 'left'},
+            {
+              type: 'doc',
+              docId: 'about-odyssey/about-odyssey',
+              position: 'right',
+              label: 'About',
+            },
+            {
+              type: 'doc',
+              docId: 'contact-us/contact-us',
+              position: 'right',
+              label: 'Contact',
+            },
+            {
+              type: 'doc',
+              docId: 'careers/careers',
+              position: 'right',
+              label: 'Careers',
+            },
             {
               href: 'https://github.com/momentum-xyz/',
               label: 'GitHub',
