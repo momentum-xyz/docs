@@ -216,6 +216,10 @@ async function createConfig() {
                   label: 'Careers',
                   to: 'careers',
                 },
+                {
+                  label: 'Legal',
+                  to: 'legal/privacy-policy',
+                },
               ],
             },
           ],
