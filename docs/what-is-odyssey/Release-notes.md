@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 ## Release Notes
 
 Discover how Momentum is evolving over time.
