@@ -92,25 +92,25 @@ async function createConfig() {
           title: 'Odyssey',
           logo: {
             alt: 'Odyssey Logo',
-            src: 'img/flamingo_cyan.svg', //need to change logo when available
-            srcDark: 'img/flamingo_white.svg', //need to change logo when available
+            src: 'img/odyssey-icon-black-small.png', //need to change logo when available
+            srcDark: 'img/odyssey-icon-white-small.png', //need to change logo when available
           },
           items: [
             {
-              type: 'doc',
-              docId: 'create-your-odyssey/create-your-odyssey',
+              to: 'create-your-odyssey',
+              //docId: 'create-your-odyssey/create-your-odyssey',
               position: 'left',
               label: 'Create',
             },
             {
-              type: 'doc',
-              docId: 'explore-the-features/explore-the-features',
+              to: 'explore-the-features',
+              //docId: 'explore-the-features/explore-the-features',
               position: 'left',
               label: 'Explore',
             },
             {
-              type: 'doc',
-              docId: 'build/getting-started',
+              to: 'build/getting-started',
+              //docId: 'build/getting-started',
               position: 'left',
               label: 'Build',
             },
@@ -181,7 +181,7 @@ async function createConfig() {
                 },
                 {
                   label: 'Twitter',
-                  href: 'https://twitter.com/MomentumXYZ',
+                  href: 'https://twitter.com/odysseycreator',
                 },
                 {
                   label: 'Telegram',
