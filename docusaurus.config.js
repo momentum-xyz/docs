@@ -218,7 +218,7 @@ async function createConfig() {
                 },
                 {
                   label: 'Legal',
-                  to: 'legal/privacy-policy',
+                  to: 'legal',
                 },
               ],
             },
