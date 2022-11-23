@@ -1,14 +1,9 @@
 ---
 sidebar_position: 3
 ---
-
 # Roadmap
+At Odysset we don't have a roadmap like one normally encounters in other companies. We have a map (aka a set of destinations that we would like to reach), and we are sure there is a road in front of us.
 
-This is our roadmap for 2022-2023; a virtual living space for the flock to gather, bring new members in, find and share our flow and map our route forward together.
+Neveretheless, you—the user—will determine which places on the map we will visit first, which features we will realease. Your feedback, participation, and opinions are fundamental in the development of Odyssey, and we want your voice to be heard.
+## How to let us know what features you need
 
-It is here that we get a feeling for the inherent culture of our team, find the way of life at Odyssey momentum and get to see a little more colour behind the names we work with.
-
-We have mapped the seven tracks on a timeline for the upcoming year and set milestones so that we may find our way when we are flying a million miles a minute. There is an organisational structure so that anyone may better understand how we fit together as well as a how to do what we do section.
-
-View the roadmap 2022-2023 here:
-https://miro.com/app/board/uXjVPadNkT0=/?share_link_id=597044697980
