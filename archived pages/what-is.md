@@ -1,9 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
 # What is Momentum?
-
 Momentum is software stack used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
 
 Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of COVID, this couldn’t happen physically. So we built our own Online Mass Collaboration Arena.

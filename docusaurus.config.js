@@ -9,13 +9,13 @@ async function createConfig() {
 
   /** @type {import('@docusaurus/types').Config} */
   const config = {
-    title: 'Momentum',
+    title: 'Odyssey',
     tagline: 'Enabling digital societies to create, build and scale together in a decentralized metaverse network',
-    url: 'https://momentum.xyz',
+    url: 'https://odyssey.org',
     baseUrl: process.env.BASE_URL || '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/rabbit-favicon-dark.png',
 
     // GitHub pages deployment config.
     organizationName: 'momentum-xyz',
@@ -92,8 +92,8 @@ async function createConfig() {
           title: 'Odyssey',
           logo: {
             alt: 'Odyssey Logo',
-            src: 'img/odyssey-icon-black-small.png', //need to change logo when available
-            srcDark: 'img/odyssey-icon-white-small.png', //need to change logo when available
+            src: 'img/rabbit-dark.svg', //need to change logo when available
+            srcDark: 'img/rabbit-white.svg', //need to change logo when available
           },
           items: [
             {
