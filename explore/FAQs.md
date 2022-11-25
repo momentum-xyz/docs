@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 sidebar_label: FAQs
-title: Frequently Asked Questions FAQs
+title: Frequently Asked Questions FAQs | Odyssey
 ---
 
 # What is Momentum?
