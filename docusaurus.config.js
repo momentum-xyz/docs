@@ -240,6 +240,7 @@ async function createConfig() {
           darkTheme: darkCodeTheme,
         },
       }),
+    /*
     plugins: [
       [
       '@docusaurus/plugin-client-redirects',
@@ -257,6 +258,7 @@ async function createConfig() {
       }
       ],
     ],
+    */
   };
   return config;
 }
