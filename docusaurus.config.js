@@ -13,7 +13,7 @@ async function createConfig() {
     tagline: 'Enabling digital societies to create, build and scale together in a decentralized metaverse network',
     url: 'https://odyssey.org',
     baseUrl: process.env.BASE_URL || '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/rabbit-favicon-green-black.png',
 
