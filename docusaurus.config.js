@@ -15,7 +15,7 @@ async function createConfig() {
     baseUrl: process.env.BASE_URL || '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/rabbit-favicon-dark.png',
+    favicon: 'img/rabbit-favicon-green-black.png',
 
     // GitHub pages deployment config.
     organizationName: 'momentum-xyz',
@@ -93,7 +93,7 @@ async function createConfig() {
           logo: {
             alt: 'Odyssey Logo',
             src: 'img/rabbit-dark.svg', //need to change logo when available
-            srcDark: 'img/rabbit-white.svg', //need to change logo when available
+            srcDark: 'img/rabbit-dark.svg', //need to change logo when available
           },
           items: [
             {
@@ -142,6 +142,8 @@ async function createConfig() {
             },
           ],
         },
+        metadata: [{name: 'keywords', content: 'web3, social, world building'}],
+    // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
         docs: {
           sidebar: {
             hideable: true,

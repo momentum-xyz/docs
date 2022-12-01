@@ -27,5 +27,5 @@ All functionality within your Odyssey is powered through a system of plugins. Ou
 We will be adding new tools and ways of building your Odyssey **code free**. Our aim is to allow *everyone* to create their perfect vision of their Odyssey, independently of their technical knowledge: whatever your skill, whatever your journey, we want you to be a part of this!
 ## Decentralisation
 Currently, all content is hosted on our servers, which is the very opposite direction we want to go! We believe in Web 3.0, and we promised that you will be the owner of anything you create. In the coming months, we will be moving to a decentralised hosting solution—allowing anyone to run their Odyssey node(s) on their own hardware. For this is the Web3 way!<br />
-![Dogecoin dressed as Grugu saying as this is the way](https://media.giphy.com/media/ovoSTOyTon8I9xTvKF/giphy.gif)
+![Dogecoin dressed as Grugu saying as this is the way](https://media.giphy.com/media/ovoSTOyTon8I9xTvKF/giphy.gif 'Dogecoin this is the way gif')
 ## How to let us know what features you need
