@@ -19,9 +19,14 @@
  * Forms bg: #132247
  * Stacking yellow: #FFD300
  * */
+ @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Rajdhani:wght@300;400;500;600;700&display=swap');
 :root {
-  --momentum-green: #01ffb3;
+  --momentum-green: #157e99;
+  --momentum-green-light: #157e99;
   --momentum-flamingo: #f24dff;
+  --ifm-font-family-base: 'IBM Plex Sans', sans-serif;
+  --ifm-heading-font-family: 'IBM Plex Sans', sans-serif;
+  --ifm-heading-font-weight: 700;
 
   --site-primary-hue-saturation: 55 68%;
 
@@ -32,18 +37,41 @@
   --ifm-color-primary-light: #05194c;
   --ifm-color-primary-lighter: #061a4f;
   --ifm-color-primary-lightest: #061e5a;
-
+  --ifm-breadcrumb-border-radius: 0px;
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 [data-theme='dark'] {
-  --ifm-color-primary: #01ffb3;
-  --ifm-color-primary-dark: #00e6a1;
-  --ifm-color-primary-darker: #00da98;
-  --ifm-color-primary-darkest: #00b37e;
-  --ifm-color-primary-light: #1bffbb;
-  --ifm-color-primary-lighter: #27ffbe;
-  --ifm-color-primary-lightest: #4effca;
+  --ifm-color-primary: #4bfff4;
+  --ifm-color-primary-dark: #2afff2;
+  --ifm-color-primary-darker: #1afff1;
+  --ifm-color-primary-darkest: #00e7d9;
+  --ifm-color-primary-light: #6cfff6;
+  --ifm-color-primary-lighter: #7cfff7;
+  --ifm-color-primary-lightest: #aefffa;
+
+  /*
+  --ifm-color-secondary: #f24dff;
+  --ifm-color-secondary-dark: #f02cff;
+  --ifm-color-secondary-darker: #ee1bff;
+  --ifm-color-secondary-darkest: #d700e8;
+  --ifm-color-secondary-light: #f46eff;
+  --ifm-color-secondary-lighter: #f67fff;
+  --ifm-color-secondary-lightest: #f9b1ff;
+  */
+
+  .mermaid svg {
+      background-color: #fff;
+  }
+}
+[data-theme='light'] {
+  --ifm-color-primary: #157e99;
+  --ifm-color-primary-dark: #13718a;
+  --ifm-color-primary-darker: #126b82;
+  --ifm-color-primary-darkest: #0f586b;
+  --ifm-color-primary-light: #157f9b;
+  --ifm-color-primary-lighter: #15819c;
+  --ifm-color-primary-lightest: #16829e;
 
   /*
   --ifm-color-secondary: #f24dff;
@@ -60,6 +88,8 @@
   }
 }
 
+
+
 div[class^='announcementBar_'] {
   --site-announcement-bar-stripe-color1: hsl(
     var(--site-primary-hue-saturation) 85%
@@ -75,4 +105,13 @@ div[class^='announcementBar_'] {
     var(--site-announcement-bar-stripe-color2) 40px
   );
   font-weight: bold;
+}
+
+p {
+  font-size: 120%;
+  font-weight: 500;
+}
+
+.table-of-contents__link {
+  font-size: 110%;
 }

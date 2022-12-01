@@ -9,13 +9,13 @@ async function createConfig() {
 
   /** @type {import('@docusaurus/types').Config} */
   const config = {
-    title: 'Momentum',
+    title: 'Odyssey',
     tagline: 'Enabling digital societies to create, build and scale together in a decentralized metaverse network',
-    url: 'https://momentum.xyz',
+    url: 'https://odyssey.org',
     baseUrl: process.env.BASE_URL || '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/rabbit-favicon-green-black.png',
 
     // GitHub pages deployment config.
     organizationName: 'momentum-xyz',
@@ -89,32 +89,52 @@ async function createConfig() {
           isCloseable: false,
         },
         navbar: {
-          title: 'Momentum',
+          title: 'Odyssey',
           logo: {
-            alt: 'Momentum Logo',
-            src: 'img/flamingo_cyan.svg',
-            srcDark: 'img/flamingo_white.svg',
+            alt: 'Odyssey Logo',
+            src: 'img/rabbit-dark.svg', //need to change logo when available
+            srcDark: 'img/rabbit-dark.svg', //need to change logo when available
           },
           items: [
             {
-              type: 'doc',
-              docId: 'learn/what-is',
+              to: 'create-your-odyssey',
+              //docId: 'create-your-odyssey/create-your-odyssey',
               position: 'left',
-              label: 'Learn',
+              label: 'Create',
             },
             {
-              type: 'doc',
-              docId: 'build/getting-started',
+              to: 'explore-the-features',
+              //docId: 'explore-the-features/explore-the-features',
+              position: 'left',
+              label: 'Explore',
+            },
+            {
+              to: 'build/getting-started',
+              //docId: 'build/getting-started',
               position: 'left',
               label: 'Build',
             },
             {
-              type: 'doc',
-              docId: 'Odyssey method/How to',
+              to: 'api/develop',
               position: 'left',
-              label: 'Odyssey method',
+              label: 'API',
             },
             //{to: 'api', label: 'API', position: 'left'},
+            {
+              to: 'about-us',
+              position: 'right',
+              label: 'About',
+            },
+            {
+              to: 'get-in-touch',
+              position: 'right',
+              label: 'Contact',
+            },
+            {
+              to: 'careers',
+              position: 'right',
+              label: 'Careers',
+            },
             {
               href: 'https://github.com/momentum-xyz/',
               label: 'GitHub',
@@ -122,6 +142,8 @@ async function createConfig() {
             },
           ],
         },
+        metadata: [{name: 'keywords', content: 'web3, social, world building'}],
+    // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
         docs: {
           sidebar: {
             hideable: true,
@@ -132,11 +154,23 @@ async function createConfig() {
           style: 'dark',
           links: [
             {
-              title: 'Docs',
+              title: 'Discover Odyssey',
               items: [
                 {
-                  label: 'Learn',
-                  to: '/learn/what-is',
+                  label: 'What is Odyssey?',
+                  to: '/what-is-odyssey/what-is-odyssey',
+                },
+                {
+                  label: 'Get Started',
+                  to: '/create-your-odyssey/create-your-odyssey',
+                },
+                {
+                  label: 'Explore the features',
+                  to: '/explore-the-features/explore-the-features',
+                },
+                {
+                  label: 'Build (Developers)',
+                  to: '/build/getting-started',
                 },
               ],
             },
@@ -149,16 +183,44 @@ async function createConfig() {
                 },
                 {
                   label: 'Twitter',
-                  href: 'https://twitter.com/docusaurus',
+                  href: 'https://twitter.com/odysseycreator',
+                },
+                {
+                  label: 'Telegram',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'YouTube',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'Medium',
+                  href: 'https://twitter.com/MomentumXYZ',
+                },
+                {
+                  label: 'LinkedIn',
+                  href: 'https://twitter.com/MomentumXYZ',
                 },
               ],
             },
             {
-              title: 'More',
+              title: 'Bits and bobs',
               items: [
                 {
-                  label: 'Momentum.xyz',
-                  href: 'https://momentum.xyz',
+                  label: 'About us',
+                  to: 'about-us',
+                },
+                {
+                  label: 'Get in touch',
+                  to: 'get-in-touch',
+                },
+                {
+                  label: 'Careers',
+                  to: 'careers',
+                },
+                {
+                  label: 'Legal',
+                  to: 'legal',
                 },
               ],
             },
