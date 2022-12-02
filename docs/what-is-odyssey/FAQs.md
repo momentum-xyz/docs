@@ -5,4 +5,5 @@ title: Frequently Asked Questions - FAQs
 ---
 ## Under contruction
 We are gathering feedback, and #your FAQs will come soon!
+
 ![Smiling guy saying "Stay tuned"](https://media.giphy.com/media/fnDY3C9MKukcER71r7/giphy.gif)
