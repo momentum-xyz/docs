@@ -4,15 +4,15 @@ sidebar_position: 2
 
 # Third party services
 
-The Momentum stack depends on a couple of other applications that are created and maintained by third parties.
+The Odyssey stack depends on a couple of other applications that are created and maintained by third parties.
 
 
-![Diagram of 3rd party services/applications in use by Momentum](diagrams/momentum-3rd-party-services.svg "3rd party services or applications in use.")
+![Diagram of 3rd party services/applications in use by the Odyssey Stack](diagrams/momentum-3rd-party-services.svg "3rd party services or applications in use.")
 
 
 ## Frontend
 
-Momentum makes use of several external online services to provide collaboration tools inside the Momentum dashboards. All these are commercially available tools, delivered/used as ‘Software-As-A-Service’.[^1]
+The Odyssey stack makes use of several external online services to provide collaboration tools inside Odyssey dashboards. All these are commercially available tools, delivered/used as ‘Software-As-A-Service’.[^1]
 
 
 #### [Miro](https://miro.com/online-whiteboard/)
@@ -31,7 +31,7 @@ Online collaboration with voice, video and text chat.
 
 ## Backend
 
-The Momentum stack depends on running several applications that are created by third party organisations. All of them are open-source and can be run together with the Momentum stack.
+The Odyssey stack depends on running several applications that are created by third party organisations. All of them are open-source and can be run together with the Momentum stack.
 
 
 ### [Mysql](https://www.mysql.com/)
