@@ -5,7 +5,7 @@ sidebar_position: 1
 slug: /
 ---
 # What is Odyssey?
-*Odyssey is the place where our imaginations meet to co-create, connect, and monetise adventures, quests, and journeys.*
+*Odyssey is the place where our imaginations meet to co-create, connect, and tokenise adventures, quests, and journeys.*
 
 But what does that mean exactly? The goal of Odyssey is to empower you to discover the deeper parts of yourself, of your *innerverse*, and share this epic quest of discovery with whomever you like. More than that, you can turn that into *real value*. We provide the tools, the platform, and the network. You provide the insights, the inspiration, and the passion. Together, we create something unique that lives and evolves on the blockchain, and is completely owned by you.
 
