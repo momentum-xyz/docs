@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# Momentum domain model
+# Odyssey domain model
 
 This is the abstract, high level, model which is the foundation for the actual data model and the whole application.
 
@@ -10,7 +10,7 @@ The base model for the data in the application is a very generic model, so that 
 The simplified model of the main entities is:
 
 
-![Momentum space and user model](diagrams/momentum-domain-model.svg "Diagram of the main data models.")
+![Odyssey space and user model](diagrams/momentum-domain-model.svg "Diagram of the main data models.")
 
 [comment]: # (https://docs.google.com/drawings/d/1at4ZBDjI00OIFRPuWwsMHqmMF8RRRa08-Vn-AtUrMzk/edit?usp=sharing)
 
