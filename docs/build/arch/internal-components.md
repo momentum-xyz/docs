@@ -53,7 +53,7 @@ Instance of [Ory Hydra]. Manages the authentication session tokens.
 - Receives (private) API calls from API and controller to verify authentication tokens.
 
 
-### Momentum API
+### Odyssey API
 HTTP JSON API.
 
 - Receives calls from [ui-client].
