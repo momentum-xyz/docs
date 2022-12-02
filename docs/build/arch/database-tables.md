@@ -1,11 +1,11 @@
 ---
 sidebar_position: 5
 ---
-# Momentum database
+# Odyssey database
 
-Momentum uses a relational database to store the state of worlds and its users.
+Odyssey uses a relational database to store the state of worlds and its users.
 
-Each momentum node/hosting environment uses a single database to store the state of multiple worlds.
+Each Odyssey node/hosting environment uses a single database to store the state of multiple worlds.
 
 
 ## Tables
