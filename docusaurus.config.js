@@ -10,7 +10,7 @@ async function createConfig() {
   /** @type {import('@docusaurus/types').Config} */
   const config = {
     title: 'Odyssey',
-    tagline: 'Enabling digital societies to create, build and scale together in a decentralized metaverse network',
+    tagline: 'The place where our imaginations meet to create together, connect, and tokenise adventures, quests, and journeys.',
     url: 'https://odyssey.org',
     baseUrl: process.env.BASE_URL || '/',
     onBrokenLinks: 'warn',
@@ -93,7 +93,7 @@ async function createConfig() {
           logo: {
             alt: 'Odyssey Logo',
             src: 'img/rabbit-dark.svg', //need to change logo when available
-            srcDark: 'img/rabbit-dark.svg', //need to change logo when available
+            srcDark: 'img/rabbit-light.svg', //need to change logo when available
           },
           items: [
             {
@@ -187,19 +187,19 @@ async function createConfig() {
                 },
                 {
                   label: 'Telegram',
-                  href: 'https://twitter.com/MomentumXYZ',
+                  href: 'https://t.me/odysseycreator',
                 },
                 {
                   label: 'YouTube',
-                  href: 'https://twitter.com/MomentumXYZ',
+                  href: 'https://www.youtube.com/@odysseycreator',
                 },
                 {
                   label: 'Medium',
-                  href: 'https://twitter.com/MomentumXYZ',
+                  href: 'https://medium.com/@myodyssey',
                 },
                 {
                   label: 'LinkedIn',
-                  href: 'https://twitter.com/MomentumXYZ',
+                  href: 'https://www.linkedin.com/company/odysseycreator/',
                 },
               ],
             },
