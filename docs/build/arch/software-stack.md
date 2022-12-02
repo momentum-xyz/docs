@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# Momentum software stack
+# Odyssey software stack
 
-High level overview of the different parts of the momentum application.
+High level overview of the different parts of the Odyssey application.
 
 
 ![alt_text](diagrams/momentum-stack.svg "image_tooltip")
@@ -11,7 +11,7 @@ High level overview of the different parts of the momentum application.
 [comment]: # (https://docs.google.com/drawings/d/1coUAALL0HqD2DUdqWUQWi5p2p509StLqORKcBMJMIIo/edit?usp=sharing)
 
 
-Momentum is a web application accessible by any modern web browser.
+Odyssey is a web application accessible by any modern web browser.
 
 
 ## Frontend
