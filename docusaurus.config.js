@@ -78,12 +78,12 @@ async function createConfig() {
         colorMode: {
           defaultMode: 'dark',
           disableSwitch: false,
-          respectPrefersColorScheme: true,
+          respectPrefersColorScheme: false,
         },
         announcementBar: {
           id: 'annoucement_wip',
           content:
-            'Work In Progress...',
+            'Work in Progress...',
           backgroundColor: '#fafbfc',
           textColor: '#091E42',
           isCloseable: false,
