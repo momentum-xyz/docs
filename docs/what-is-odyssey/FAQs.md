@@ -4,9 +4,9 @@ sidebar_label: FAQs
 title: Frequently Asked Questions FAQs
 ---
 
-# What is Momentum?
+# What is Odyssey?
 
-Momentum is software stack used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
+Odyssey is software stack used to build browser based 3D worlds without physical restraints and *with* utility, enabling collective online and on-chain activities in a massively multiplayer setting.
 
 Originated in 2020 to solve our own problem: hosting the 4th annual 48-hour Odyssey Hackathon with 3000 participants from 60 countries. Because of COVID, this couldn’t happen physically. So we built our own Online Mass Collaboration Arena.
 
@@ -132,4 +132,8 @@ Christel (co-founder) presentation at Polkadot Decoded in Berlin, May 2022 (newe
 <br />
 
 Polkadot Decoded is a virtual conference for the Polkadot community, featuring talks and workshops on all things Polkadot.
+
+### The Odyssey begins...
+
+In Decemeber 2022, the company pivoted and renamed the Momentum Stack the Odyssey Stack, reflecting a change in our focus and a new mission to empower everyone to create their own metaverse: built by them, owned by them and governed by them. 
 
