@@ -22,7 +22,7 @@ Web 3.0 taught us that creators, artists, and everyone looking for am uncompromi
 |**2018**|Second physical hackathon program - 1000 participants|
 ||Physical hackathon for European Commission & EUIPO in Brussels|
 |**2019**|Third physical hackathon program  - 1500 participants|
-|**2020**|Picot into online hackathon in Momentum - 2500 participants|
+|**2020**|Pivot into online hackathon in Momentum - 2500 participants|
 |**2021**|Built multiple 3D worlds for and refined Momentum with corporates, governments, NGOs, and universities|
 ||Secured 4M euro seed funding|
 ||Pivot from Web 2.0 to Web 3.0|
