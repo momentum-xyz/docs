@@ -10,7 +10,7 @@ Each Odyssey node/hosting environment uses a single database to store the state 
 
 ## Tables
 
-NOTE: This list is never up to date.
+NOTE: This list is never up-to-date.
 
 TODO: Add descriptions as comments to the database schema, so this can be automatically generated and kept up to date in the database schema itself.
 
@@ -265,10 +265,9 @@ The _attributes_ table defines which ones are available. These can then either b
 
 #### Dashboards
 
-A _space_type_ has an ui_type, which a space instance can override, to specify the (2d) user interface that is shown when a user interacts with it. So (currently) a ui_type represents a 2D dashboard with ‘tiles’. A column in _space_type_ defines the default tiles that are created.
+A _space_type_ has an ui_type, which a space instance can override, to specify the (2d) user interface that is shown when a user interacts with it. So (currently) an ui_type represents a 2D dashboard with ‘tiles’. A column in _space_type_ defines the default tiles that are created.
 
 
 #### Token gated access
 
 Access to a space can be controlled with ‘tokens’ on a blockchain. A blockchain is monitored for changes for certain tokens and the user accounts that own these tokens are then given permissions. The _token_rules_ table defined the rules applied to a token defined in the _token_ tables. It supports different blockchain, which are defined in the _networks_ table. The permissions are regulated by the user_id column which points to a user entity which acts as a Group. The actual end user entities (which have an entry in _user_wallets_ that own the tokens) are then made a member of this user group.
-

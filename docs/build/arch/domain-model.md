@@ -5,7 +5,7 @@ sidebar_position: 3
 
 This is the abstract, high level, model which is the foundation for the actual data model and the whole application.
 
-The base model for the data in the application is a very generic model, so that it is flexible to support many different types of worlds/use cases. This means this model doesn’t contain any world specific entities but everything is built around types that can be configured for each world.
+The base model for the data in the application is a very generic model, so that it is flexible to support many types of worlds/use cases. This means this model doesn’t contain any world specific entities, but everything is built around types that can be configured for each world.
 
 The simplified model of the main entities is:
 
@@ -50,9 +50,9 @@ Users are initially created without any connection. But can then later be added 
 
 ## User space membership
 
-Between the main two entities is a many to many relationship. This relationship facilitates the permission model. Users can be made a ‘space member’ of a certain space. This relation currently has a single additional property (`isAdmin`) that allows an ‘admin’ role to be defined.
+Between the main two entities is a many-to-many relationship. This relationship facilitates the permission model. Users can be made a ‘space member’ of a certain space. This relation currently has a single additional property (`isAdmin`) that allows an ‘admin’ role to be defined.
 
-If a user has the admin role for a space, it is also considered to be an admin for all the children spaces underneath it. Since a node is also a space, giving somebody the admin role for the node, gives them the superpowers to administer _all_ of the worlds and their spaces on a node. 
+If a user has the admin role for a space, it is also considered to be an admin for all the children spaces underneath it. Since a node is also a space, giving somebody the admin role for the node, gives them the superpowers to administer *all* the worlds and their spaces on a node. 
 
 This same mechanism can be used by a world owner to give specific users administrative powers over a specific part of the world.
 
@@ -62,11 +62,11 @@ The user hierarchy can be used to ease maintaining these permission roles, by cr
 
 [comment]: # (https://docs.google.com/drawings/d/1k080zS7_IeNzkreINazEwtvJok9X6i0kZ_XFFs8jk5Y/edit?usp=sharing)
 
-Example to lookup the members (or admins) of a space:
-Check the space membership, walking 'up' the space hierachy and for each user walk 'down' the user hierarchy to find all the users.
+Example to look up the members (or admins) of a space:
+Check the space membership, walking 'up' the space hierarchy and for each user walk 'down' the user hierarchy to find all the users.
 
-Example to lookup the spaces of a user:
-Check user membership parents, walking 'up' the user hierachy and for each user check the space user membership and walk 'down' the space hierarchy to find all the spaces.
+Example to look up the spaces of a user:
+Check user membership parents, walking 'up' the user hierarchy and for each user check the space user membership and walk 'down' the space hierarchy to find all the spaces.
 
 ## Space types
 
@@ -74,5 +74,4 @@ The type of a space is used for two things: Control the usage and constraints of
 
 ## User types
 
-Controls who and how the users are managed. E.g. end user accounts vs. automatically generated ‘system’ users, which are used as groups or roles.
-
+Controls who and how the users are managed (e.g., end user accounts vs. automatically generated ‘system’ users, which are used as groups or roles).

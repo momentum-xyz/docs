@@ -46,7 +46,7 @@ Message bus, used for communication between different internal services.
 
 ### [Hydra](https://www.ory.sh/hydra/)
 
-Authentication of users (e.g. the guest and polkadot wallet logins), through the OIDC standard.
+Authentication of users (e.g. the guest and Polkadot wallet logins), through the OIDC standard.
 
 
 ### [InfluxDB](https://www.influxdata.com/products/influxdb-overview/)
@@ -68,8 +68,7 @@ Ethereum blockchain ‘nodes’.
 ## Notes
 
 [^1]:
-     These are just the current ones, will become pluggable, so can become any other 3th party service.
+     These are just the current ones, will become pluggable, so can become any other 3rd-party service.
 
 [^2]:
      Currently the backend uses a node managed by us. Frontend (staking) uses a common public node from Kusama.
-

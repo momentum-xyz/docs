@@ -19,7 +19,7 @@ It loads [unity-client](#unity-client).
 - Retrieves (push) messages from Controller (posbus).
 - Redirects to authorization service for authentication.
 - API calls to identity providers for login.
-- API calls to block chain(s) (polkadot.js)
+- API calls to blockchain(s) (polkadot.js)
 
 ### Unity-client
 
@@ -66,7 +66,7 @@ HTTP JSON API.
 
 
 ### Controller
-Custom (binary) protocol to push real time updates through a websocket.
+Custom (binary) protocol to push real time updates through a WebSocket.
 
 - Sends and receives messages from unity-client.
 - Calls Momentum API to verify tokens (JWT).
@@ -77,8 +77,8 @@ Custom (binary) protocol to push real time updates through a websocket.
 ### Media manager
 Service to manage storing (large) binary files/data uploaded by users.
 
-- Receives calls with a file from Momentum API, returns an unique hash ID.
-- Sends files to frontends. e.g 3D textures, music files or avatar images.
+- Receives calls with a file from Momentum API, returns a unique hash ID.
+- Sends files to frontends (e.g, 3D textures, music files or avatar images).
 
 
 ### InfluxDB
