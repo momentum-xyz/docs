@@ -1,9 +1,9 @@
 ---
-title: Explore the features | Odyssey
+title: Explore the features
+description: To get you started with Odyssey, we'll give a rundown of all the main features and what you can do in your space.
 sidebar_label: Explore the features
 sidebar_position: 1
 ---
-# Explore the features
 The main concepts you need to be familiar with are the following (we have in-depth dedicated pages too):
 - *Odyssey Creator*. It's your source of power, you will head hear anytime you want to add something to your Odyssey
 - *Objects*. These are the assets that make up your Odyssey, we give you some to get started with, but you can also import your own!

@@ -1,8 +1,10 @@
 ---
+title: The legal stuff
+description: Odyssey's privacy policy and other legal bits
 toc_min_heading_level: 2
 toc_max_heading_level: 2
+hide_table_of_contents: false
 ---
-# The legal stuff
 ## Privacy policy
 This Privacy Policy applies to the processing of personal data by Odyssey B.V. and its affiliates (together: “Odyssey” or “we”). This includes the processing of personal data within the context of our services such as our Momentum online mass collaboration platform (“the Momentum Platform”) the Odyssey Horizon Program (“the Program“) and through our website: [https://www.odyssey.org/](https://www.odyssey.org/) (“the Website”).
 
@@ -12,7 +14,7 @@ Odyssey is the so-called controller in the sense of the General Data Protection 
 
 If, after reading our Privacy Policy, or in a more general sense, you have any questions or wish to contact us, you can do so via the contact details at the end of this Privacy Policy.
 ### Which personal data do we collect and for which purposes? 
-We process personal data of users and customers of our services, including the Momentum Platform, participants in our events, (contact persons at) our event partners, suppliers and other relations, of students and job applicants, and of our Website visitors. We obtain your personal data from you or from third parties (such as customers of our Momentum Platform, team captains  in our events and/or our event partners).
+We process personal data of users and customers of our services, including the Momentum Platform, participants in our events, (contact persons at) our event partners, suppliers and other relations, of students and job applicants, and of our Website visitors. We obtain your personal data from you or from third parties (such as customers of our Momentum Platform, team captains in our events and/or our event partners).
 
 Personal data that we may process are:
 - basic information such as your first and last name, title, gender;
@@ -63,7 +65,7 @@ We will retain your personal data in accordance with applicable data protection 
 
 Your personal data may be transferred, stored and processed by third party service providers outside the European Economic Area (EEA). We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with applicable data protection laws, including appropriate safeguards such as the use of EC standard contractual clauses.
 ### Your privacy rights
-Under the GDPR, you have  the following rights: 
+Under the GDPR, you have the following rights: 
 
 You have the right to request us to access, rectify, erase, restrict and transfer your personal data. You also have the right to object to the processing of your personal data. If you wish to exercise your rights, please submit a request per e-mail. Our contact details can be found at the end of this Privacy Policy. 
 
@@ -73,7 +75,7 @@ Please note that individuals’ rights under the GDPR are subject to certain res
 
 Within the EU, EU citizens have the right to lodge a complaint with a supervisory data protection authority. A list of all EU supervisory authorities is available on the European Data Protection Board website: [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en). In the Netherlands this is the ‘Autoriteit Persoonsgegevens’ (‘AP’). More information can be found on the website of the AP ([https://autoriteitpersoonsgegevens.nl/](https://autoriteitpersoonsgegevens.nl/)). We would appreciate it if you would contact us first so that we can try to reach an amicable solution.
 ### Cookies
-Using analytical cookies, we collect statistical data at a privacy-friendly aggregated level about the use of our Services, allowing us to improve our Services. The analytical cookies we use are from Google Analytics, Tag Manager, and Hotjar. We use these to gain insight into visitor flows, traffic sources, and pageviews on our website. We do this in a manner that takes your privacy into account as much as possible. For example, your IP address is only partially stored for this reason. Input given into fields like email addresses and passwords is masked out. After analysis, these recordings are deleted. We have entered into a data processing agreement with Google which includes arrangements concerning the security of your personal data.
+Using analytical cookies, we collect statistical data at a privacy-friendly aggregated level about the use of our Services, allowing us to improve our Services. The analytical cookies we use are from Google Analytics, Tag Manager, and Hotjar. We use these to gain insight into visitor flows, traffic sources, and page views on our website. We do this in a manner that takes your privacy into account as much as possible. For example, your IP address is only partially stored for this reason. Input given into fields like email addresses and passwords is masked out. After analysis, these recordings are deleted. We have entered into a data processing agreement with Google which includes arrangements concerning the security of your personal data.
 ### Changes to this statement
 This Privacy Policy may be updated from time to time. Please check our Privacy Policy frequently to stay informed about how we use your personal data. This Privacy Policy is effective upon posting. This Policy was last updated on June 11, 2021. 
 ### Contact

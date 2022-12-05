@@ -1,19 +1,17 @@
 ---
+title: Odyssey database
+description: A description of Odyssey's relational database and how it's used
+sidebar_label: Odyssey database
 sidebar_position: 5
 ---
-# Odyssey database
-
 Odyssey uses a relational database to store the state of worlds and its users.
 
 Each Odyssey node/hosting environment uses a single database to store the state of multiple worlds.
 
-
 ## Tables
-
 NOTE: This list is never up-to-date.
 
 TODO: Add descriptions as comments to the database schema, so this can be automatically generated and kept up to date in the database schema itself.
-
 
 <table>
   <tr>
@@ -246,28 +244,17 @@ TODO: Add descriptions as comments to the database schema, so this can be automa
   </tr>
 </table>
 
-
-
-### Extra explanation
-
-
+### Further explanation
 #### Spaces, users and permissions:
-
 See the documentation about the [main domain model](../domain-model/).
 
-
 #### Generic attributes
-
 This provides plugins with a generic storage solution (for ‘simple’ key-value data), without the need to change the database schema. 
 
 The _attributes_ table defines which ones are available. These can then either be linked to spaces or user _and _space (using the space_attributes or _user_spaces_attributes_ m2m through tables) to give them a value. 
 
-
 #### Dashboards
-
 A _space_type_ has an ui_type, which a space instance can override, to specify the (2d) user interface that is shown when a user interacts with it. So (currently) an ui_type represents a 2D dashboard with ‘tiles’. A column in _space_type_ defines the default tiles that are created.
 
-
 #### Token gated access
-
 Access to a space can be controlled with ‘tokens’ on a blockchain. A blockchain is monitored for changes for certain tokens and the user accounts that own these tokens are then given permissions. The _token_rules_ table defined the rules applied to a token defined in the _token_ tables. It supports different blockchain, which are defined in the _networks_ table. The permissions are regulated by the user_id column which points to a user entity which acts as a Group. The actual end user entities (which have an entry in _user_wallets_ that own the tokens) are then made a member of this user group.

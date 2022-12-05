@@ -1,7 +1,9 @@
 ---
+title: Roadmap
+description: You decide where Odyssey is headed. The vision is shaped by the community. Find out where we are headed and how to get involved.
+sidebar_lebel: Roadmap
 sidebar_position: 2
 ---
-# Roadmap
 At Odyssey we don't have a roadmap like one normally encounters in other companies. We have a map (aka a set of destinations that we would like to reach), and we are sure there is a road in front of us.
 
 Nevertheless, you—the user—will determine which places on the map we will visit first, which features we will release. Your feedback, participation, and opinions are fundamental in the development of Odyssey, and we want your voice to be heard.

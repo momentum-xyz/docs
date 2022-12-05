@@ -1,5 +1,6 @@
 ---
 title: What is Odyssey?
+description: Odyssey is a social medium built on a web3 stack. It allows you to create, mint, and tokenise you own space, where there are no limits to what you can create, co-create, and share.
 sidebar_label: What is Odyssey?
 sidebar_position: 1
 slug: /
