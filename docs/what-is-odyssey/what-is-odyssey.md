@@ -15,7 +15,7 @@ We see a Social Medium as the next iteration of Web 2.0 platforms, tools, and so
 ## What are inner and outer worlds?
 We all are the combination of an inner world and an outer world—or an *innerverse* and an *outerverse* if you like. You can visualise it as your person, there are two sides of you:
 - The way you *appear* (e.g., the clothes you wear, your haircut, the thoughts you express, the way you move, etc.)
-- The way you *are* (e.g., what happens in your mind and you don’t know how to or feel like sharing, or even the things that go on beyond your consciousness, things that you feel, but there is currently no way to express online)
+- The way you *are* (e.g., what happens in your mind, and you don’t know how to or feel like sharing, or even the things that go on beyond your consciousness, things that you feel, but there is currently no way to express online)
 
 Web2 tools wonderfully allow you to share your outerverse: bios, profile pics, tweets, posts, you name it. But what about your innerverse? That is *the largest and most beautiful part of you*, and we believe that you should be able to embark on a journey to explore and visualise it and share it with whomever you want.
 ## Overview
@@ -25,7 +25,7 @@ By signing up and minting your Odyssey NFT with the Momentum ($MTM) token (don�
 ## Where did the idea come from?
 This is how we came up with Odyssey as you see it now, head to the about us page to find out how we got here.
 
-On October 19th 2022, during one of our lively discussions concerning the metaverse an idea was suggested. A simple idea, but one that really resonated with us. Every metaverse (and social network) out there currently focuses on the external, the apparent—be it land,  art, branding, or personal image. What if the emphasis of the metaverse was more personal? What if a metaverse was about you? A 3D space telling the living, breathing, evolving epic journey you are on. Your *Odyssey*. 
+On October 19th 2022, during one of our lively discussions concerning the metaverse an idea was suggested. A simple idea, but one that really resonated with us. Every metaverse (and social network) out there currently focuses on the external, the apparent—be it land, art, branding, or personal image. What if the emphasis of the metaverse was more personal? What if a metaverse was about you? A 3D space telling the living, breathing, evolving epic journey you are on. Your *Odyssey*. 
 
 We believe that every life has a powerful narrative and every story deserves to be told. What if these journeys could be built in a 3D environment, shared and experienced by others? What if you could capture the defining moments of your Odyssey in a decentralised manner, knowing that your journey will live forever on the blockchain? Would be pretty cool, right?  
 

@@ -19,13 +19,13 @@
  * Forms bg: #132247
  * Stacking yellow: #FFD300
  * */
- @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Rajdhani:wght@300;400;500;600;700&display=swap');
 :root {
   --momentum-green: #157e99;
   --momentum-green-light: #157e99;
   --momentum-flamingo: #f24dff;
-  --ifm-font-family-base: Poppins, sans-serif;
-  --ifm-heading-font-family: Poppins, sans-serif;
+  --ifm-font-family-base: 'IBM Plex Sans', sans-serif;
+  --ifm-heading-font-family: 'IBM Plex Sans', sans-serif;
   --ifm-heading-font-weight: 700;
 
   --site-primary-hue-saturation: 55 68%;
