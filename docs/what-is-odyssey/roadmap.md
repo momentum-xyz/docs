@@ -4,7 +4,7 @@ sidebar_position: 2
 # Roadmap
 At Odyssey we don't have a roadmap like one normally encounters in other companies. We have a map (aka a set of destinations that we would like to reach), and we are sure there is a road in front of us.
 
-Neveretheless, you—the user—will determine which places on the map we will visit first, which features we will realease. Your feedback, participation, and opinions are fundamental in the development of Odyssey, and we want your voice to be heard.
+Neveretheless, you—the user—will determine which places on the map we will visit first, which features we will release. Your feedback, participation, and opinions are fundamental in the development of Odyssey, and we want your voice to be heard.
 
 This is a very humble beginning for Odyssey. We have hacked a pre-alpha version in under a month, and we have this MLP (Minimum Loveable Product! 😝) for you to play with. We are very excited to see what you will do with it! We are impatient to hear your feedback and all about what you need to embark on your Odyssey. In the meantime, here is what’s coming from our side.
 ## Staking
