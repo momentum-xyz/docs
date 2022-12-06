@@ -4,7 +4,7 @@ description: Almost every function in Odyssey is controlled by a plugin. Let's f
 sidebar_label: Plugins
 sidebar_position: 3
 ---
-## Available plugin
+## Available plugins
 The Odyssey team is always looking for new functionality to offer. Here's what's available right now
 ### Miro
 Embed your miro boards, so people can contribute to your project, or just see where things are going.

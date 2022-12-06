@@ -11,10 +11,10 @@ The Odyssey stack depends on a few of other applications that are created and ma
 ## Frontend
 The Odyssey stack makes use of several external online services to provide collaboration tools inside Odyssey dashboards. All these are commercially available tools, delivered/used as ‘Software-As-A-Service’.[^1]
 
-#### [Miro](https://miro.com/online-whiteboard/)
+### [Miro](https://miro.com/online-whiteboard/)
 Online collaboration on a whiteboard.
 
-#### [Google Docs](https://www.google.com/docs/about/)
+### [Google Docs](https://www.google.com/docs/about/)
 Online collaboration on various types of documents.
 
 [Agora](https://www.agora.io)
