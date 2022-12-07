@@ -1,7 +1,7 @@
 ---
 title: About us
 description: Odyssey is an antifragile company, which pivots, improves, and grows stronger in response to crises.
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 Odyssey is an [antifragile](https://en.wikipedia.org/wiki/Antifragility) company. We thrive in response to crises.
 
