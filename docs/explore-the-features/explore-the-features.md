@@ -14,19 +14,19 @@ The main concepts you need to be familiar with are the following (we have in-dep
 - *Journey*. Your experience inside of an Odyseey
 
 
-##Odyssey Creator/World Builder Mode
+## Odyssey Creator/World Builder Mode
 
 
-##Connect to Odyssey/Staking
+## Connect to Odyssey/Staking
 
 
-##Portals
+## Portals
 
 
-##Docking
+## Docking
 
 
-##Fly to me
+## Fly to me
 
 
-##Socials
+## Socials
