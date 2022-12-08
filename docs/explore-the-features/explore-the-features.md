@@ -19,7 +19,7 @@ Before you dive deeper into Odyssey and the features there are some main concept
 - **Journey**. Your experience inside an Odyssey
 
 ## Functionality
-Let's see what functionality is at your disposal.
+Let's see some of the main functionalities at your disposal.
 
 ### Odyssey Creator (World builder mode)
 
