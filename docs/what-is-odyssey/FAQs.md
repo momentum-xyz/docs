@@ -5,7 +5,12 @@ sidebar_label: FAQs
 sidebar_position: 4
 ---
 ## Under construction
-We are gathering feedback, and your FAQs will come soon!
+We'll be adding FAQs as we gather more feedback!
+
+<details>
+  <summary>How do I mint my Odyssey as an NFT?</summary>
+    <div>Good news! The process is completely automatic, you just need to log in with your polkadot.js wallet, and the system will take care of it for you</div>
+</details>
 
 ![Smiling guy saying "Stay tuned"](https://media.giphy.com/media/fnDY3C9MKukcER71r7/giphy.gif)
 ## Have a question?
