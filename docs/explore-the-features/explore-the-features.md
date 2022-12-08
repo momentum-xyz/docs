@@ -31,3 +31,5 @@ Before you dive deeper into Odyssey and the features there are some main concept
 
 
 ### Socials
+
+### Navigation/Minimap
