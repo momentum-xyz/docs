@@ -4,7 +4,8 @@ description: To get you started with Odyssey, we'll give a rundown of all the ma
 sidebar_label: Explore the features
 sidebar_position: 1
 ---
-The main concepts you need to be familiar with are the following (we have in-depth dedicated pages too):
+Before you dive deeper into Odyssey and the features there are some main concepts you need to be familiar with:
+
 - *Odyssey*. This is your inner world representation in the metaverse
 - *Odyssey Creator*. It's your source of power, you will head hear anytime you want to add something to your Odyssey
 - *Objects*. These are the assets that make up your Odyssey, we give you some to get started with, but you can also import your own!
@@ -14,19 +15,19 @@ The main concepts you need to be familiar with are the following (we have in-dep
 - *Journey*. Your experience inside of an Odyseey
 
 
-## Odyssey Creator/World Builder Mode
+### Odyssey Creator/World Builder Mode
 
 
-## Connect to Odyssey/Staking
+### Connect to Odyssey/Staking
 
 
-## Portals
+### Portals
 
 
-## Docking
+### Docking
 
 
-## Fly to me
+### Fly to me
 
 
-## Socials
+### Socials
