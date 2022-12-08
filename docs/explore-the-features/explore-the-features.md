@@ -28,7 +28,7 @@ The Odyssey Creator is the core process which enables you to build your Odyssey.
 Once you have created an object, you can freely re-size/move/scale it in your Odyssey, you can also assign functionalities to be triggered when the object is clicked on—be it displaying an image, opening a Miro or even streaming YouTube content!
 
 ### Connect to Odyssey/Staking
-In Odyssey you connect to other Odyssey by staking into them. Our staking flow is very easy to follow and allows you to easity and quickly stake $MOM to other Odysseys. Connecting(staking) brings you rewards and will unlock new features for you in the upcoming versions!
+In Odyssey you connect to other Odyssey by staking into them. Our staking flow is very easy to follow and allows you to easily and quickly stake $MOM to other Odysseys. Connecting(staking) brings you rewards and will unlock new features for you in the upcoming versions! More info about [staking](/what-is-odyssey/roadmap/#staking)
 
 ### Portals
 
