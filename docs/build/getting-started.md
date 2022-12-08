@@ -46,6 +46,7 @@ Our blockchain is Substrate (Rust) based parachain running on an local testnet. 
 *Check our repos: [token](https://github.com/momentum-xyz/drive); [testnet](https://github.com/momentum-xyz/drive_server)*
 
 
-
 ### Database
+Below you can have look at out database schema that shows how our data is organized & the relationships inside
+
 
