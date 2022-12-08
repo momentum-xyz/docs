@@ -49,4 +49,5 @@ Our blockchain is Substrate (Rust) based parachain running on an local testnet. 
 ### Database
 Below you can have look at out database schema that shows how our data is organized & the relationships inside
 
+![Odyssey database schema](img/db_schema.png)
 
