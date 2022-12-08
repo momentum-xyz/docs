@@ -13,7 +13,7 @@ Stay tuned for Odyssey design system ...
 
 # Architecture 
 A high level of the architecture components behind Odyssey 
-> [add as image when done](https://miro.com/app/board/uXjVOgNufyA=/?moveToWidget=3458764540273670203&cot=14)
+![Odyssey database schema](img/system.jpg)
 
 ### Frontend
 The web interface consists of two main parts: 
