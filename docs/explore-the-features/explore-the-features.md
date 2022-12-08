@@ -17,6 +17,9 @@ Before you dive deeper into Odyssey and the features there are some main concept
 
 ### Odyssey Creator/World Builder Mode
 
+The Odyssey Creator is the core process which enables you to build your Odyssey. By switching on world builder mode, you can create and edit objects in your Oddyssey - as well as change world parameters.  We've added a few primatives for you to play around with (and some surprises!), but you can also upload your own objects in GLB format.
+
+Once you have created an object, you can freely re-size/move/scale it in your Odyssey, you can also assign functionalities to be triggered when the object is clicked on - be it displaying an image, opening a Miro or even streaming Youtube content!
 
 ### Connect to Odyssey/Staking
 
