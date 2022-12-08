@@ -12,3 +12,21 @@ The main concepts you need to be familiar with are the following (we have in-dep
 - *Wisp*. The ball of light you fly through and explore Odysseys with
 - *Connect to Odyssey*. Contribute to an Odyssey by staking an amount of $MOM tokens and collect rewards 
 - *Journey*. Your experience inside of an Odyseey
+
+
+##Odyssey Creator/World Builder Mode
+
+
+##Connect to Odyssey/Staking
+
+
+##Portals
+
+
+##Docking
+
+
+##Fly to me
+
+
+##Socials
