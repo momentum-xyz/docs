@@ -7,3 +7,5 @@ sidebar_position: 3
 Discover how Odyssey is evolving over time. We always build in public.
 
 Soon you'll find here an overview of the release notes for every version of Odyssey.
+
+![Smiling guy saying "Stay tuned"](https://media.giphy.com/media/fnDY3C9MKukcER71r7/giphy.gif)

@@ -11,8 +11,6 @@ We'll be adding FAQs as we gather more feedback!
   <summary>How do I mint my Odyssey as an NFT?</summary>
     <div>Good news! The process is completely automatic, you just need to log in with your polkadot.js wallet, and the system will take care of it for you</div>
 </details>
-
-![Smiling guy saying "Stay tuned"](https://media.giphy.com/media/fnDY3C9MKukcER71r7/giphy.gif)
 ## Have a question?
 Check out our [contact page](https://discover.odyssey.org/get-in-touch/)!
 
