@@ -22,25 +22,24 @@ Before you dive deeper into Odyssey and the features there are some main concept
 Let's see some of the main functionalities at your disposal.
 
 ### Odyssey Creator (World builder mode)
-
 The Odyssey Creator is the core process which enables you to build your Odyssey. By switching on world builder mode, you can create and edit objects in your Odyssey, as well as change world parameters.  We've added a few primitives for you to play around with (and some surprises!), but you can also upload your own objects in GLB format.
 
 Once you have created an object, you can freely re-size/move/scale it in your Odyssey, you can also assign functionalities to be triggered when the object is clicked on—be it displaying an image, opening a Miro or even streaming YouTube content!
 
 ### Connect to Odyssey/Staking
-In Odyssey you connect to other Odyssey by staking into them. Our staking flow is very easy to follow and allows you to easily and quickly stake $MOM to other Odysseys. Connecting(staking) brings you rewards and will unlock new features for you in the upcoming versions! More info about [staking](/what-is-odyssey/roadmap/#staking)
+In Odyssey you connect to other Odyssey by staking into them. Our staking flow is very easy to follow and allows you to easily and quickly stake $MOM to other Odysseys. Connecting(staking) brings you rewards and will unlock new features for you in the upcoming versions! More info about [staking](/what-is-odyssey/roadmap/#staking).
 
 ### Portals
-
+Any object created while in World builder mode can be assigned Portal functionality. A portal allows you to create a shortcut too another Odyssey - meaning that visitors can explore multiple worlds without using the 'Explore' screen.
 
 ### Docking
-
+When you've staked in another users Odyssey, and if they return the favour and stake back in yours, then a docking bulb is added to the docking station. This acts as a permanent connection between two Odysseys, showing mutual support. 
 
 ### Fly to me
-Being inside someone's Odyssey could be overwhelming sometimes, hence we introduce "Fly to me" you could ask the Odyssey creator or an admin to trigger "Fly to me" and give you a tour showing you around the Odyssey. Every Odyssey creator and admin can trigger "Fly to me" at any point and invite all Odyssey visitors to fly to their positions. Remember, every visior has the option to accept or decline your invitation!
+Being inside someone's Odyssey can be overwhelming sometimes, hence we introduced a "Fly to me" option - you can ask the Odyssey creator or an admin to trigger "Fly to me" and give you a tour showing you around the Odyssey. Every Odyssey creator and admin can trigger "Fly to me" at any point and invite all visitors to their Odyssey to fly to their positions. Remember, every visior has the option to accept or decline your invitation!
 
 ### Socials
-It is very important to be able to communicate with other Odysseys and this why we have Socials. Socials panel provides you with the opportunity to communicate via a written chat or even join a conversation via voice chat with other people exploring and Odyssey. You can find the Socials panel inside of each Odyssey and it is Odyssey specific.
+It is critical to be able to communicate with other users and this why we have Socials. The Socials panel provides you with the opportunity to communicate via a text chat or even join a voice chat with other people exploring the Odyssey. You can find the Socials panel inside of each Odyssey and chat is Odyssey specific.
 
 ### Navigation/Minimap
-Navigation panel is an opportunity to explore the Odyssey you are into in a fun and interactive way! You can search on the Navigation panel specific objects or just drag your mouse around the map to see the differents objects inside the Odyssey. Bonus points if you double click an object you get to fly to it! With the navigation panel you will never get lost inside of an Odyssey it will always show your position! 
+The Navigation panel is an opportunity to explore the Odyssey you are into in a fun and interactive way! You can search on the Navigation panel for specific objects or just drag your mouse around the map to see the differents objects inside the Odyssey. Bonus points if you double click an object you fly to it automagically! With the navigation panel you will never get lost inside of an Odyssey it will always show your position! 
