@@ -22,7 +22,7 @@ Web2 tools wonderfully allow you to share your outerverse: bios, profile pics, t
 ## Overview
 To put it simply, an Odyssey is your *innerverse*. A place to visually express your emotions, thoughts, ideas, interest and anything that is part of you. You can build and create the content you want, and the content belongs to you and always will, thanks to the blockchain.
 
-By signing up and minting your Odyssey NFT with the Momentum ($MTM) token (don’t worry, we’ll give you some for free as a thank you for exploring the very early stages of the product), you will create an infinite space of your own, where you can place and share anything, from your NFT collection, to your random thoughts when you go on that awesome tangent (you know the one we are talking about!). We provide the tools to let you fill your Odyssey with what you want (a lot more tools are in the making, see [Roadmap](what-is-odyssey/roadmap)).
+By signing up and minting your Odyssey NFT with the Momentum ($MOM) token (don’t worry, we’ll give you some for free as a thank you for exploring the very early stages of the product), you will create an infinite space of your own, where you can place and share anything, from your NFT collection, to your random thoughts when you go on that awesome tangent (you know the one we are talking about!). We provide the tools to let you fill your Odyssey with what you want (a lot more tools are in the making, see [Roadmap](what-is-odyssey/roadmap)).
 ## Where did the idea come from?
 This is how we came up with Odyssey as you see it now, head to the about us page to find out how we got here.
 

@@ -12,7 +12,7 @@ This is a very humble beginning for Odyssey. We have hacked a pre-alpha version 
 ## Staking
 `Status: in development`
 
-Found some content you really love? Do you know a creator who you really want to promote? You can directly support them by staking the Momentum token ($MTM) into their Odyssey! By staking $MTM into an Odyssey, you are directly supporting the creator. Even cooler, by staking $MTM, you regularly get a percentage of the $MTM you staked as a reward. Gain more $MTM just by supporting others? How cool is that?
+Found some content you really love? Do you know a creator who you really want to promote? You can directly support them by staking the Momentum token ($MOM) into their Odyssey! By staking $MOM into an Odyssey, you are directly supporting the creator. Even cooler, by staking $MOM, you regularly get a percentage of the $MOM you staked as a reward. Gain more $MOM just by supporting others? How cool is that?
 
 When staking in an Odyssey, you have the option to *Reinvest* your rewards into this Odyssey meaning that rather than getting regular rewards over time, all the rewards are automatically added to your stake into that Odyssey, showing your ever-increasing support for that content. 
 
