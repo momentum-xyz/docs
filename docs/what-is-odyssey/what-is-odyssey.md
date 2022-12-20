@@ -6,11 +6,15 @@ sidebar_position: 1
 slug: /
 ---
 # What is Odyssey?
+
 *Odyssey is the place where our imaginations meet to co-create, connect, and tokenise adventures, quests, and journeys.*
 
 But what does that mean exactly? The goal of Odyssey is to empower you to discover the deeper parts of yourself, of your *innerverse*, and share this epic quest of discovery with whomever you like. More than that, you can turn that into *real value*. We provide the tools, the platform, and the network. You provide the insights, the inspiration, and the passion. Together, we create something unique that lives and evolves on the blockchain, and is completely owned by you.
 
 Welcome to Odyssey, the *Web3 social medium for co-creation*. Welcome to *your* Odyssey. We are so glad to have you on board!
+
+![EU ERFD logo](img/EU-ERFD-200.png)&emsp;![SNN logo](img/SNN-200.png)&emsp;![Kusama Treasury logo](img/kusama-treasury-200.png)
+
 ## What is a Social Medium?
 We see a Social Medium as the next iteration of Web 2.0 platforms, tools, and social networks. It’s your infinite 3D space where you can manifest, represent, and imagine anything—and best of all you own it! Something that is not based on just your external appearance and the image society demands you project, but on your real self. A social medium lets you take the most epic parts of your inner being and use them (if you wish) to produce value that others can interact with and learn from. *You don’t just feed data and content into the machine, you build the machine and make it run and work for you*.
 ## What are inner and outer worlds?
