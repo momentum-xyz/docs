@@ -1,7 +1,7 @@
 ---
-title: Creator mode
+title: Enter Creator mode
 description: Odyssey Creator allows you to add objects to your world, modify them, assign them functions, change skybox, and personalise the whole Odyssey experience for your users. These tutorials show you how to get the best out of it. 
-sidebar_label: Creator mode
+sidebar_label: Enter Creator mode
 sidebar_position: 2
 ---
 
