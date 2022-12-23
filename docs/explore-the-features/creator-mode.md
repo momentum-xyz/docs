@@ -5,7 +5,7 @@ sidebar_label: Creator mode
 sidebar_position: 2
 ---
 
-Everything that has to do with shaping the whole experience users have in your Odyssey starts from the *Odyssey Creator*. This includes chaging skybox (the backdrop of your Odyssey), adding objects, manipulating them, and giving them all sorts of cool functions. 
+Everything that has to do with shaping the whole experience users have in your Odyssey starts from the *Odyssey Creator*. This includes changing skybox (the backdrop of your Odyssey), adding objects, manipulating them, and giving them all sorts of cool functions. 
 
 ## Enter Odyssey Creator mode
 

@@ -15,7 +15,7 @@ The moving gizmo is the first tool you see when you enter [creator mode](creator
 
 ## Rotating an object
 
-The beauty of 3D objects is that you can view them from many different angles. Rotating assets helps you get just the look you want. To rotate an object:
+The beauty of 3D objects is that you can view them from many angles. Rotating assets helps you get just the look you want. To rotate an object:
 
 1. Enter Creator mode
 2. Click on the object you want to rotate
@@ -26,17 +26,17 @@ The beauty of 3D objects is that you can view them from many different angles. R
 
 ## Scaling an object
 
-What if you want something to be bigger? Sometime you just need it one size larger...
+What if you want something to be bigger? Sometimes you just need it one size larger...
 
 Anyway, here is how to get objects to a massive scale (or micro, whatever floats your boat 🚢) in your Odyssey:
 
 1. Enter Creator mode
 2. Click on the object you want to rotate
 3. Select the `Scale` option
-4. `Click and drag` the colored handles to scale the relative axis, or do the same to the white cube in the middle to scale all axis at the same time
+4. `Click and drag` the coloured handles to scale the relative axis, or do the same to the white cube in the middle to scale all axis at the same time
 
 ![Gif showing how the scale tool works on an object](img/object-scaling.gif)
 
 :::tip
-**🌋 Lava-hot tip:** With all gizmos, the selected axis will turn yellow when you hover over it, so you'll know which one is selected and you can start dragging to modify your object.
+**🌋 Lava-hot tip:** With all gizmos, the selected axis will turn yellow when you hover over it, so you'll know which one is selected, and you can start dragging to modify your object.
 :::
