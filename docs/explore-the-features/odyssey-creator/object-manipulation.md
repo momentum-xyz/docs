@@ -2,7 +2,7 @@
 title: Object manipulation
 description: Odyssey Creator lets you move, rotate, and scale your assets in space, exactly like you would do in a 3D editor. This page shows you how to do it.
 sidebar_label: Object manipulation
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 Objects are no good unless you can place them exactly how you want and make them as big as you want. In this section we'll show you exactly how to do that.

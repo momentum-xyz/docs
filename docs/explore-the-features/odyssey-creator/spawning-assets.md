@@ -1,0 +1,42 @@
+---
+title: Spawning assets
+description: What good is your own world if you can't put objects into it? In this article we explain how to add default and personal assets to your Odyssey
+sidebar_label: Spawning assets
+sidebar_position: 4
+---
+
+In Odyssey there are two types of objects: the default primitives we put at your disposal, and your own assets. Let's see how to place them in your Odyssey. We'll start with the default primitives, because they are easier to handle.
+
+First of all... what the heck is *spawning*? It's just a fancy term for "placing", just like *primitive* is a fancy term for "simple object".
+
+:::info
+**Spoiler alert**: You can also move, modify, and assign functions to your objects, we'll get into that in the next chapters 😉
+:::
+
+## Spawning a default object
+
+To get you started, we give you some default shapes (cones, cubes, spheres, etc.) that you can place in your Odyssey. To add one of these objects follow these steps:
+
+1. Enter Creator mode
+2. Click on the `+` (plus) button on the left side of your screen
+3. Choose your object from the *Basic Asset Pack* tab and click `Select`
+4. Tick the `Visible in Navigation` box and assign your object a name (this will appear in the [minimap](/explore-the-features/other-features/minimap/))
+
+🧨 Boom! There is your object!
+
+![Animation that shows how to spawn a default object in an Odyssey](img/asset-spawning-default.gif)
+
+## Spawning a custom object
+
+There are a few more steps to place a custom object in your Odyssey. Let's go through them
+
+1. Enter Creator mode
+2. Click on the `+` (plus) button on the left side of your screen
+3. Choose the *Upload Custom Object* tab on the left
+4. Click on `Upload your asset` and choose your custom 3D model (it must be a **.glb** file, the lighter the better)
+5. Choose a name for your asset (as you want it to appear in the library) and click on `Add to library`
+6. Select the *Custom Object Library* tab (right above the one you were on) and look for your asset
+7. Click the `Select` button and ['follow the same steps as you would for a default object'](#spawning-a-default-object). Done!
+
+![Animation describing how to spawn a custom 3D asset in an Odyssey](img/asset-spawning-custom.gif)
+
