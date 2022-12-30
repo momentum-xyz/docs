@@ -5,13 +5,13 @@ sidebar_label: Changing skybox
 sidebar_position: 3
 ---
 
-The skybox is the background of your Odyssey, and contols not only the backdrop image, but also the lighting and how it affects the assets in your Odyssey.
+The skybox is the background of your Odyssey, and controls not only the backdrop image, but also the lighting and how it affects the assets in your Odyssey.
 
 ## How to change the skybox
 
 1. Enter [Creator mode](enter-creator-mode.md)
 2. Click on the `skybox` button (it's the first one from the top in the tools panel on the left)
-3. Choose yout new skybox and click `Select skybox`, then close the panel and you are done
+3. Choose your new skybox and click `Select skybox`, then close the panel, and you are done
 
 ![Animation that shows how to change skybox and how this affects the objects in the Odyssey](img/change-skybox.gif)
 
