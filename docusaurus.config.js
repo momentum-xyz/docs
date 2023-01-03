@@ -42,7 +42,13 @@ async function createConfig() {
               theme: { light: 'default', dark: 'dark' }
             }]],
           },
-          blog: false,
+          blog: {
+            blogTitle: 'Odyssey Creator Blog',
+            blogDescription: 'All the latest about Odyssey, news, tutorials, and helpful articles from the team',
+            postsPerPage: 10,
+            blogSidebarTitle: 'Recent posts',
+            blogSidebarCount: 5,
+          },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
           },
@@ -119,7 +125,12 @@ async function createConfig() {
               position: 'left',
               label: 'API',
             },
-            //{to: 'api', label: 'API', position: 'left'},
+            {to: 'api', label: 'API', position: 'left'},
+            {
+              to: 'blog',
+              label: 'Blog',
+              position: 'left'
+            },
             {
               to: 'about-us',
               position: 'right',
