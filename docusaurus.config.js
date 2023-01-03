@@ -48,6 +48,9 @@ async function createConfig() {
             postsPerPage: 10,
             blogSidebarTitle: 'Recent posts',
             blogSidebarCount: 5,
+            feedOptions: {
+              type: 'all',
+            },
           },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
@@ -125,7 +128,6 @@ async function createConfig() {
               position: 'left',
               label: 'API',
             },
-            {to: 'api', label: 'API', position: 'left'},
             {
               to: 'blog',
               label: 'Blog',
