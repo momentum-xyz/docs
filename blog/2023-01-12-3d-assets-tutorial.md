@@ -9,7 +9,7 @@ hide_table_of_contents: false
  
 # A quick guide to 3D assets for your Odyssey
  
-In you Odyssey you can place custom 3D objects. We put together a bunch of resources on how to get 3D assets (for free...🤩), convert them, and even get started creating your own assets.
+In your Odyssey, you can place custom 3D objects. We put together a bunch of resources on how to get 3D assets (for free...🤩), convert them, and even get started creating your own assets.
  
 We'll go through some tips and tricks that will show you:
  
