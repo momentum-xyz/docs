@@ -2,16 +2,16 @@
 title: A quick guide to 3D assets for your Odyssey
 description: In this article we will explore the characteristics that custom 3D objects should have to perform best in your Odyssey, how to convert them in the right format, and where to get cool free assets.
 slug: quick-guide-to-3d-assets-for-your-odyssey
-authors: azanutto
+authors: [azanutto, nrutherford]
 tags: [odyssey, 3d assets, tutorials]
 hide_table_of_contents: false
 ---
  
 # A quick guide to 3D assets for your Odyssey
  
-One of the coolest things about building your own Odyssey is the ability to place your custom objects. We realise that not everybody is familiar with working with 3d assets, but everyone should be able to make their Odyssey just the way they envision it.
+In you Odyssey you can place custom 3D objects. We put together a bunch of resources on how to get 3D assets (for free...🤩), convert them, and even get started creating your own assets.
  
-In this article, we'll go through some tips and tricks that will show you:
+We'll go through some tips and tricks that will show you:
  
 - Where to find cool, open-source 3d assets to use in your Odyssey
 - How to convert 3d object in the right format (GLB)
