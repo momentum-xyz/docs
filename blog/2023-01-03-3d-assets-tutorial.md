@@ -18,7 +18,7 @@ In this article, we'll go through some tips and tricks that will show you:
 - Useful resources if you want to get started with 3D modelling
  
 :::caution
-Currently, the maximum supported size for an object is 50 megabytes, if your asset is bigger, consider splitting it using a 3d modeling package.
+Currently, the maximum supported size for an object is 50 megabytes, if your asset is bigger, consider splitting it using a 3d modelling package.
 :::
  
 Let's dive right in.
@@ -72,9 +72,9 @@ Aspose offers a free conversion tool that works like a charm:
 2. Drop **all three files** in the box
 3. Click `Convert now` and wait a bit...
 4. Click `Download now`
-5. Test that your object works by dropping it here [https://gltf-viewer.donmccurdy.com/](https://gltf-viewer.donmccurdy.com/)
+5. Test that your object works by dropping it here: [https://gltf-viewer.donmccurdy.com/](https://gltf-viewer.donmccurdy.com/)
  
-Awesome now you are ready to [spawn your custom asset in your odyssey](https://discover.odyssey.org/explore-the-features/odyssey-creator/spawning-assets/#spawning-a-custom-object)
+Now you are ready to [spawn your custom asset in your odyssey](https://discover.odyssey.org/explore-the-features/odyssey-creator/spawning-assets/#spawning-a-custom-object)!
  
 ## Getting started with 3D modelling
  
@@ -105,5 +105,7 @@ Learning how to voxel is a lot easier than full-blown 3D modelling, so if you ar
 We hope this quick guide is useful to get your Odyssey looking just the way you want. Don't forget to check out the [docs](https://discover.odyssey.org/) for guides on all the tool available in Odyssey, and feel free to [drop us a line](https://discover.odyssey.org/get-in-touch/) if you have any feedback or feature request. We can't wait to be part of your journey!
  
 :::tip
-Always read the licence before using a 3D asset. Also, even if an asset doesn't require attribution, it's good etiquette to mention the artist, or at least give them a shoutout on their preferred social media channel. Finally, if they have a donation link, consider supporting their work that way, if you can.
+Always read the licence before using a 3D asset. Also, even if an asset doesn't require attribution, it is good etiquette to mention the artist, or at least give them a shoutout on their preferred social media channel. Finally, if they have a donation link, consider supporting their work that way, if you can.
 :::
+
+Need help with building your Odyssey, or have feedback? Head over to our [dedicated Discord channel](https://discordapp.com/channels/667280778731978753/882278744956473344), we'll give you a hand 😼 
