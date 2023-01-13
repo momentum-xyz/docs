@@ -11,7 +11,7 @@ async function createConfig() {
   const config = {
     title: 'Odyssey',
     tagline: 'The place where our imaginations meet to create together, connect, and tokenise adventures, quests, and journeys.',
-    url: 'https://odyssey.org',
+    url: 'https://discover.odyssey.org',
     baseUrl: process.env.BASE_URL || '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
