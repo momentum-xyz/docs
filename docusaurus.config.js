@@ -97,6 +97,7 @@ async function createConfig() {
           textColor: '#091E42',
           isCloseable: false,
         },
+        image: 'img/og-image-full-logo-1200x630.png',
         navbar: {
           title: 'Odyssey',
           logo: {
