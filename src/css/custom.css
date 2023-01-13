@@ -115,3 +115,9 @@ p {
 .table-of-contents__link {
   font-size: 110%;
 }
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  margin-top: -15px;
+}

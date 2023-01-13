@@ -16,6 +16,8 @@ We'll go through some tips and tricks that will show you:
 - Where to find cool, open-source 3d assets to use in your Odyssey
 - How to convert 3d object in the right format (GLB)
 - Useful resources if you want to get started with 3D modelling
+
+<!--truncate-->
  
 :::caution
 Currently, the maximum supported size for an object is 50 megabytes, if your asset is bigger, consider splitting it using a 3d modelling package.
