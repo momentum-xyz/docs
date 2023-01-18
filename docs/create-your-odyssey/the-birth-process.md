@@ -2,7 +2,7 @@
 title: The birth process
 description: When you create your own Odyssey NFT, we call it birth. This tutorial will guide you step-by-step in the creation of your Odyssey.
 sidebar_label: The birth process
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # The birth process

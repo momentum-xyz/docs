@@ -1,45 +1,153 @@
 ---
-title: What is Odyssey?
-description: Odyssey is a social medium built on a web3 stack. It allows you to create, mint, and tokenise you own space, where there are no limits to what you can create, co-create, and share.
-sidebar_label: What is Odyssey?
+title: Getting started with Odyssey
+description: Odyssey is a web 3D social medium for novel metaverse experiences. This page will give you a quick overview of why we built Odyssey, what it does, and what is our vision for it.
+sidebar_label: Getting started
 sidebar_position: 1
 slug: /
 ---
-# What is Odyssey?
+# Getting started with Odyssey
 
-*Odyssey is the place where our imaginations meet to co-create, connect, and tokenise adventures, quests, and journeys.*
+Welcome to Odyssey’s docs. This page will give you a quick overview of why we built Odyssey, what it does, and what is our vision for it.
 
-But what does that mean exactly? The goal of Odyssey is to empower you to discover the deeper parts of yourself, of your *innerverse*, and share this epic quest of discovery with whomever you like. More than that, you can turn that into *real value*. We provide the tools, the platform, and the network. You provide the insights, the inspiration, and the passion. Together, we create something unique that lives and evolves on the blockchain, and is completely owned by you.
+On the left, you can quickly navigate to the sections that interest you the most:
+- Create your Odyssey (user-centric documentation on all the functionalities)
+- Build (developer-centric documentation)
 
-Welcome to Odyssey, the *Web3 social medium for co-creation*. Welcome to *your* Odyssey. We are so glad to have you on board!
+Odyssey is supported by:
 
 ![EU ERFD logo](img/EU-ERFD-200.png)&emsp;![SNN logo](img/SNN-200.png)&emsp;![Kusama Treasury logo](img/kusama-treasury-200.png)
 
-## What is a Social Medium?
-We see a Social Medium as the next iteration of Web 2.0 platforms, tools, and social networks. It’s your infinite 3D space where you can manifest, represent, and imagine anything—and best of all you own it! Something that is not based on just your external appearance and the image society demands you project, but on your real self. A social medium lets you take the most epic parts of your inner being and use them (if you wish) to produce value that others can interact with and learn from. *You don’t just feed data and content into the machine, you build the machine and make it run and work for you*.
-## What are inner and outer worlds?
-We all are the combination of an inner world and an outer world—or an *innerverse* and an *outerverse* if you like. You can visualise it as your person, there are two sides of you:
-- The way you *appear* (e.g., the clothes you wear, your haircut, the thoughts you express, the way you move, etc.)
-- The way you *are* (e.g., what happens in your mind, and you don’t know how to or feel like sharing, or even the things that go on beyond your consciousness, things that you feel, but there is currently no way to express online)
+## What is Odyssey?
 
-Web2 tools wonderfully allow you to share your outerverse: bios, profile pics, tweets, posts, you name it. But what about your innerverse? That is *the largest and most beautiful part of you*, and we believe that you should be able to embark on a journey to explore and visualise it and share it with whomever you want.
-## Overview
-To put it simply, an Odyssey is your *innerverse*. A place to visually express your emotions, thoughts, ideas, interest and anything that is part of you. You can build and create the content you want, and the content belongs to you and always will, thanks to the blockchain.
+Odyssey is a web 3D social medium for novel metaverse experiences.
 
-By signing up and minting your Odyssey NFT with the Momentum ($MOM) token (don’t worry, we’ll give you some for free as a thank you for exploring the very early stages of the product), you will create an infinite space of your own, where you can place and share anything, from your NFT collection, to your random thoughts when you go on that awesome tangent (you know the one we are talking about!). We provide the tools to let you fill your Odyssey with what you want (a lot more tools are in the making, see [Roadmap](what-is-odyssey/roadmap)).
-## Where did the idea come from?
-This is how we came up with Odyssey as you see it now, head to the about us page to find out how we got here.
+If we wanted to define Odyssey one step further, one could say that it is your personal metaverse, where you can build experiences that would be impossible otherwise. Go to Use cases to learn more.
 
-On October 19th 2022, during one of our lively discussions concerning the metaverse an idea was suggested. A simple idea, but one that really resonated with us. Every metaverse (and social network) out there currently focuses on the external, the apparent—be it land, art, branding, or personal image. What if the emphasis of the metaverse was more personal? What if a metaverse was about you? A 3D space telling the living, breathing, evolving epic journey you are on. Your *Odyssey*. 
+## Why Odyssey?
 
-We believe that every life has a powerful narrative and every story deserves to be told. What if these journeys could be built in a 3D environment, shared and experienced by others? What if you could capture the defining moments of your Odyssey in a decentralised manner, knowing that your journey will live forever on the blockchain? Would be pretty cool, right?  
+In a sentence, to create experiences that wouldn’t be possible, either online or offline.
 
-We’ve seen the effect NFTs have had as personal profile pictures. But what if your PFP (profile picture) was more than some awesome artwork—what if it was the very journey you are on? Your digital living profile, a constantly evolving story of you, your loves, your hates, and your interests. Your connections and friends, all forming a digital, interconnected network of Odysseys that spreads around the world.
+We believe that the metaverse, with its added third dimension and “physical presence”, give the opportunity to create unprecedented cooperative experiences.
 
-We discussed this concept intensely internally. Incredibly powerful and passionate arguments from producers, developers, and founders—concerning very abstract concepts such as the definition of self, the way we present ourselves online and what a journey really is. We soon realised that the idea of the Odyssey had taken root in the company.
+> We are the sum total of our experiences—B.J. Neblett
 
-Two weeks later, the entire company assembled and pivoted to make this idea a reality.
+So, why not enhancing our experiences, together?
 
-What you are seeing now are the results of that pivot. You are now part of our journey, and we are now part of yours.
+## What can I do with Odyssey?
 
-Welcome to Odyssey!
+You can accomplish three things:
+
+1- Build your own 3D world, with custom assets and functionalities.
+2- Generate, program, and participate in unique collaborative experiences
+3- Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking)
+
+We enable these via three pillars:
+
+1- The Odyssey Creator (a 3D world builder, not dissimilar to what you find in MMORPGs like Minecraft)
+2- A plugin infrastructure
+3- The Momentum ($MOM) token
+
+Let’s quickly see an overview of all three.
+
+### Odyssey Creator
+
+A multiplayer game-style world builder that allows you to place objects (both default and custom) in your Odyssey. You can also change the skybox (the backdrop of your Odyssey, which controls the vibe of your world); custom skyboxes are coming soon.
+
+The builder has all the standard features such as move, scale, and rotate. In addition, you can assign each object a specific functionality (e.g. connect a Miro board, a Google document, text).
+
+### Plugin infrastructure
+
+Odyssey is open-source, and we are implementing a plugin infrastructure to let everyone create the functionalities they need (think of it as WordPress plugins for your metaverse).
+
+The power of the plugins is twofold:
+
+1- Creators will gain tailored functionalities to create even more unique experiences, hence attracting more people
+2- Developers will be able to create value for the community, while implementing their own earning mechanisms (e.g. tip-based, subscription, a fee per usage, one-time fee, etc.)
+
+### Momentum token
+
+$MOM (Momentum) is a **utility token** used both for paying network fees (e.g. minting your Odyssey) and for connecting to other Odyssey—our implementation of staking which yields both the staker and the stakee. Read more about $MOM further down.
+
+### Collaboration tools
+
+In addition to the three pillars above, Odyssey comes with built-in collaboration tools to host your events and unleash your creative powers.
+
+- Calendar (schedule events and allow users to pop them in their Google or iCal)
+- Voice and text chat
+- Screen sharing
+
+## How do you interact with Odyssey?
+
+Odyssey gives you freedom of action. There are many ways to interact with your Odyssey and the Odysseys of others:
+
+- Build your Odyssey, fill it with your creations
+- Organise events and experiences by leveraging the collaboration tools
+- Connect (aka stake) in the Odyssey of your favourite creators and get rewarded with $MOM
+- Participate in events created by other users and help co-create new experiences
+
+## What is the Momentum Token?
+
+We already said that Momentum is the native token of Odyssey, which will serve as a utility token to mint and have full ownership of your metaverse, as well as for fees and rewards.
+
+Our vision encompasses other uses of $MOM, such as:
+
+- **Tokenised business model** by token-gating specific sections/objects within your Odyssey (e.g. allowing access to token-holders only, or using token as tickets for events, collecting subscriptions, membership fees, etc.)
+- **Monetisation** of plugins and other assets
+- **Native token**, with which you can mint your own community tokens (i.e. tokens specific to your Odyssey)
+- **On-chain social networks**, by connecting on-chain through staking
+
+### Community tokens
+
+These are tokens minted through the Momentum token, and will be specific to your Odyssey (e.g. my name is Alex, I can have the Alex token).
+
+Community tokens can be exchanged back to $MOM in Odyssey’s DEX (Decentralised Exchange), hence they’ll help you generate value from your creations. Furthermore, community tokens will empower you to fully control the tokenomics of your Odyssey, giving you ultimate freedom to program and value both what you build and the connections you make with other users.
+
+Some uses of community token include:
+
+A community token could be used for:
+
+- **Permissions**: Users must hold a certain amount of tokens or NFTs to gain access to your Odyssey, some events you organise, or specific objects in your Odyssey
+- **Airdrops and incentives**: Community tokens have a direct link between the user and the token creator and can be used for airdrops
+- **Micropayments**: You may accept your token as a form of payment for your content (for example, NFTs), or provide a discount when your community token is used
+- **Tipping**: The community token can be used for tipping within the community to back content/activities
+- **Governance**: community tokens—or NFTs bought with it—could be used to grant voting rights within the community
+
+
+## Some use cases
+
+**You are an NFT artist**. Display your artwork in a 3D environment, hold auctions, sell your work both within the Odyssey and outside. More than that, hold events and gatherings for art enthusiasts, or even events where you co-create unique art pieces with other artists (for example, through a plugin that integrates Magma, just like we integrated Miro).
+
+**You are in a band**. You can live cast your gig in your Odyssey, and let thousands of people that cannot be there in person enjoy your concert, but also participate by posting pictures, or interact with you via voice chat. With the right implementation, even experience the show with VR. After the concert, you could give access to the recording through your community token, or even mint your formidable guitar solo for your fans to hold as an NFT.
+
+## How do I get started with Odyssey?
+
+Odyssey is currently on testnet, and you can go to [odyssey.org](https://odyssey.org) to create your own Odyssey right now. All you need is a Polkadot-compatible wallet (at the moment, we recommend Polkadot.JS).
+
+Here are a few useful links:
+
+- If you don’t have a wallet, [go here](/create-your-odyssey/get-a-wallet.md)
+- To mint your Odyssey, [go here](/create-your-odyssey/the-birth-process.md)
+- To start building your Odyssey, [go here](/create-your-odyssey/first-steps.md)
+
+## Brief history of Odyssey
+
+These are some pivotal points in the history of Odyssey, which help understand what made the blossoming of our current vision possible.
+
+Odyssey started by organising the largest in-person blockchain hackathons in Europe. When Covid-19 didn’t allow us to do the physical hackathon, we pivoted by creating an online 3D world inspired by MMORPGs to host our hackathons, as no other tool could get the job done. We successfully hosted hackathons with up to 2500 participants simultaneously in one world. Only after our hackathon, we learned about the term Metaverse, and then understood that that was what we were building. 
+
+
+After client collaborations (with, amongst others, the Dutch Ministry of Interior, Vattenfall, Sovereign Nature Initiative and the Kusama network), we are now at a stage where everyone can create their own 3D world, without being confined to land in a metaverse; a world with its own tokenomics, looks, and functionality. 
+
+We have always been a community based organisation building bridges with the web3 world. We therefore also develop our stack in public and with users together.
+
+## Deeper into the rabbit hole…
+
+Ready to dive in deeper?
+
+**Useful links:** 👇
+
+- Check out our [slide deck](https://docs.google.com/presentation/d/e/2PACX-1vQeOBc0JvY5xCZxq83sFT3t_Nw8YJEFbjlMEvX1NSef1_s1Fkmp0bDfcmF_9CPIg7_FQTYpthH7U5I5/pub?start=false&loop=false&delayms=3000&slide=id.p), it has more information about the tech stack, mechanics, and philosophy of Odyssey 
+- Read these docs, [this is a good place to start](/create-your-odyssey/first-steps.md)
+- Read the [blog](https://discover.odyssey.org/blog/), you’ll find tutorials, ideas, and interviews
+- Join us on [Discord](https://discord.gg/6PH9nSu7UP) or [Telegram](https://t.me/odysseycreator) to share your feedback and chat with the community
+- Follow us on [Twitter](https://twitter.com/odysseycreator), [LinkedIn](https://www.linkedin.com/company/odysseycreator/), [YouTube](https://www.youtube.com/@odysseycreator), and [Medium](https://medium.com/@myodyssey)
