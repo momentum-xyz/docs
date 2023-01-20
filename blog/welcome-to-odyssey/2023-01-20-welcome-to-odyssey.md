@@ -85,6 +85,7 @@ You can invite people to your Odyssey, and make it easy to co-create together:
 Odyssey has a built-in Connections system, which is based on the web3 concept of staking. You can connect to another Odyssey and earn rewards in $MOM token. You will also be rewarded when people connect with you.
 
 We are also working on token-gated access, which will allow you, for example, to grant exclusive access to your Odyssey to token holders only. The token-gating mechanism will enable numerous business models, like subscriptions, and ticket-based access.
+
 ## Future features
 
 We are still in the early stages, but we aim to achieve our vision through three pillars:
@@ -107,7 +108,7 @@ Our MVP (Minimum *Lovable* Product), is still green, and we would like your help
 
 We invite you to create your Odyssey on [odyssey.org](https://odyssey.org) (instructions [here](https://discover.odyssey.org/create-your-odyssey/the-birth-process/)), and join our [Discord](https://discord.gg/6PH9nSu7UP) server to share both your feedback and what you built.
 
-We'd love for you to be a part Odyssey. Let's continue to push the boundaries and explore the endless possibilities of the metaverse together!
+We'd love for you to be a part of Odyssey. Let's continue to push the boundaries and explore the endless possibilities of the metaverse together!
 
 - This is a list of what you can currently experience in your Odyssey
 - Mint your Odyssey as NFT
