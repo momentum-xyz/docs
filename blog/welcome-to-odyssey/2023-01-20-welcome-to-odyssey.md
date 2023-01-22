@@ -42,7 +42,7 @@ Gaming metaverses had 400 million MAU (Monthly Active Users). Non-gaming metaver
 
 Because **the majority of metaverses are trying to apply a new technology (the metaverse) to an old paradigm (web2)**. Let’s compare web2 and web3 metaverses, it will be clear why web2 metaverses are not appealing.
 
-| Web3 metaverse | Web3 Metaverse |
+| Web2 metaverse | Web3 Metaverse |
 |--------------|--------------|
 | Social content media | Social activity media |
 | Maximising screen time | Maximising value (creation) |
