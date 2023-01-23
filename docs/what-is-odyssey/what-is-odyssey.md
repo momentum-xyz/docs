@@ -31,7 +31,7 @@ We believe that the metaverse, with its added third dimension and “physical pr
 
 > We are the sum total of our experiences—B.J. Neblett
 
-So, why not enhancing our experiences, together?
+So, why not enhance our experiences, together?
 
 ## What can I do with Odyssey?
 
