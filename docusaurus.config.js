@@ -92,7 +92,7 @@ async function createConfig() {
         announcementBar: {
           id: 'annoucement_wip',
           content:
-            'Work In Progress...',
+            'Odyssey is currently in pre-alpha testnet release, feel free to experiment around!',
           backgroundColor: '#fafbfc',
           textColor: '#091E42',
           isCloseable: false,
