@@ -92,26 +92,9 @@ We already said that Momentum is the native token of Odyssey, which will serve a
 Our vision encompasses other uses of $MOM, such as:
 
 - **Tokenised business model** by token-gating specific sections/objects within your Odyssey (e.g. allowing access to token-holders only, or using token as tickets for events, collecting subscriptions, membership fees, etc.)
-- **Monetisation** of plugins and other assets
+- **Tokenisation** of plugins and other assets
 - **Native token**, with which you can mint your own community tokens (i.e. tokens specific to your Odyssey)
 - **On-chain social networks**, by connecting on-chain through staking
-
-### Community tokens
-
-These are tokens minted through the Momentum token, and will be specific to your Odyssey (e.g. my name is Alex, I can have the Alex token).
-
-Community tokens can be exchanged back to $MOM in Odyssey’s DEX (Decentralised Exchange), hence they’ll help you generate value from your creations. Furthermore, community tokens will empower you to fully control the tokenomics of your Odyssey, giving you ultimate freedom to program and value both what you build and the connections you make with other users.
-
-Some uses of community token include:
-
-A community token could be used for:
-
-- **Permissions**: Users must hold a certain amount of tokens or NFTs to gain access to your Odyssey, some events you organise, or specific objects in your Odyssey
-- **Airdrops and incentives**: Community tokens have a direct link between the user and the token creator and can be used for airdrops
-- **Micropayments**: You may accept your token as a form of payment for your content (for example, NFTs), or provide a discount when your community token is used
-- **Tipping**: The community token can be used for tipping within the community to back content/activities
-- **Governance**: community tokens—or NFTs bought with it—could be used to grant voting rights within the community
-
 
 ## Some use cases
 
