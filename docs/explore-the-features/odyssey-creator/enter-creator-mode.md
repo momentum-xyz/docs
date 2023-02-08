@@ -14,7 +14,3 @@ In order to enter Creator mode you need to simply click on the Odyssey Creator i
 You will see a tools panel on the left of your screen. If you want to modify an object, just click on it and start editing!
 
 ![Gif showing how to enter creator mode](img/enter-creator-mode.gif)
-
-## Next steps
-
-Awesome! Let's move to the next section, where the cool stuff is 😎
