@@ -44,7 +44,12 @@ Odyssey supports the [glTF](https://en.wikipedia.org/wiki/GlTF) 3d graphical fil
 To start browsing through what OpenGameArt.Org has to offer, you can visit their [3D art](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=10&sort_by=count&sort_order=DESC) page. Use the left panel to refine your search, you can even filter by licence if you know which one you want.
  
 When you have found the object you are looking for, if you click on the preview image, it will tell you the format of the asset. Remember: `.glb`, or `.obj` are the best!
- 
+
+### Poly Haven
+[Poly Haven](https://polyhaven.com/) is a South African project that offers open 3D models. They are really high quality, so make sure they are not too heavy.
+
+They also have quite a few [HDRI images](https://polyhaven.com/hdris) that can be used as skybox for your Odyssey.
+
 ### Sketchfab
  
 [Sketchfab](https://sketchfab.com/) is a commercial website, but they accept open-source submissions, [which are tagged as such](https://sketchfab.com/tags/open-source). Due to the hybrid nature of the website, make sure you triple-check the licence of each model.

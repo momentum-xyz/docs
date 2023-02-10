@@ -25,3 +25,7 @@ You can also remove skyboxes you don't need anymore:
 1. Enter [Creator mode](enter-creator-mode.md)
 2. Click on the `skybox` button (it's the first one from the top in the tools panel on the left)
 3. Click on the `Bin` icon in the top-right corner of the skybox you want to delete, and confirm your choice. Note that you cannot delete the default skybox (Odysseynebula) or the active skybox
+
+:::tip
+[Poly Haven](https://polyhaven.com/hdris) has quite a few 360 images that can be used as skybox for your Odyssey.
+:::
