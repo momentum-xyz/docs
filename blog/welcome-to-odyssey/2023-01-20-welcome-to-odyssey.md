@@ -2,6 +2,7 @@
 title: Welcome to Odyssey, the web 3D social medium for novel metaverse experiences
 description: Odyssey lets you create, own, and build your own 3D world. We landed to this paradigm after years of experimentation with live and virtual hackathons, and custom metaverses. Own you world, implement your tokenomics, and program new on-chain digital experiences impossible before. 
 authors: azanutto
+slug: welcome-to-odyssey-the-web-3d-social-medium-for-novel-metaverse-experiences
 tags: [odyssey, metaverse, digital experiences]
 hide_table_of_contents: false
 ---
