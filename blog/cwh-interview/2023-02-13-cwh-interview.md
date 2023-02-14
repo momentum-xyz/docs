@@ -1,6 +1,6 @@
 ---
-title: Odyssey super user interview - Clown World House
-description: CWH (Clown World House) is among Odyssey’s first super-users find out what kind of artist he is, why he uses Odyssey, and how it may contribute to his work in the future.
+title: Odyssey superuser interview - Clown World House
+description: CWH (Clown World House) is among Odyssey’s first superusers find out what kind of artist he is, why he uses Odyssey, and how it may contribute to his work in the future.
 authors: azanutto
 slug: odyssey-super-user-interview-clown-world-house
 tags: [odyssey, users, interview]
@@ -9,8 +9,8 @@ hide_table_of_contents: false
 
 import ReactPlayer from 'react-player/lazy'
 
-# Odyssey super user interview - Clown World House
-CWH (Clown World House) is among Odyssey’s first super-users. In this interview, we aim to find out what kind of artist he is, why he decided to invest time in Odyssey, and how he thinks Odyssey may contribute to his work and that of other artists.
+# Odyssey superuser interview - Clown World House
+CWH (Clown World House) is among Odyssey’s first superusers. In this interview, we aim to find out what kind of artist he is, why he decided to invest time in Odyssey, and how he thinks Odyssey may contribute to his work and that of other artists.
 
 *If you are the TL;DR type, here it for you*: CWH is a 3D NFT artist who sees Odyssey as a new, potentially more appealing, metaverse paradigm, where custom assets can not only be displayed and sold, but also be programmed to enhance the digital experiences of all users.
 
@@ -71,7 +71,9 @@ Also, it’s a new product in alpha version, so the interface can be a bit compl
 Try using 3D objects that have a small size for better performance. For ideas, feel free to visit my world and even copy what I did!
 
 Also, it’s very helpful if you share your feedback with them on Discord, as they are very receptive.
-Can you show us around what you have built so far?
+
+## Can you show us around what you have built so far?
+
 It’s better if we include a video here! You can see I added several models, an animated skybox (which is a world-within-the-world). I am actually creating a collection of these custom skyboxes, so I can help people get started. I will have more information about them on my Twitter feed soon.
 
 <ReactPlayer playing controls url='https://youtu.be/iFuyvnrIxPI' />
