@@ -209,7 +209,7 @@ async function createConfig() {
                 },
                 {
                   label: 'Medium',
-                  href: 'https://medium.com/@myodyssey',
+                  href: 'https://medium.com/@odysseycreator',
                 },
                 {
                   label: 'LinkedIn',
