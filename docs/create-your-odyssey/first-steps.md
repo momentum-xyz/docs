@@ -11,7 +11,7 @@ We put together this page to swiftly walk you from the creation of your Odyssey 
 
 We will link to detailed guides, but here you will find everything you need to get started.
 
-## The explorer
+## The Explorer
 
 When you navigate to [odyssey.org](https://odyssey.org) you are presented with the Explorer. Here you can see and explore other people’s Odysseys, visit them, and see their connections.
 
@@ -94,7 +94,7 @@ Your cube can do much more than just floating in the middle of your Odyssey. Let
 Notice that if you select an image before assigning the video functionality, the image is kept.
 :::
 
-## Upload your first custom asset
+## Upload your first custom 3D asset
 
 Let’s move on to custom assets. To upload one:
 
