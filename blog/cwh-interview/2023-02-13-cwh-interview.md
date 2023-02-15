@@ -1,16 +1,16 @@
 ---
-title: Odyssey superuser interview - Clown World House
-description: CWH (Clown World House) is among Odyssey’s first superusers find out what kind of artist he is, why he uses Odyssey, and how it may contribute to his work in the future.
+title: Odyssey user interview - Clown World House
+description: CWH (Clown World House) is among Odyssey’s first users find out what kind of artist he is, why he uses Odyssey, and how it may contribute to his work in the future.
 authors: azanutto
-slug: odyssey-super-user-interview-clown-world-house
+slug: odyssey-user-interview-clown-world-house
 tags: [odyssey, users, interview]
 hide_table_of_contents: false
 ---
 
 import ReactPlayer from 'react-player/lazy'
 
-# Odyssey superuser interview - Clown World House
-CWH (Clown World House) is among Odyssey’s first superusers. In this interview, we aim to find out what kind of artist he is, why he decided to invest time in Odyssey, and how he thinks Odyssey may contribute to his work and that of other artists.
+# Odyssey user interview - Clown World House
+CWH (Clown World House) is among Odyssey’s first 200 alpha users. In this interview, we aim to find out what kind of artist he is, why he decided to invest time in Odyssey, and how he thinks Odyssey may contribute to his work and that of other artists.
 
 *If you are the TL;DR type, here it for you*: CWH is a 3D NFT artist who sees Odyssey as a new, potentially more appealing, metaverse paradigm, where custom assets can not only be displayed and sold, but also be programmed to enhance the digital experiences of all users.
 
@@ -49,7 +49,7 @@ I knew about [Momentum](https://medium.com/odyssey-hackathon/igniting-the-kusama
 
 ## Odyssey is still in alpha on testnet, but what do you imagine could be its role in what you do?
 
-I’ll start with a story. When Decentraland was in pre-alpha, it was similar to Odyssey. You had basically a 3D room in the metaverse. Then they made a contest where you had to build a scene in the metaverse. Now, Decentraland is huge. I think Odyssey could take at least 10% of that market. They can be huge.
+I’ll start with a story. When Decentraland was in pre-alpha, it was similar to Odyssey. You had basically a 3D room in the metaverse. Then they made a contest where you had to build a scene in the metaverse. Now, Decentraland is huge. I think Odyssey has that kind of potential.
 
 
 For me, Odyssey can be the perfect outlet to join programming and 3D models. The Odyssey team is really supportive, and if the community grows, I could use some game logic implemented by the team via plugins and make my own games. I used to run one of the largest Minecraft servers in my country, so I know something about the metaverse. Odyssey cares about making things programmable and helping their community, which is not always the case for metaverse platforms.
