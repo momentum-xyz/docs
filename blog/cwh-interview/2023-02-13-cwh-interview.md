@@ -82,7 +82,7 @@ It’s better if we include a video here! You can see I added several models, an
 
 [Clown World House (CWH)](https://t.co/BXiRlW5R1h) is a 3D artist, world builder, and Blockchain enthusiast. He has contributed as a 3D artist to several projects in the Dotsama ecosystem and is passionate about on-chain games and gamification.
 
-CWH is one of the first Odyssey power-users and has joined the journey early in the pre-alpha stage on testnet. You can visit his Odyssey at [this link](https://odyssey.org/magic/f3d10b05-1cdf-4f10-9b25-55766b3c2083), and connect with him through Twitter [@ClownWorldHouse](https://twitter.com/ClownWorldHouse) or Discord at CWH#0039.
+CWH is one of the first Odyssey users and has joined the journey early in the pre-alpha stage on testnet. You can visit his Odyssey at [this link](https://odyssey.org/magic/f3d10b05-1cdf-4f10-9b25-55766b3c2083), and connect with him through Twitter [@ClownWorldHouse](https://twitter.com/ClownWorldHouse) or Discord at CWH#0039.
 
 You can also explore CWH’s 3D NFT collections on [Singular](https://singular.app/space/kusama/FQBgFrkzevAZCvFZB485rQa6h7gsZQz3UXRuYwxAzG7zQ4w/nfts/owned?isVerified=false&sortBy=nfts:minted_at_block:desc) and [Kodadot](https://kodadot.xyz/bsx/u/bXjRHCau93ZGw2Eq6g69oFmhcdezyLc8mg6WS1kmTVaZz4NM3?page=2).
 

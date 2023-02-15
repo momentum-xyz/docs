@@ -102,8 +102,8 @@ async function createConfig() {
           title: 'Odyssey',
           logo: {
             alt: 'Odyssey Logo',
-            src: 'img/rabbit-dark.svg', //need to change logo when available
-            srcDark: 'img/rabbit-light.svg', //need to change logo when available
+            src: 'img/rabbit-dark.svg',
+            srcDark: 'img/rabbit-light.svg',
           },
           items: [
             {
@@ -254,25 +254,27 @@ async function createConfig() {
           darkTheme: darkCodeTheme,
         },
       }),
-    /*
     plugins: [
       [
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
           {
+            from: '/blog/odyssey-super-user-interview-clown-world-house/',
+            to: '/blog/odyssey-user-interview-clown-world-house/',
+          },
+          /*{
             from: '/category/learn/',
             to: '/learn/what-is/',
           },
           {
             from: '/learn/AMA - Odyssey method/',
             to: '/Odyssey method/How to/',
-          },
+          },*/
         ],
       }
       ],
     ],
-    */
   };
   return config;
 }
