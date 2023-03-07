@@ -33,6 +33,10 @@ jobs:
           node-version: 18
           cache: npm
 
+      - name: versions
+        run: |
+          npm version
+          npm config get cache
       - name: Install dependencies
         run: npm ci
 
