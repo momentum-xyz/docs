@@ -14,23 +14,27 @@ Ownership is stored in the form of ERC721 tokens, that are non-fungible tokens (
 The Harvesters job is to keep track of balances and transactions of tokens between wallets.
 
 # Architecture 
-A high level of the architecture components behind the harvester system 
+A high level of the architecture components behind the harvester system can be seen on the figure below.
+
 ![Harvester architecture overview](img/harvester_graphic.jpeg)
 
 ### Core (ubercontroller)
+The harvester core lives in its own package 'harvester', this package also contains the harvester adapters.
 <mark>Todo: core introduction</mark>
 
-### General Events
+### Adapters
+Adapters are responsible for connection to a certain blockchain, the Run() function is called from main.go to initiate a new websocket connection to a specific chain.
+Chain adapters can be seen as plugins.
+
+### Keeping balances
+Depending on what contract the wallet is setup to listen to, the harvester will keep track of the state of the wallets that are involved in the transaction.
+
 <mark>Describe general events flow</mark>
-
-### Contracts
-<mark></mark>
-
-### Contracts and Wallets
-<mark></mark>
 
 ### Example
 ![Harvester example flow](img/harvester_example.jpeg)
 
 ### Database
-<mark>Todo: insert Harvester database schema</mark>
+In order to keep track of the current state of wallets and their balances. They are synchronized with the database. For this, a separate database structure exists as can be seen on the figure below.
+
+![Harvester example flow](img/harvester_database.png)
