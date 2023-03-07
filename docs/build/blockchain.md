@@ -58,7 +58,7 @@ Backend will have a Harvester subsystem, whose job will be to connect our system
 
 They will be stored in the database and used to generate the data for the API and possibly real-time events allowing the UI client to react in a seamless manner.
 
-**TODO flow diagram**
+**TODO** link to Harvester tech design
 
 ## Working with wallets extensions in UI client
 
@@ -76,3 +76,45 @@ The UI Client will have a unified way of working with the wallets having them im
 This way adding new integration should be without changing much mode, by implementing the interface.
 
 It could later be done as special UI plugin once Odyssey plugin infrastructure is more mature.
+
+## Overall architecture
+
+```mermaid
+flowchart LR
+    subgraph UI [UI Client]
+        direction TB
+        BA[Blockchain Adapter]
+        PBC[Posbus Client]
+        APIC[API Client]
+        Wallets --> BA
+    end
+
+    BA --> B
+    PBC <--> PBS
+    APIC --> API
+
+    subgraph Controller
+        A[Abstraction layer]
+        PBS[Posbus Server]
+        H[Harvester]
+        API --> A
+        PBS <--> |Events|A
+    end
+
+    A --> H
+
+    H --> BE
+    H --> BP
+    H --> BAI
+    H --> BAO
+    H --> BO
+
+    subgraph B [Blockchain]
+        direction TB
+        BE[Ethereum baselayer]
+        BP[Polygon PoS chain]
+        BAI[Arbitrum Nitro]
+        BAO[Arbitrum Nova]
+        BO[Optimism]
+    end
+```
