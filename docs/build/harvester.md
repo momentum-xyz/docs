@@ -2,7 +2,7 @@
 title: Harvester Tech Design | Odyssey
 description: Odyssey Harvester Tech Design
 sidebar_label: Harvester
-sidebar_position: 5
+sidebar_position: 7
 ---
 This document provides a high level overview of the architecture and system behind Odyssey that we hope to be building with you. This is a living document that will be updated and expanded, so keep and eye on it!
 
@@ -38,3 +38,8 @@ Depending on what contract the wallet is setup to listen to, the harvester will 
 In order to keep track of the current state of wallets and their balances. They are synchronized with the database. For this, a separate database structure exists as can be seen on the figure below.
 
 ![Harvester example flow](img/harvester_database.png)
+
+The 'blockchain' table contains all the data necessary to connect to a certain chain.
+Table 'wallet' is a pivot table to link a wallet to a specific chain ID.
+The 'balance' table contains the balance of the wallet, and the last processed block number. This number can be used to assess where-ether the harvester is synchonized correctly.
+Finally the 'contract' table contains
