@@ -12,3 +12,6 @@ Embed your miro boards, so people can contribute to your project, or just see wh
 
 ## Google Drive
 Embed any Google document (text, spreadsheet, or presentation) in your Odyssey. Go nuts!
+
+## Future plugins
+We are working on expanding Odysseys by introducing new plugins! More info to come!

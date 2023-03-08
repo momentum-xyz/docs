@@ -131,11 +131,9 @@ The _API_ provides a service to retrieve ‘bulk’ data, mainly used by the 2D 
 *Check our repo: [api]([https://github.com/momentum-xyz/ui-client](https://github.com/momentum-xyz/ui-client/tree/develop/packages/app/src/api))*
 
 ## Media Manager
-<mark>Todo: Possible remove and move to its own md chapter, as this is not part of the ubercontroller</mark>
-
 The _media manager_ serves ‘large’ files to the browsers, like images, textures, 3D assets and music.
 
-*Check our repo: [media-manager](https://github.com/momentum-xyz/media-manager)*
+*More info on media manager: [Media Manager](media-manager.md)*
 
 ## Plugins
 Plugins are an integral part of making Odysseys expandable and customizable.
