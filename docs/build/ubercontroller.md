@@ -143,4 +143,20 @@ The plugin infrastructure is a work in progress, which will enable creatives to 
 
 *More info on plugins: [Plugins](plugins.md)*
 
+## Statistics
+At the moment of writing, statistics collected by the uber controller are being deployed on a Grafana instance. You can reach this instance by browsing: https://stats.dev.odyssey.ninja/grafana
 
+### Prerequisites
+- InfluxDB
+
+### Configuration
+The following environment variables are required in order to connect to the influx instance, these variables need to be set in the config.yaml file.
+
+Yaml Module: `influx`
+
+| Variable | Description  |
+|----------|--------------|
+| url      | Instance url |
+| org      | Organisation |
+| bucket   | Bucket name  |
+| token    | Influx token |
