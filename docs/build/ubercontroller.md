@@ -24,10 +24,74 @@ The package also contains all the logic in order to mutate objects inside an Ody
 Inside the universe package a number of sub-packages can be found, the sub-packages correspond with the database table names. And can be seen as the entities of an Odyssey.
 Packages that require mutations from outside the application, contain api.go modules. These modules define API-methods used to mutate database data. i.e spawning a new object inside an Odyssey.
 
+A file tree of the universe can be seen on the figure below.
 
--> What is a node?
--> What are objects
--> How is an object being stored?
+```
+├── universe
+│   ├── asset2d
+│   │   └── asset2d.go
+│   ├── asset3d
+│   │   └── asset3d.go
+│   ├── assets2d
+│   │   ├── api.go
+│   │   └── assets2d.go
+│   ├── assets3d
+│   │   ├── api.go
+│   │   └── assets3d.go
+│   ├── attribute_type
+│   │   └── attribute_type.go
+│   ├── attribute_types
+│   │   ├── api.go
+│   │   └── attribute_types.go
+│   ├── calendar
+│   │   └── calendar.go
+│   ├── iot
+│   │   └── iot.go
+│   ├── logic
+│   │   ├── api
+│   │   ├── dto
+│   │   ├── middleware
+│   │   └── logic.go
+│   ├── interfaces.go
+│   ├── node
+│   │   ├── api.go
+│   │   └── node.go
+│   ├── singletons.go
+│   ├── object
+│   │   ├── object.go
+│   │   ├── objects.go
+│   │   └── users.go
+│   ├── object_type
+│   │   └── object_type.go
+│   ├── object_types
+│   │   ├── api.go
+│   │   └── object_types.go
+│   ├── plugin
+│   │   └── plugin.go
+│   ├── plugins
+│   │   ├── api.go
+│   │   ├── api_plugins.go
+│   │   └── plugins.go
+│   ├── user
+│   │   ├── message_loop.go
+│   │   ├── network.go
+│   │   ├── stats.go
+│   │   └── user.go
+│   ├── user_type
+│   │   └── user_type.go
+│   ├── user_types
+│   │   ├── api.go
+│   │   └── user_types.go
+│   ├── world
+│   │   ├── api.go
+│   │   ├── users.go
+│   │   ├── users_api.go
+│   │   ├── world.go
+│   │   └── world_api.go
+│   └── worlds
+│       ├── api.go
+│       └── worlds.go
+```
 
 ### Objects
 
