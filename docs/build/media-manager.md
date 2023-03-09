@@ -12,3 +12,8 @@ The media manager is responsible for saving and processing textures and assets s
 _ubercontroller_ contains an API-endpoint that can be used to upload a texture or asset to the media manager.
 
 *Check the repo: [Media Manager]([https://github.com/momentum-xyz/media-manager](https://github.com/momentum-xyz/media-manger))*
+
+## Example
+Short description about example
+
+<mark>Todo: sequence?</mark>

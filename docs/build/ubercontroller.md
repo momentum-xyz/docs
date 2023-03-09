@@ -14,7 +14,7 @@ The _ubercontroller_ provides a service for real time updates of data. Any chang
 ## Architecture 
 A high level of the architecture behind the ubercontroller can be found on the figure below:
 
-<mark>Todo: Write overview</mark>
+<mark>Todo: architecture diagram?</mark>
 
 ## Universe
 
@@ -118,7 +118,24 @@ The _attribute_type_ determines the type of attribute that is to be associated w
 
 ### Automatic handling of attribute changes (Unity auto)
 
--> Short description of Unity Auto
+In the event that an attribute has been added/edited/removed, _unity_auto.go_ and/or _posbus_auto.go_ process the changes automatically.
+This is in order to ensure that all connected clients are able to reflect the requested changes.
+
+A sequence diagram of the unity auto flow can be seen below:
+
+```mermaid
+sequenceDiagram;
+    participant UC as Unity Client
+    participant FE as UI Client
+    participant BE as Controller
+    participant DB as Database
+    FE->>BE: apiSetObjectAttributesValue(ObjectID)
+    BE->>DB: upsertAttribute(ObjectID)
+    DB-->>BE: response
+    Note left of BE: If upsert is successful
+    BE->>BE: onObjectAttributeChanged()
+    BE->>UC: unityAutoAttributeMessage()
+```
 
 ## Database
 Below you can have look at out database schema that shows how the data is organized. It also shows the relations between tables.
@@ -128,7 +145,55 @@ Below you can have look at out database schema that shows how the data is organi
 ## API
 The _API_ provides a service to retrieve ‘bulk’ data, mainly used by the 2D interface to get information about the Odyssey which the user is currently in. This is served in a common, open format (the OpenAPI specification + Swagger for implementation) [Odyssey API documentation](https://discover.odyssey.org/api/develop/)
 
-*Check our repo: [api]([https://github.com/momentum-xyz/ui-client](https://github.com/momentum-xyz/ui-client/tree/develop/packages/app/src/api))*
+*Check our repo: [GitHub]([https://github.com/momentum-xyz/ui-client](https://github.com/momentum-xyz/ui-client/tree/develop/packages/app/src/api))*
+
+### Examples
+
+A few example API-calls made from the ui-client can be found on the sequence diagrams below:
+
+#### Creating an object
+
+```mermaid
+sequenceDiagram;
+    participant UC as Unity Client
+    participant FE as UI Client
+    participant BE as Controller
+    participant DB as Database
+    FE->>BE: apiObjectsCreateObject()
+    BE->>BE: calcObjectSpawnPosition()
+    BE->>DB: upsertObject()
+    DB-->>BE: response
+    BE->>UC: sendSpawnMessage(ObjectID)
+```
+
+#### Uploading an image to the media manager
+
+```mermaid
+sequenceDiagram;
+    participant FE as UI Client
+    participant BE as Controller
+    participant MM as Media Manager
+    FE->>BE: apiMediaUploadImage(File)
+    BE->>MM: /render/addimage {file}
+    MM-->>BE: hashResponse
+    BE->>FE: imageHash
+```
+
+#### Fetching a user by UserID
+
+```mermaid
+sequenceDiagram;
+    participant FE as UI Client
+    participant BE as Controller
+    participant DB as Database
+    FE->>BE: apiUsersGetByID(UserID)
+    BE->>DB: getUserByID(UserID)
+    DB-->>BE: response
+    Note left of BE: If user exists
+    BE->>BE: ToUserDTO()
+    BE->>FE: UserDTO
+```
+
 
 ## Media Manager
 The _media manager_ serves ‘large’ files to the browsers, like images, textures, 3D assets and music.
