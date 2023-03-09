@@ -2,7 +2,7 @@
 title: Plugins
 description: Almost every function in Odyssey is controlled by a plugin. Let's find out what plugins are available and how to create your own!
 sidebar_label: Plugins
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Available plugins
 The Odyssey team is always looking for new functionality to offer. Here's what's available right now

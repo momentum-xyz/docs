@@ -2,7 +2,7 @@
 title: Ubercontroller Tech Design | Odyssey
 description: Odyssey Ubercontroller Tech Design
 sidebar_label: Ubercontroller
-sidebar_position: 5
+sidebar_position: 2
 ---
 This document provides a quick high level overview of the architecture and system behind Odyssey that we hope to be building with you. This is a living document that will be updated and expanded, so keep and eye on it!
 
@@ -110,12 +110,6 @@ Objects always have a form of visibility. As seen on the table below:
 
 Objects are mutated by using API-calls, as seen in the [API documentation](https://discover.odyssey.org/api/develop/)
 
-#### - Attributes
-
-Attributes are always part of an object and plugin. Attributes can be seen as properties of an object they always have an _attribute_type_.
-The _attribute_type_ determines the type of attribute that is to be associated with the object. i.e _name_ or _object_color_.
-
-
 ### Automatic handling of attribute changes (Unity auto)
 
 In the event that an attribute has been added/edited/removed, _unity_auto.go_ and/or _posbus_auto.go_ process the changes automatically.
@@ -205,6 +199,13 @@ Plugins are an integral part of making Odysseys expandable and customizable.
 The plugin infrastructure is a work in progress, which will enable creatives to write their own customizations.
 
 *More info on plugins: [Plugins](plugins.md)*
+
+### Attributes
+
+This provides plugins with a generic storage solution (for ‘simple’ key-value data), without the need to change the database schema.
+
+The _attributes_ table defines which ones are available. These can then either be linked to objects or user _and _object (using the object_attributes or _user_objects_attributes_ m2m through tables) to give them a value. <br/>
+Property _attribute_type_ determines the type of attribute that is to be associated with the object. i.e _name_ or _object_color_.
 
 ## Statistics
 At the moment of writing, statistics collected by the uber controller are being deployed on a Grafana instance. You can reach this instance by browsing: https://stats.dev.odyssey.ninja/grafana

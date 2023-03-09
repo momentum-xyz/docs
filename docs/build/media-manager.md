@@ -2,7 +2,7 @@
 title: Media Manager Tech Design | Odyssey
 description: Odyssey Media Manager Tech Design
 sidebar_label: Media Manager
-sidebar_position: 6
+sidebar_position: 4
 ---
 This document provides a high level overview of the architecture and system behind Odyssey that we hope to be building with you. This is a living document that will be updated and expanded, so keep and eye on it!
 
