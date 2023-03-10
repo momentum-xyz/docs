@@ -53,7 +53,7 @@ The Harvesters job is to keep track of balances and transactions of tokens betwe
 *More information: [Harvester](harvester.md)*
 
 ### Database
-Below you can have look at out database schema that shows how our data is organized & the relationships inside
+Below you can have look at the database schema that shows how our data is organized & the relationships inside
 
 ![Odyssey database schema](img/database.png)
 *More information: [Database](database.md)*

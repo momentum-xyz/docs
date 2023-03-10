@@ -22,28 +22,28 @@ Tables concerning the harvester are unrelated to the rest of the schema.
 
 An overview of tables and their definitions can be found on the table below: 
 
-| Table                 | Description                                                                                                     |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|
-| asset_2d              | 2d-asset IDs, these can be assets related to plugin functionality such as Miro or GDrive                        |
-| asset_3d              | 3d-asset IDs, for rendering 3D assets in the Unity Client                                                       |
-| attribute_type        | Generic attribute types, these are used to give entities such as objects additional attributes                  |
-| balance               | Current balance state for a wallet and contract on a specific blockchain                                        |
-| blockchain            | Blockchain related information, as well as the last processed block on a specific chain                         |
-| contract              | Contract IDs and their names                                                                                    |
-| node_attribute        | Attributes that are required in order to launch a new Node                                                      |
-| object                | Basic object related data such as IDs, and IDs of their owners (users) and parent objects                       |
-| object_attribute      | Additional attributes linked to object IDs                                                                      |
-| object_type           | Type of object, i.e Skybox                                                                                      |
-| object_user_attribute | Additional attributes related to objects _and_ users                                                            |
-| plugin                | Basic data concerning plugins                                                                                   |
-| schema_migrations     | Most up to date schema, _(correlates with internal SQLDBM version)_                                             |
-| user                  | User and profile information                                                                                    |
-| user_attribute        | Additional attributes linked to user IDs                                                                        |
-| user_membership       | <mark>Todo: Do we still user this??</mark>                                                                      |
+| Table                 | Description                                                                                                    |
+|-----------------------|----------------------------------------------------------------------------------------------------------------|
+| asset_2d              | 2d-asset IDs, these can be assets related to plugin functionality such as Miro or GDrive                       |
+| asset_3d              | 3d-asset IDs, for rendering 3D assets in the Unity Client                                                      |
+| attribute_type        | Generic attribute types, these are used to give entities such as objects additional attributes                 |
+| balance               | Current balance state for a wallet and contract on a specific blockchain                                       |
+| blockchain            | Blockchain related information, as well as the last processed block on a specific chain                        |
+| contract              | Contract IDs and their names                                                                                   |
+| node_attribute        | Attributes that are required in order to launch a new Node                                                     |
+| object                | Basic object related data such as IDs, and IDs of their owners (users) and parent objects                      |
+| object_attribute      | Additional attributes linked to object IDs                                                                     |
+| object_type           | Type of object, i.e Skybox                                                                                     |
+| object_user_attribute | Additional attributes related to objects _and_ users                                                           |
+| plugin                | Basic data concerning plugins                                                                                  |
+| schema_migrations     | Most up to date schema, _(correlates with internal SQLDBM version)_                                            |
+| user                  | User and profile information                                                                                   |
+| user_attribute        | Additional attributes linked to user IDs                                                                       |
+| user_membership       | <mark>Todo: Do we still use this??</mark>                                                                      |
 | user_object           | Table used to determine relation between an object and a user, also used as a preliminary access control system | 
-| user_type             | Type of user, i.e Temporary User (unregistered)                                                                 |
-| user_user_attribute   | Attributes related to two users, i.e registered high_fives                                                      |
-| wallet                | Wallets with their corresponding blockchains                                                                    |
+| user_type             | Type of user, i.e Temporary User (unregistered)                                                                |
+| user_user_attribute   | Attributes related to two users, i.e registered high_fives                                                     |
+| wallet                | Wallets with their corresponding blockchains                                                                   |
 
 ## Procedures
 ...
