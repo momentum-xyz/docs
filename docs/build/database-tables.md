@@ -4,16 +4,21 @@ description: Odyssey Database Tech Design
 sidebar_label: Database
 sidebar_position: 6
 ---
-Odyssey uses a relational database to store the state of Odysseys and its users.
 
+
+# Introduction
+Odyssey uses a relational PostgreSQL database to store the state of Odysseys and its users.
 Each Odyssey node/hosting environment uses a single database to store the state of multiple Odysseys.
 
 ## Tables
-NOTE: This list is never up-to-date.
+The _momentum4_ database contains multiple database tabels and their associated relationships.
+An overview of all the tables and their relations can be found on the schema below:
 
-<mark>Todo: Update old database schema</mark>
+![Odyssey database schema](img/db_schema.png)
 
-| Type                                 | Description                                                        |
+An overview of tables and their definitions can be found on the table below: 
+
+| Table                                | Description                                                        |
 |--------------------------------------|--------------------------------------------------------------------|
 | InvisibleObjectVisibleType _(0b00)_  | Should not be visible in React and Unity                           |
 | ReactObjectVisibleType _(0b01)_      | Should only be visible in React (i.e in the Explorer)              |
@@ -21,6 +26,7 @@ NOTE: This list is never up-to-date.
 | ReactUnityObjectVisibleType _(0b11)_ | Should both be visible in React and Unity (i.e a common 3d object) |
 
 <mark>Todo: How much of below is still relevant</mark>
+
 ### Objects, users and permissions:
 See the documentation about the [main domain model](../domain-model/).
 

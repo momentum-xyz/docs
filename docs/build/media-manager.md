@@ -34,8 +34,26 @@ An overview of available endpoints can be found on the table below.
 | GET    | /render/track/{hash}   | Fetches a music track by md5-hash                                   |
 | GET    | /render/asset/{hash}   | Fetches an object by md5-hash                                       |
 
+### Requesting assets
+You can request texture based assets by calling the _GET /render/texture/{size_parameter}/{hash}_ endpoint providing the md5-hash as a path parameter. 
+An extra parameter can be supplied for texture based assets, this parameter will resize the asset by using a pre-defined template.
 
-## Example
+A table of the available resize parameters can be found on the table below:
+
+| Parameter            | Size (in bytes) |
+|----------------------|-----------------|
+| s0                   | 1024            |
+| s1                   | 4096            |
+| s2                   | 9216            |
+| s3                   | 25600           |
+| s4                   | 65536           |
+| s5                   | 193600          |
+| s6                   | 577600          |
+| s7                   | 1721344         |
+| s8                   | 5062500         |
+| s9                   | 14745600        |
+
+## Examples
 An example diagram of how the media manager processes an uploaded asset can be found on the sequence diagram below.
 
 ```mermaid
