@@ -14,7 +14,7 @@ Each Odyssey node/hosting environment uses a single database to store the state 
 The _momentum4_ database contains multiple database tabels and their associated relationships.
 An overview of all the tables and their relations can be found on the schema below:
 
-![Odyssey database schema](img/db_schema.png)
+![Odyssey database schema](img/database.png)
 
 An overview of tables and their definitions can be found on the table below: 
 

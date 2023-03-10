@@ -55,6 +55,6 @@ The Harvesters job is to keep track of balances and transactions of tokens betwe
 ### Database
 Below you can have look at out database schema that shows how our data is organized & the relationships inside
 
-![Odyssey database schema](img/db_schema.png)
+![Odyssey database schema](img/database.png)
 *More information: [Database](database-tables.md)*
 
