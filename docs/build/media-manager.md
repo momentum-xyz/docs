@@ -70,3 +70,17 @@ sequenceDiagram;
     MM-->>BE: hashResponse
 ```
 
+
+A sequence diagram of the Unity Client requesting a texture is shown below:
+
+```mermaid
+sequenceDiagram;
+    participant UC as Unity Client
+    participant MM as Media Manager
+    UC->>MM: GET /render/texture/s3/{hash}
+    MM->>MM: getTexture()
+    Note left of MM: If texture exists
+    MM->>MM: presentTexture()
+    MM-->>UC: ServeFile()
+```
+
