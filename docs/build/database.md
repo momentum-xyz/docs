@@ -45,10 +45,16 @@ An overview of tables and their definitions can be found on the table below:
 | user_user_attribute   | Attributes related to two users, i.e registered high_fives                                                     |
 | wallet                | Wallets with their corresponding blockchains                                                                   |
 
-## Procedures
-...
+## Functions
+We use a number of PostgreSQL functions in order to speed up tree traversal related operations.
+An overview of the available functions and their descriptions can be found on the table below:
 
-<mark>Todo: Explain procedures and their function</mark>
+| Function                             | Description                                                                                                                                                          |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| getindirectobjectadmins              | Tree of object_users based on an object id, this is used to assess where ether a user is admin of an object. *More information: [Authentication](ubercontroller.md)* |
+| getobjectancestorsids                | Tree of ancestors of an object based on an object id, only returns an array of ids.                                                                                  |
+| getobjectancestorstableadminrole     | Tree of ancestors of an object based on an object id, joins the user_object table and checks for admin roles.                                                        |             
+
 
 ### Objects, users and permissions:
 See the documentation about the [main domain model](../domain-model/).

@@ -188,6 +188,8 @@ sequenceDiagram;
     BE->>FE: UserDTO
 ```
 
+## Authentication
+<mark>Current authentication situation?</mark>
 
 ## Media Manager
 The _media manager_ serves ‘large’ files to the browsers, like images, textures, 3D assets and music.
