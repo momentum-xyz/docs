@@ -6,12 +6,21 @@ sidebar_position: 5
 ---
 This document provides a high level overview of the architecture and system behind Odyssey that we hope to be building with you. This is a living document that will be updated and expanded, so keep and eye on it!
 
-#  Introduction
+# Introduction
 At Odyssey, the blockchain is used to store the data about the ownership and the relationships between the users and the Odysseys (3D worlds).
 
 Ownership is stored in the form of ERC721 tokens, that are non-fungible tokens (NFT), which means that each token is unique and can be identified by its ID. The NFT is owned by the user's wallet address.
-
 The Harvesters job is to keep track of balances and transactions of tokens between wallets.
+
+## Blockchains
+
+We plan to support following blockchains:
+
+- Ethereum baselayer
+- Polygon PoS chain
+- Arbitrum Nitro
+- Arbitrum Nova
+- Optimism
 
 # Architecture 
 A high level of the architecture components behind the harvester system can be seen on the figure below.
@@ -26,7 +35,17 @@ The harvester core lives in its own package 'harvester', this package also conta
 Adapters are responsible for connection to a certain blockchain, the Run() function is called from main.go to initiate a new websocket connection to a specific chain.
 Chain adapters can be seen as plugins.
 
-### Keeping balances
+### Events
+These events can trigger a callback depending on the events listed in the table below:
+
+| Name            | Description                       |
+|-----------------|-----------------------------------|
+| OnBalanceChange | When a wallet balance has changed |
+| OnNewBlock      | When a new block is active        |
+|                 |                                   |
+
+
+#### Keeping balances
 Depending on what contract the wallet is setup to listen to, the harvester will keep track of the state of the wallets that are involved in the transaction.
 
 <mark>Describe general events flow</mark>

@@ -95,9 +95,10 @@ A file tree of the universe can be seen on the figure below.
 
 ### Objects
 
-Objects can be seen as every entity that exists inside an Odyssey. 
-A universe is built up as a tree of objects, where the root object is called the _node_.
-This node contains children that can be objects of various _object_types_ .
+Objects can be seen as every entity that exists inside an Odyssey.
+These can be mutated by using API-calls, as seen in the [API documentation](https://discover.odyssey.org/api/develop/)
+
+#### Object visibily
 
 Objects always have a form of visibility. As seen on the table below:
 
@@ -108,7 +109,25 @@ Objects always have a form of visibility. As seen on the table below:
 | UnityObjectVisibleType _(0b10)_      | Should only be visible in Unity (i.e the skybox)                   |
 | ReactUnityObjectVisibleType _(0b11)_ | Should both be visible in React and Unity (i.e a common 3d object) |
 
-Objects are mutated by using API-calls, as seen in the [API documentation](https://discover.odyssey.org/api/develop/)
+#### Object hierarchy
+
+A universe is built up as a tree of objects, where the root object is called a _node_ (which maps to a server/hosting environment where multiple worlds can be located).
+This _node_ contains children that can be objects of various _object_types_. Children linked to a node are the object entities with the ‘world’ type. Everything underneath a world is an object configurable for each world.
+
+An example hierarchy of objects could end up looking like this:
+
+
+<mark>Insert mermaid flow</mark>
+```mermaid
+
+```
+
+Each _object_type_ defines what type of children are allowed (so one or more _object_type_, another recursive relation). The world being a _object_type_ itself allows a world to configure which objects are allowed directly underneath it. 
+Every allowed _object_type underneath it does the same for its children, creating a controlled hierarchy of objects in the world.
+
+#### Object types
+
+The type of an object is used for two things: Control the usage and constraints of a group of objects and provide default values for individual objects, which can be overridden.
 
 ### Automatic handling of attribute changes (Unity auto)
 
@@ -134,7 +153,7 @@ sequenceDiagram;
 ## Database
 Below you can have look at out database schema that shows how the data is organized. It also shows the relations between tables.
 
-![Odyssey database schema](img/db_schema.png)
+![Odyssey database schema](img/database.png)
 
 ## API
 The _API_ provides a service to retrieve ‘bulk’ data, mainly used by the 2D interface to get information about the Odyssey which the user is currently in. This is served in a common, open format (the OpenAPI specification + Swagger for implementation) [Odyssey API documentation](https://discover.odyssey.org/api/develop/)
@@ -189,7 +208,34 @@ sequenceDiagram;
 ```
 
 ## Authentication
-<mark>Current authentication situation?</mark>
+Authentication (logging in) is done through _identity providers_. At the moment of writing this is done through polkadot.js.
+
+Below is a sequence diagram that describes the current authentication flow:
+
+```mermaid
+sequenceDiagram;
+    participant FE as UI Client
+    participant BE as Controller
+    FE->>BE: requestChallenge(wallet)
+    BE-->>FE: challenge string
+    Note left of FE: Sign challenge with wallet
+    FE->>BE: getToken(signedChallenge)
+    BE-->>FE: Access Token
+    Note left of FE: Use token with API
+    FE->>BE: Authentication: Bearer <token>
+```
+
+We plan to support the following wallets in the (near)future:
+
+- Metamask
+- Coinbase Wallet
+- Polkadot.js (legacy)
+
+## Authorization
+
+Authorization between users and objects currently take place using inheritance patterns.
+An example of this involves the database table _user_object_, this table links users to objects.
+All objects have parents, and are thus traversable. 
 
 ## Media Manager
 The _media manager_ serves ‘large’ files to the browsers, like images, textures, 3D assets and music.
