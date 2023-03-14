@@ -235,6 +235,16 @@ Every allowed _object_type underneath it does the same for its children, creatin
 
 The type of an object is used for two things: Control the usage and constraints of a group of objects and provide default values for individual objects, which can be overridden.
 
+#### Token gating
+
+<mark>Todo: how does this relate to _user_membership_ at the moment?</mark>
+
+Access to certain objects can be controlled with ‘tokens’ on a blockchain.
+A blockchain is monitored for changes for certain tokens and the user accounts that own these tokens are then given permissions.
+The token_rules table defined the rules applied to a token defined in the token tables. It supports different blockchain, which are defined in the networks table.
+The permissions are regulated by the user_id column which points to a user entity which acts as a Group. 
+The actual end user entities (which have an entry in wallets that own the tokens) are then made a member of this user group.
+
 ### Automatic handling of attribute changes (Unity auto)
 
 In the event that an attribute has been added/edited/removed, _unity_auto.go_ and/or _posbus_auto.go_ process the changes automatically.
