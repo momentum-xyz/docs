@@ -12,9 +12,107 @@ The _ubercontroller_ provides a service for real time updates of data. Any chang
 *Repository: [ubercontroller]([https://github.com/momentum-xyz/ubercontroller](https://github.com/momentum-xyz/ubercontroller))*
 
 ## Architecture 
-A high level of the architecture behind the ubercontroller can be found on the figure below:
+A high level overview of the architecture behind the ubercontroller can be found on the figure below:
 
-<mark>Todo: architecture diagram?</mark>
+```mermaid
+classDiagram
+    Core <|-- Universe
+    Universe <|-- NodeAPI
+    Universe <|-- WorldsAPI
+    Core <|-- Database
+    Database <|-- Universe
+    Core <|-- Utils
+    Database <|-- Seed
+    Harvester <|-- EthereumAdapter
+    Harvester <|-- BlockChain
+    class Core{
+      ...
+      Main()
+      Run()
+      CreateDB()
+      CreateNode()
+      LoadNode()
+      (...)
+    }
+    class Harvester{
+      ...
+      main()
+      (...)
+    }
+    class EthereumAdapter{
+      EthereumAdapter
+      ...
+      Run()
+      NewEthereumAdapter()
+      GetLastBlockNumber()
+      GetBalance()
+      (...)
+    }
+    class BlockChain{
+        BlockChain
+        ...
+        NewBlockchain()
+        ToEntry()
+        SubscribeForWalletAndContract()
+        GetBalanceFromBC()
+        SaveBalancesToDB()
+        LoadFromDB()
+        (...)
+    }
+    class Database{
+      NodesDB
+      WorldsDB
+      ObjectsDB
+      ...
+      GetObjectByID()
+      UpsertObject()
+      (...)
+    }
+    class Universe{
+      Initializer
+      Enabler
+      Runner
+      Stopper
+      APIRegister
+      ObjectsCacher
+      Node
+      World
+      Object
+      ...
+      GetAllObjects()
+      GetPosition()
+      GetParent()
+      GetName()
+      RegisterAPI(r *gin.Engine)
+      (...)
+    }
+    class NodeAPI{
+      ...
+      (n *Node) RegisterAPI(r *gin.Engine)
+      (...)
+    }
+    class WorldsAPI{
+      ...
+      (w *Worlds) RegisterAPI(r *gin.Engine)
+      (...)
+    }
+    class Seed{
+      ...
+      Run()
+      SeedObjectTypes()
+      SeedUsers()
+      (...)
+    }
+    class Utils{
+      ...
+      BinID()
+      MergeMaps()
+      MapDecode()
+      (...)
+    }
+```
+
+Not all functions are included in this overview, but it should give an idea of how the _ubercontroller_ functions.
 
 ## Universe
 
@@ -93,6 +191,11 @@ A file tree of the universe can be seen on the figure below.
 │       └── worlds.go
 ```
 
+### Synchronization
+
+Entities are cached locally by the _ubercontroller_, this is done to improve response times and reduce overall overhead / latency between calls.
+At run-time, the _ubercontroller_ synchronizes all its entities with the database. Any missing data will be added to its cache. 
+
 ### Objects
 
 Objects can be seen as every entity that exists inside an Odyssey.
@@ -116,10 +219,13 @@ This _node_ contains children that can be objects of various _object_types_. Chi
 
 An example hierarchy of objects could end up looking like this:
 
-
-<mark>Insert mermaid flow</mark>
 ```mermaid
-
+flowchart TD
+    A[Node] --> B[World]
+    B --> C[Object]
+    B --> D[Object]
+    C --> E[Object]
+    C --> F[Object]
 ```
 
 Each _object_type_ defines what type of children are allowed (so one or more _object_type_, another recursive relation). The world being a _object_type_ itself allows a world to configure which objects are allowed directly underneath it. 
@@ -236,6 +342,23 @@ We plan to support the following wallets in the (near)future:
 Authorization between users and objects currently take place using inheritance patterns.
 An example of this involves the database table _user_object_, this table links users to objects.
 All objects have parents, and are thus traversable. 
+
+An example of how authorization inheritance works can be seen on the flowchart below:
+
+```mermaid
+flowchart TD
+subgraph Admin
+    direction LR
+        User --> C
+        C --> E[ObjectD]
+    C --> F[ObjectC]
+  end
+    A[Node] --> B[World]
+    B --> C[ObjectA]
+    B --> D[ObjectB]
+```
+
+When a user is admin of an object in the tree, the children of that object will also fall in the users admin scope.
 
 ## Media Manager
 The _media manager_ serves ‘large’ files to the browsers, like images, textures, 3D assets and music.
