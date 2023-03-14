@@ -122,73 +122,74 @@ The package also contains all the logic in order to mutate objects inside an Ody
 Inside the universe package a number of sub-packages can be found, the sub-packages correspond with the database table names. And can be seen as the entities of an Odyssey.
 Packages that require mutations from outside the application, contain api.go modules. These modules define API-methods used to mutate database data. i.e spawning a new object inside an Odyssey.
 
-A file tree of the universe can be seen on the figure below.
+A file tree of the universe can be seen on the diagram below.
 
-```
-├── universe
-│   ├── asset2d
-│   │   └── asset2d.go
-│   ├── asset3d
-│   │   └── asset3d.go
-│   ├── assets2d
-│   │   ├── api.go
-│   │   └── assets2d.go
-│   ├── assets3d
-│   │   ├── api.go
-│   │   └── assets3d.go
-│   ├── attribute_type
-│   │   └── attribute_type.go
-│   ├── attribute_types
-│   │   ├── api.go
-│   │   └── attribute_types.go
-│   ├── calendar
-│   │   └── calendar.go
-│   ├── iot
-│   │   └── iot.go
-│   ├── logic
-│   │   ├── api
-│   │   ├── dto
-│   │   ├── middleware
-│   │   └── logic.go
-│   ├── interfaces.go
-│   ├── node
-│   │   ├── api.go
-│   │   └── node.go
-│   ├── singletons.go
-│   ├── object
-│   │   ├── object.go
-│   │   ├── objects.go
-│   │   └── users.go
-│   ├── object_type
-│   │   └── object_type.go
-│   ├── object_types
-│   │   ├── api.go
-│   │   └── object_types.go
-│   ├── plugin
-│   │   └── plugin.go
-│   ├── plugins
-│   │   ├── api.go
-│   │   ├── api_plugins.go
-│   │   └── plugins.go
-│   ├── user
-│   │   ├── message_loop.go
-│   │   ├── network.go
-│   │   ├── stats.go
-│   │   └── user.go
-│   ├── user_type
-│   │   └── user_type.go
-│   ├── user_types
-│   │   ├── api.go
-│   │   └── user_types.go
-│   ├── world
-│   │   ├── api.go
-│   │   ├── users.go
-│   │   ├── users_api.go
-│   │   ├── world.go
-│   │   └── world_api.go
-│   └── worlds
-│       ├── api.go
-│       └── worlds.go
+```mermaid
+flowchart LR
+    A[ubercontroller] -->B[universe]
+    B --> C[asset2d]
+    C --> C1(asset2d.go)
+    B --> D[asset3d]
+    D --> D1(asset3d.go)
+    B --> E[assets2d]
+    E --> E1(api.go)
+    E --> E2(assets2d.go)
+    B --> F[assets3d]
+    F --> F1(api.go)
+    F --> F2(assets3d.go)
+    B --> G[attribute_type]
+    G --> G1(attribute_type.go)
+    B --> H[attribute_types]
+    H --> H1(api.go)
+    H --> H2(attribute_types.go)
+    B --> I[calendar]
+    I --> I1(calendar.go)
+    B --> J[iot]
+    J --> J1(iot.go)
+    B --> K[logic]
+    K --> K1[api]
+    K --> K2[dto]
+    K --> K3[middleware]
+    K --> K4(logic.go)
+    B --> L[node]
+    L --> L1(api.go)
+    L --> L2(node.go)
+    B --> M[object]
+    M --> M1(object.go)
+    M --> M2(objects.go)
+    M --> M3(users.go)
+    B --> N[object_type]
+    N --> N1(object_type.go)
+    B --> Nb[object_types]
+    Nb --> Nb1(api.go)
+    Nb --> Nb2(object_types.go)
+    B --> O[plugin]
+    O --> O1(plugin.go)
+    B --> P[plugins]
+    P --> P1(api.go)
+    P --> P2(api_plugins.go)
+    P --> P3(plugins.go)
+    B --> Q[user]
+    Q --> Q1(message_loop.go)
+    Q --> Q2(network.go)
+    Q --> Q3(stats.go)
+    Q --> Q4(user.go)
+    B --> R[user_type]
+    R --> R1(user_type.go)
+    B --> S[user_types]
+    S --> S1(api.go)
+    S --> S2(user_types.go)
+    B --> T[world]
+    T --> T1(api.go)
+    T --> T2(users.go)
+    T --> T3(users_api.go)
+    T --> T4(world.go)
+    T --> T5(world_api.go)
+    B --> U[worlds]
+    U --> U1(api.go)
+    U --> U2(worlds.go)
+    B --> FL1(interfaces.go)
+    B --> FL2(singletons.go)
 ```
 
 ### Synchronization
