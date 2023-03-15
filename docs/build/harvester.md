@@ -23,9 +23,61 @@ We plan to support following blockchains:
 - Optimism
 
 # Architecture 
-A high level of the architecture components behind the harvester system can be seen on the figure below.
+A high level of the architecture components behind the harvester system can be seen on the diagram below.
 
-![Harvester architecture overview](img/harvester_graphic.jpeg)
+```mermaid
+classDiagram
+    Harvester <.. GenericAdapter
+    Harvester <.. BlockChain
+    Harvester <.. CallBacks
+    BlockChain .. Database
+    class Harvester{
+      ...
+      main()
+      harvester.NewHarvester()
+      SubscribeForWallet()
+      SubscribeForWalletAndContract()
+      (...)
+    }
+    class GenericAdapter{
+      GenericAdapter
+      ...
+      Run()
+      NewGenericAdapter()
+      GetLastBlockNumber()
+      GetBalance()
+      (...)
+    }
+    class BlockChain{
+      BlockChain
+      ...
+      NewBlockchain()
+      ToEntry()
+      SubscribeForWalletAndContract()
+      GetBalanceFromBC()
+      SaveBalancesToDB()
+      LoadFromDB()
+      (...)
+    }
+    class Database{
+      NodesDB
+      WorldsDB
+      ObjectsDB
+      ...
+      GetObjectByID()
+      UpsertObject()
+      (...)
+    }
+    class CallBacks{
+        Callbacks
+        ...
+        NewCallbacks()
+        Add()
+        Remove()
+        Trigger()
+        (...)
+    }
+```
 
 ### Core (ubercontroller)
 The harvester core lives in its own package 'harvester', this package also contains the harvester adapters.
