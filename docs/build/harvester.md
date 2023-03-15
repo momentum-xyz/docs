@@ -81,9 +81,11 @@ classDiagram
 
 ### Core (ubercontroller)
 The harvester core lives in its own package 'harvester', this package also contains the harvester adapters.
-Harvester.go acts as a generic interface for executing actions involving an adapter.
+harvester.go acts as a generic interface for executing actions involving an adapter.
 
 #### Harvester functions
+A grasp of the available harvester functions can be found below, these functions can be called from within the _ubercontroller_.
+
 ```go
 SubscribeForWalletAndContract(bcType string, wallet []byte, contract []byte, callback Callback)
 ``` 
@@ -99,13 +101,13 @@ May be called to register a new BlockChainAdapter provided the type exists in th
 Subscribe(bcType string, eventName HarvesterEvent, callback Callback)
 ```
 
-Subscribes to a new Harvester event, a list of events can be found in _events.go_.
+Subscribes to a new harvester event, a list of events can be found in _events.go_.
 
 ```go
 Unsubscribe(bcType string, eventName HarvesterEvent, callback Callback)
 ```
 
-Unsubscribes from a Harvester event.
+Unsubscribes from a harvester event.
 
 ### Adapters
 Adapters are responsible for connection to a certain blockchain, the Run() function is called from main.go to initiate a new websocket connection to a specific chain.
