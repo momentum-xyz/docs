@@ -81,7 +81,31 @@ classDiagram
 
 ### Core (ubercontroller)
 The harvester core lives in its own package 'harvester', this package also contains the harvester adapters.
-<mark>Todo: core introduction</mark>
+Harvester.go acts as a generic interface for executing actions involving an adapter.
+
+#### Harvester functions
+```go
+SubscribeForWalletAndContract(bcType string, wallet []byte, contract []byte, callback Callback)
+``` 
+May be called to listen to a certain wallet and contract combination. Where bcType an be any blockchain type as specified in the _bctypes.go_ package.
+This function appends the current wallet and contract state to the database.
+
+```go
+RegisterBCAdapter(uuid uuid.UUID, bcType string, rpcURL string, adapter BCAdapter)
+```
+May be called to register a new BlockChainAdapter provided the type exists in the bcTypes package.
+
+```go
+Subscribe(bcType string, eventName HarvesterEvent, callback Callback)
+```
+
+Subscribes to a new Harvester event, a list of events can be found in _events.go_.
+
+```go
+Unsubscribe(bcType string, eventName HarvesterEvent, callback Callback)
+```
+
+Unsubscribes from a Harvester event.
 
 ### Adapters
 Adapters are responsible for connection to a certain blockchain, the Run() function is called from main.go to initiate a new websocket connection to a specific chain.
@@ -94,23 +118,31 @@ These events can trigger a callback depending on the events listed in the table 
 |-----------------|-----------------------------------|
 | OnBalanceChange | When a wallet balance has changed |
 | OnNewBlock      | When a new block is active        |
-|                 |                                   |
 
 
 #### Keeping balances
-Depending on what contract the wallet is setup to listen to, the harvester will keep track of the state of the wallets that are involved in the transaction.
+Depending on what contract the wallet is set up to listen to, the harvester will keep track of the state of the wallets that are involved in the transaction.
 
 <mark>Describe general events flow</mark>
 
-### Example
-![Harvester example flow](img/harvester_example.jpeg)
+#### Example
+An example sequence diagram of what happens after the harvester subscribes to a wallet and contract can be found below:
+
+```mermaid
+sequenceDiagram;
+    participant BE as Controller
+    participant HV as Harvester
+    participant DB as Database
+    BE->>HV: SubscribeForWalletAndContract()
+    HV->>DB: SaveBalancesToDB()
+```
 
 ### Database
 In order to keep track of the current state of wallets and their balances. They are synchronized with the database. For this, a separate database structure exists as can be seen on the figure below.
 
 ![Harvester example flow](img/harvester_database.png)
 
-The 'blockchain' table contains all the data necessary to connect to a certain chain.
-Table 'wallet' is a pivot table to link a wallet to a specific chain ID.
-The 'balance' table contains the balance of the wallet, and the last processed block number. This number can be used to assess where-ether the harvester is synchonized correctly.
-Finally the 'contract' table contains
+The _blockchain_ table contains all the data necessary to connect to a certain chain.
+Table _wallet_ is a pivot table to link a wallet to a specific chain ID.
+The _balance_ table contains the balance of the wallet, and the last processed block number. This number can be used to assess where-ether the harvester is synchronized correctly.
+Finally the _contract_ table contains

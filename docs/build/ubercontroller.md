@@ -272,6 +272,17 @@ sequenceDiagram;
     BE->>UC: unityAutoAttributeMessage()
 ```
 
+## Utilities
+
+Helpful utility related functions can be found in the utils package, these functions can be used across the entire application and should be used as a priority over similar third party packages.
+
+
+### Momentum ID
+
+### Modify functions
+
+### Merge functions
+
 ## Database
 Below you can have look at out database schema that shows how the data is organized. It also shows the relations between tables.
 
