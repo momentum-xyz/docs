@@ -4,14 +4,17 @@ description: A few pointers on how to get started developing on the Odyssey stac
 sidebar_label: Getting started
 sidebar_position: 1
 ---
+
+## Getting started
+
 This document provides a quick high level overview of the architecture and system behind Odyssey that we hope to be building with you. This is a living document that will be updated and expanded, so keep and eye on it!
 
-#  UX/UI
+### UX/UI
 Our design team creates the Odyssey magic with the help of Figma. Check out our [MVP screens & components](https://www.figma.com/file/ThjIFEkvWGdAqrsb08t5Xz/Momentum-3.0-Design-System?node-id=334%3A15178&t=siREax3Pqbkgt7vi-0)
 
 Stay tuned for Odyssey design system ... 
 
-# Architecture 
+### Architecture 
 A high level of the architecture components behind Odyssey 
 ![Odyssey database schema](img/system.jpg)
 
@@ -41,13 +44,12 @@ The _media manager_ serves ‘large’ files to the browsers, like images, textu
 *More information: [Media Manager](media-manager.md)* </br>
 *Check our repo: [GitHub](https://github.com/momentum-xyz/media-manager)*
 
-
 ### Blockchain network
 Our blockchain is Substrate (Rust) based parachain running on an local testnet. Testnet is a Local Relay ( 6 Nodes Rococo Local)+Parachain (5 Nodes Testnet-local). The Momentum parachain is based on the substrate parachain template + custom Stake and Faucet pallets. Our native token is $MOM (Momentum)
 
 *Check our repos: [GitHub](https://github.com/momentum-xyz/drive); [testnet](https://github.com/momentum-xyz/drive_server)*
 
-#### Harvester
+### Harvester
 The Harvesters job is to keep track of balances and transactions of tokens between wallets.
 
 *More information: [Harvester](harvester.md)*
