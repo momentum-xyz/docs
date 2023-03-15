@@ -238,13 +238,18 @@ The type of an object is used for two things: Control the usage and constraints 
 
 #### Token gating
 
-<mark>Todo: how does this relate to _user_membership_ at the moment?</mark>
-
 Access to certain objects can be controlled with ‘tokens’ on a blockchain.
 A blockchain is monitored for changes for certain tokens and the user accounts that own these tokens are then given permissions.
-The token_rules table defined the rules applied to a token defined in the token tables. It supports different blockchain, which are defined in the networks table.
+The monitoring of changes is part of the harvester.
+
+*More information: [Harvester](harvester.md)*
+
+Token gating supports different blockchains, which are defined in the _blockchain_ table.
 The permissions are regulated by the user_id column which points to a user entity which acts as a Group. 
 The actual end user entities (which have an entry in wallets that own the tokens) are then made a member of this user group.
+
+These user to token relationships are defined in the _user_memberships_ table.
+
 
 ### Automatic handling of attribute changes (Unity auto)
 
@@ -271,6 +276,8 @@ sequenceDiagram;
 Below you can have look at out database schema that shows how the data is organized. It also shows the relations between tables.
 
 ![Odyssey database schema](img/database.png)
+
+*More information: [Database](database.md)*
 
 ## API
 The _API_ provides a service to retrieve ‘bulk’ data, mainly used by the 2D interface to get information about the Odyssey which the user is currently in. This is served in a common, open format (the OpenAPI specification + Swagger for implementation) [Odyssey API documentation](https://discover.odyssey.org/api/develop/)
