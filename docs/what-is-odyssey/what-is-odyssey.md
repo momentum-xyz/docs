@@ -28,12 +28,12 @@ We enable creators eager to explore the digital format of 3D with intuitive inte
 
 ## Why Odyssey?
 
-/1. Accessible: No coding skills required to create content in 3D
+1. Accessible: No coding skills required to create content in 3D
  
-/2. Social: encourages sharing, collaborating, and 
+2. Social: encourages sharing, collaborating, and 
 connecting with others
 
-/3. User-generated and curated: Users actively create and curate content and earn with it
+3. User-generated and curated: Users actively create and curate content and earn with it
 
 ## What can I do with Odyssey?
 
