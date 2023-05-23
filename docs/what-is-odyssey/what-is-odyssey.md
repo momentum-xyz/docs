@@ -14,7 +14,7 @@ Odyssey is supported by:
 ![EU ERFD logo](img/EU-ERFD-200.png)&emsp;![SNN logo](img/SNN-200.png)&emsp;![Kusama Treasury logo](img/kusama-treasury-200.png)
 
 
-We wish you an epic adventure ahead! If you should have questions please join our community and we’d be happy to help 🪐
+We wish you an epic adventure ahead! If you have questions please join our community and we’d be happy to help 🪐
 
 [Discord](https://discord.gg/6PH9nSu7UP)
 
