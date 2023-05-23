@@ -7,7 +7,7 @@ slug: /
 ---
 # Getting started with Odyssey
 
-Welcome to Odyssey’s Docs. Here you can find everything you would need to get started with Odyssey. This includes setting up a wallet, your Odyssey account, getting tokens and Odyssey NFT, joining our community and developing the prodcut further with us.
+Welcome to Odyssey’s Docs. Here you can find everything you would need to get started with Odyssey. This includes setting up a wallet, your Odyssey account, getting tokens and Odyssey NFT, joining our community and developing the product further with us.
 
 We wish you an epic adventure ahead! If you should have questions please join our community and we’d be happy to help 🪐
 
