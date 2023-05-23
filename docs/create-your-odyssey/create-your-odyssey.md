@@ -1,12 +1,22 @@
 ---
-title: Create your Odyssey
+title: Get started with Odyssey
 description: To start your epic journey, you need to first create your Odyssey, here is how.
 sidebar_label: Create your Odyssey
 sidebar_position: 1
 ---
-When you mint your Odyssey, we provide you a starting platform to play with—don’t worry, you can always get rid of it later! (If you are a developer, and you want to tinker with code, see the [Build](/build/getting-started) section 🧑‍💻).
-## How to create your Odyssey
-Currently, Odyssey is in pre-alpha release on testnet. This means that we will give you some Momentum ($MOM) tokens to mint your Odyssey as an NFT and to play around with. As we gather feedback from you, we'll add features and gradually more to production (if you want to know more, you can check the [release notes](/what-is-odyssey/release-notes)).
+Odyssey Beta is now live on testnet.
+
+We’re bringing together a curated group of creators who are trying to reimagine the world through new technology. This curated group will be among the first to start experimenting with creating, collaborating, and building community in 3D.
+
+# Get early access
+
+Apply to get early access here: https://odyssey.org.
+
+After you have been selected as an Odyssey Beta tester and shared your Eth address with us, we will drop you an NFT.
+
+You will use this NFT as a pass to create your Odyssey.
+
+# Create your Odyssey
 
 In order to get started to need to follow these steps:
 1. Make sure you have a polkadot{.js} wallet

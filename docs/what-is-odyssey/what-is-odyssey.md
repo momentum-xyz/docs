@@ -5,7 +5,7 @@ sidebar_label: Getting started
 sidebar_position: 1
 slug: /
 ---
-# Getting started with Odyssey
+# Welcome to Odyssey
 
 Welcome to Odyssey’s Docs. Here you can find everything you would need to get started with Odyssey. This includes setting up a wallet, your Odyssey account, getting tokens and Odyssey NFT, joining our community and developing the product further with us.
 
@@ -93,7 +93,3 @@ Odyssey gives you freedom of action. There are many ways to interact with your O
 - Organise events and experiences by leveraging the collaboration tools
 - Connect (aka stake) in the Odyssey of your favourite creators and get rewarded with $MOM
 - Participate in events created by other users and help co-create new experiences
-
-## How do I get started with Odyssey?
-
-Odyssey is currently on testnet, and you can go to [odyssey.org](https://odyssey.org) to create your own Odyssey right now. All you need is a MetaMask or Polkadot-compatible wallet.
