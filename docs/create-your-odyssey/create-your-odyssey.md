@@ -19,6 +19,6 @@ You will use this NFT as a pass to create your Odyssey.
 # Create your Odyssey
 
 In order to get started to need to follow these steps:
-1. Make sure you have a polkadot{.js} wallet
-2. Mint your Odyssey as an NFT
-3. Done 🥳 
+1- Make sure you have a MetaMask or a Polkadot{.js} wallet
+2- Create your Odyssey
+3- Done 🥳 
