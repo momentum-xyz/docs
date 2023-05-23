@@ -22,7 +22,7 @@ We wish you an epic adventure ahead! If you should have questions please join ou
 
 ## What is Odyssey?
 
-Content creation, collaboration, and community building in 3D.
+Content Creation, Collaboration, and Community Building in 3D.
 
 We enable creators eager to explore the digital format of 3D with intuitive interface & processes to craft and publish interactive 3D experiences in browser, together, as these stories unfold so we share knowledge networks and skills.
 
@@ -30,33 +30,29 @@ We enable creators eager to explore the digital format of 3D with intuitive inte
 ## Why Odyssey?
 
 1. Accessible: No coding skills required to create content in 3D
- 
 2. Social: encourages sharing, collaborating, and 
 connecting with others
-
 3. User-generated and curated: Users actively create and curate content and earn with it
 
 ## What can I do with Odyssey?
 
 You can accomplish three things:
 
-1- Build your own 3D world, with custom assets and functionalities.
-2- Generate, program, and participate in unique collaborative experiences
-3- Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking)
+1. Build your own 3D world, with custom assets, skyboxes, and functionalities.
+2. Generate, program, and participate in collaborative experiences.
+3. Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking).
 
 We enable these via three pillars:
 
-1- The Odyssey Creator (a 3D world builder, not dissimilar to what you find in MMORPGs like Minecraft)
-2- A plugin infrastructure
-3- The Momentum ($MOM) token
-
-Let’s quickly see an overview of all three.
+1. The Odyssey Creator (a 3D World Builder, not dissimilar to what you find in MMORPGs like Minecraft)
+2. A plugin infrastructure
+3. The Momentum ($MOM) token
 
 ### Odyssey Creator
 
-A multiplayer game-style world builder that allows you to place objects (both default and custom) in your Odyssey. You can also change the skybox (the backdrop of your Odyssey, which controls the vibe of your world); custom skyboxes are coming soon.
+A multiplayer game-style world builder that allows you to place objects (both default and custom) in your Odyssey. You can also change the skybox (the backdrop of your Odyssey, which controls the vibe of your world).
 
-The builder has all the standard features such as move, scale, and rotate. In addition, you can assign each object a specific functionality (e.g. connect a Miro board, a Google document, text).
+The builder has all the standard features such as move, scale, and rotate objects. In addition, you can assign each object a specific functionality (e.g. add an image, video, or text, or connect a Miro board, a Google document).
 
 ### Plugin infrastructure
 
@@ -90,4 +86,4 @@ Odyssey gives you freedom of action. There are many ways to interact with your O
 
 ## How do I get started with Odyssey?
 
-Odyssey is currently on testnet, and you can go to [odyssey.org](https://odyssey.org) to create your own Odyssey right now. All you need is a Polkadot-compatible wallet (at the moment, we recommend Polkadot.JS).
+Odyssey is currently on testnet, and you can go to [odyssey.org](https://odyssey.org) to create your own Odyssey right now. All you need is a MetaMask or Polkadot-compatible wallet.
