@@ -28,14 +28,15 @@ If you have questions please join our community and we’d be happy to help 🪐
 
 Content Creation, Collaboration, and Community Building in 3D.
 
-We enable creators eager to explore the digital format of 3D with intuitive interface & processes to craft and publish interactive 3D experiences in browser, together, as these stories unfold so we share knowledge networks and skills.
+We enable creators who are eager to explore the digital format of 3D with intuitive interface & processes to craft and publish interactive 3D experiences in browser, together, as these stories unfold so we share knowledge networks and skills.
 
 
 ## Why Odyssey?
 
 1- Accessible: No coding skills required to create content in 3D
-2- Social: encourages sharing, collaborating, and 
-connecting with others
+
+2- Social: encourages sharing, collaborating, and connecting with others
+
 3- User-generated and curated: Users actively create and curate content and earn with it
 
 ## What can I do with Odyssey?
@@ -43,13 +44,17 @@ connecting with others
 You can accomplish three things:
 
 1- Build your own 3D world, with custom assets, skyboxes, and functionalities.
+
 2- Generate, program, and participate in collaborative experiences.
+
 3- Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking).
 
 We enable these via three pillars:
 
 1- The Odyssey Creator (a 3D World Builder, not dissimilar to what you find in MMORPGs like Minecraft)
+
 2- A plugin infrastructure
+
 3- The Momentum ($MOM) token
 
 ### Odyssey Creator
@@ -65,6 +70,7 @@ Odyssey is open-source, and we are implementing a plugin infrastructure to let e
 The power of the plugins is twofold:
 
 1- Creators will gain tailored functionalities to create even more unique experiences, hence attracting more people
+
 2- Developers will be able to create value for the community, while implementing their own earning mechanisms (e.g. tip-based, subscription, a fee per usage, one-time fee, etc.)
 
 ### Momentum token
