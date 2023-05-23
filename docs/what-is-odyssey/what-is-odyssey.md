@@ -17,7 +17,6 @@ We wish you an epic adventure ahead! If you should have questions please join ou
 
 [Telegram](https://t.me/odysseycreator)
 
-Odyssey is supported by:
 
 ![EU ERFD logo](img/EU-ERFD-200.png)&emsp;![SNN logo](img/SNN-200.png)&emsp;![Kusama Treasury logo](img/kusama-treasury-200.png)
 
