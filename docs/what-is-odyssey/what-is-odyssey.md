@@ -11,8 +11,8 @@ Welcome to Odyssey’s Docs. Here you can find everything you would need to get 
 
 We wish you an epic adventure ahead! If you should have questions you're welcome to join our community and we’d be happy to help 🪐
 
-[Discord] (https://discord.gg/6PH9nSu7UP)
-[Twitter] (https://twitter.com/odysseycreator)
+[Discord](https://discord.gg/6PH9nSu7UP)
+[Twitter](https://twitter.com/odysseycreator)
 [Telegram](https://t.me/odysseycreator)
 
 Odyssey is supported by:
