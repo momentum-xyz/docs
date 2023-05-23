@@ -7,9 +7,9 @@ slug: /
 ---
 # Getting started with Odyssey
 
-![EU ERFD logo](img/EU-ERFD-200.png)&emsp;![SNN logo](img/SNN-200.png)&emsp;![Kusama Treasury logo](img/kusama-treasury-200.png)
-
 Welcome to Odyssey’s Docs. Here you can find everything you would need to get started with Odyssey. This includes setting up a wallet, your Odyssey account, getting tokens and Odyssey NFT, joining our community and developing the product further with us.
+
+![EU ERFD logo](img/EU-ERFD-200.png)&emsp;![SNN logo](img/SNN-200.png)&emsp;![Kusama Treasury logo](img/kusama-treasury-200.png)
 
 We wish you an epic adventure ahead! If you should have questions please join our community and we’d be happy to help 🪐
 
@@ -38,15 +38,15 @@ connecting with others
 
 You can accomplish three things:
 
-1. Build your own 3D world, with custom assets, skyboxes, and functionalities.
-2. Generate, program, and participate in collaborative experiences.
-3. Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking).
+1- Build your own 3D world, with custom assets, skyboxes, and functionalities.
+2- Generate, program, and participate in collaborative experiences.
+3- Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking).
 
 We enable these via three pillars:
 
-1. The Odyssey Creator (a 3D World Builder, not dissimilar to what you find in MMORPGs like Minecraft)
-2. A plugin infrastructure
-3. The Momentum ($MOM) token
+1- The Odyssey Creator (a 3D World Builder, not dissimilar to what you find in MMORPGs like Minecraft)
+2- A plugin infrastructure
+3- The Momentum ($MOM) token
 
 ### Odyssey Creator
 
