@@ -1,5 +1,5 @@
 ---
-title: Get started with Odyssey
+title: Getting started
 description: To start your epic journey, you need to first create your Odyssey, here is how.
 sidebar_label: Getting started with Odyssey
 sidebar_position: 1
