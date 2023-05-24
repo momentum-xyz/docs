@@ -1,7 +1,7 @@
 ---
-title: Getting started with Odyssey
+title: Welcome to Odyssey
 description: Odyssey is a social medium for content creation, collaboration, and community building in 3D.
-sidebar_label: Getting started
+sidebar_label: Welcome to Odyssey
 sidebar_position: 1
 slug: /
 ---
