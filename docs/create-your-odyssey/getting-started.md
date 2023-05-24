@@ -1,7 +1,7 @@
 ---
 title: Getting started
 description: To start your epic journey, you need to first create your Odyssey, here is how.
-sidebar_label: Getting started with Odyssey
+sidebar_label: Getting started
 sidebar_position: 1
 ---
 Odyssey Beta is now live on testnet.
