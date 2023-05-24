@@ -17,14 +17,20 @@ Here you can find instructions on how to set up a MetaMask wallet on Chrome, Fir
 
 https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask
 
-## Coinbase wallet
+## Coinbase
 
 Coinbase wallet is currently supported by Chrome and Brave browsers.
 
 https://help.coinbase.com/en/wallet/browser-extension/coinbase-wallet-extension
 
-## Talisman wallet
+## Talisman
 
 Here is how to set up your Talisman wallet.
 
 https://medium.com/pendulum-chain/how-to-setup-a-talisman-wallet-in-minutes-1feeda58bf74
+
+## Polkadot.js
+
+Find the instructions on how to set up your Polkadot.js wallet below.
+
+https://support.polkadot.network/support/solutions/articles/65000169953-polkadot-extension-where-to-download-it
