@@ -11,11 +11,20 @@ Odyssey is build on web3 technology, which means that you need a wallet to acces
 
 Right now, we support MetaMask, Coinbase and Talisman wallets, available as a browser extension. Instructions on how to set up one of these wallets you can find below.
 
-## Set up your MetaMask wallet
+## How to set up your MetaMask wallet
 
-### 1. Download the wallet extension
+Here you can find instructions on how to set up a MetaMask wallet on Chrome, Firefox, Edge, and Brave.
 
-Go to MetaMask.io on a supported browser (Chrome, Firefox, Brave or Edge).
-For example, the Chrome browser.
-Click on “Download” or “Download now” on the page.
-Click on “Install MetaMask for Chrome”.
+https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask
+
+## How to set up your Coinbase wallet
+
+Coinbase wallet is currently supported by Chrome and Brave browsers.
+
+https://help.coinbase.com/en/wallet/browser-extension/coinbase-wallet-extension
+
+## How to set up your Talisman wallet
+
+Here is how to set up your Talisman wallet.
+
+https://medium.com/pendulum-chain/how-to-setup-a-talisman-wallet-in-minutes-1feeda58bf74
