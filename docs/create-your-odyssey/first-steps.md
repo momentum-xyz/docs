@@ -11,6 +11,12 @@ We put together this page to swiftly walk you from the creation of your Odyssey 
 
 We will link to detailed guides, but here you will find everything you need to get started.
 
+## Connect your wallet
+
+
+
+![Step 1](https://momentum-xyz.github.io/docs/create-your-odyssey/get-a-wallet/)
+
 ## The Explorer
 
 When you navigate to [odyssey.org](https://odyssey.org) you are presented with the Explorer. Here you can see and explore other people’s Odysseys, visit them, and see their connections.
