@@ -15,7 +15,6 @@ Here you will find everything you need to get started.
 
 
 
-![Step 1](img/momentum-xyz/docs/docs/create-your-odyssey/Screenshot 2023-05-24 at 12.29.20.png)
 
 
 ## The Explorer

@@ -23,6 +23,8 @@ Select an option to "Sign up now" to join Odyssey as a Member.
 
 This will open the Log in screen.
 
+![Step 1](img/step1-becomemember.png)
+
 ## Step 2
 
 On the Log in screen, you will need to select your wallet of choice (e.g. MetaMask wallet).
@@ -31,11 +33,15 @@ Press the button "Connect your wallet".
 
 Then you will get a pop up from your browser extension.
 
+![Step 2](img/step2-choosewallet.png)
+
 ## Step 3
 
 On the pop up screen, follow the instructions (e.g. enter your password if using the MetaMask wallet).
 
 Once completed, you have connected your wallet and will proceed to step 2 of the Log in screen.
+
+![Step 3](img/step3-instructions.png)
 
 ## Step 4
 
@@ -46,3 +52,5 @@ On step 2 of your Log in screen you must enter your Name and may also choose an 
 Press on "Start your journey" when you're ready to take off!
 
 This will take you to the Explorer screen.
+
+![Step 4](img/step4-startjourney.png)
