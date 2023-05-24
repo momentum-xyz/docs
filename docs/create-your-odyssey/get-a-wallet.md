@@ -16,9 +16,6 @@ Right now, we support MetaMask, Coinbase and Talisman wallets, available as a br
 ### 1. Download the wallet extension
 
 Go to MetaMask.io on a supported browser (Chrome, Firefox, Brave or Edge).
-
 For example, the Chrome browser.
-
 Click on “Download” or “Download now” on the page.
-
 Click on “Install MetaMask for Chrome”.
