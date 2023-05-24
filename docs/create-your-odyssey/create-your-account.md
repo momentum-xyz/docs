@@ -35,6 +35,14 @@ Then you will get a pop up from your browser extension.
 
 On the pop up screen, follow the instructions (e.g. enter your password if using the MetaMask wallet).
 
+Once completed, you have connected your wallet and will proceed to step 2 of the Log in screen.
+
 ## Step 4
 
-You have now connected your wallet, and ready to set up your Odyssey account!
+You are now ready to set up your Odyssey account!
+
+On step 2 of your Log in screen you must enter your Name and may also choose an image as a Profile Picture.
+
+Press on "Start your journey" when you're ready to take off!
+
+This will take you to the Explorer screen.
