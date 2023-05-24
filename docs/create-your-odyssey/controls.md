@@ -2,7 +2,7 @@
 title: Controls
 description: In Odyssey, you use a combination of keyboard and mouse to move in the 3D space. Let’s see what they are.
 sidebar_label: Controls
-sidebar_position: 5
+sidebar_position: 4
 ---
 # Odyssey controls
 
