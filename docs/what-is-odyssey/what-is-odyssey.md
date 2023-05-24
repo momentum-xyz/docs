@@ -61,7 +61,7 @@ We enable these via three pillars:
 
 A multiplayer game-style world builder that allows you to place objects (both default and custom) in your Odyssey. You can also change the skybox (the backdrop of your Odyssey, which controls the vibe of your world).
 
-The builder has all the standard features such as move, scale, and rotate objects. In addition, you can assign each object a specific functionality (e.g. add an image, video, or text, or connect a Miro board, a Google document).
+The builder has all the standard features such as move, scale, and rotate objects. In addition, you can assign each object a specific functionality (e.g. add an image, video, or text; sound is coming soon).
 
 ### Plugin infrastructure
 
@@ -77,19 +77,3 @@ The power of the plugins is twofold:
 
 $MOM (Momentum) is a **utility token** used both for paying network fees (e.g. minting your Odyssey) and for connecting to other Odyssey—our implementation of staking which yields both the staker and the stakee. Read more about $MOM further down.
 
-### Collaboration tools
-
-In addition to the three pillars above, Odyssey comes with built-in collaboration tools to host your events and unleash your creative powers.
-
-- Calendar (schedule events and allow users to pop them in their Google or iCal)
-- Voice and text chat
-- Screen sharing
-
-## How do you interact with Odyssey?
-
-Odyssey gives you freedom of action. There are many ways to interact with your Odyssey and the Odysseys of others:
-
-- Build your Odyssey, fill it with your creations
-- Organise events and experiences by leveraging the collaboration tools
-- Connect (aka stake) in the Odyssey of your favourite creators and get rewarded with $MOM
-- Participate in events created by other users and help co-create new experiences
