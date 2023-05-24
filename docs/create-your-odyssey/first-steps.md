@@ -9,13 +9,14 @@ sidebar_position: 4
 
 We put together this page to swiftly walk you from the creation of your Odyssey all the way to placing your first object and connecting with others. 
 
-We will link to detailed guides, but here you will find everything you need to get started.
+Here you will find everything you need to get started.
 
 ## Connect your wallet
 
 
 
-![Step 1](https://momentum-xyz.github.io/docs/create-your-odyssey/get-a-wallet/)
+![Step 1](momentum-xyz/docs/docs/create-your-odyssey/Screenshot 2023-05-24 at 12.29.20.png)
+
 
 ## The Explorer
 
