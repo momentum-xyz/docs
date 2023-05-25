@@ -28,9 +28,7 @@ There are a few more steps to place a custom object in your Odyssey. Let's go th
 2. Click on the ‘Add Object’ ‘+’ (plus) button on the top right of your screen
 3. On these screen; now press the “upload custom object’ button on the UI
 4. Once you have clicked on upload custom object; you will be asked to upload your custom object; either by dragging and dropping your file or by using the button to upload your file. Once your file is uploaded your will see a preview of it. You then need to name your object and may also give a name for the artists of the object. 
-
 The user may select if they want this object to be available for public use of just for their own private library (private library is an under construction feature and not available yet)
-
 Once you have named it you can press the button that says publish; this will put your custom object into the community library. 
 
 5. Once you have published your file; you must select it from the community object library and spawn it using the same flow as described above. You can find your object either by scrolling for it or by using the search function. Select your object to proceed
