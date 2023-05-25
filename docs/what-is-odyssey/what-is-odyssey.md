@@ -43,19 +43,15 @@ We enable creators who are eager to explore the digital format of 3D with intuit
 
 You can accomplish three things:
 
-1- Build your own 3D world, with custom assets, skyboxes, and functionalities.
-
-2- Generate, program, and participate in collaborative experiences.
-
-3- Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking).
+1. Build your own 3D world, with custom assets, skyboxes, and functionalities.
+2. Generate, program, and participate in collaborative experiences.
+3. Leverage the power of tokenomics to earn from your creations, and support your network of Connections (our implementation of staking).
 
 We enable these via three pillars:
 
-1- The Odyssey Creator (a 3D World Builder, not dissimilar to what you find in MMORPGs like Minecraft)
-
-2- A plugin infrastructure
-
-3- The Momentum ($MOM) token
+1. The Odyssey Creator (a 3D World Builder, not dissimilar to what you find in MMORPGs like Minecraft)
+2. A plugin infrastructure
+3. The Momentum ($MOM) token
 
 ### Odyssey Creator
 
@@ -69,9 +65,8 @@ Odyssey is open-source, and we are implementing a plugin infrastructure to let e
 
 The power of the plugins is twofold:
 
-1- Creators will gain tailored functionalities to create even more unique experiences, hence attracting more people
-
-2- Developers will be able to create value for the community, while implementing their own earning mechanisms (e.g. tip-based, subscription, a fee per usage, one-time fee, etc.)
+1. Creators will gain tailored functionalities to create even more unique experiences, hence attracting more people
+2. Developers will be able to create value for the community, while implementing their own earning mechanisms (e.g. tip-based, subscription, a fee per usage, one-time fee, etc.)
 
 ### Momentum token
 
