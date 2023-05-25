@@ -23,6 +23,7 @@ There are the functionality that you can currently assign to objects:
 
 In this example we will wrap a default cube with a custom image.
 
+
 :::tip
 The same image will be repeated on all the faces of the object
 :::
@@ -36,6 +37,7 @@ The same image will be repeated on all the faces of the object
 7. Give the system a moment to load and the image should appear wrapped around the cube. 
 
 To interact with the functionalities embedded onto objects; you must leave the odyssey creator mode and then select on the objects. Only then will the text and or videos appear in a ui tab; as otherwise when you select that object inside the creator mode; the gizmo will display. 
+
 
 :::tip
 🌋 **Lava-hot tip**: If you wrap an object in an image and then assign it another functionality (for example *video*), it will keep the image wrapping. This is particularly useful if you want to give a hint of what happens if the user clicks on an object.

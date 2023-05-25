@@ -35,9 +35,11 @@ Once you have named it you can press the button that says publish; this will put
 7. You will see a holographic transparent ghost version of the cube before you. This ghostly object will follow you enabling you to fly the object to where you want to place it. Once you are happy with its location; press the tick mark along the toolbar in the centre bottom of your screen. 
 8. You have no successfully spawned an object in your world. Congratulations! 
 
+
 :::tip
 We put together a few resources on where to find free 3D assets, and how to convert them into the right format, in [this article](https://discover.odyssey.org/blog/quick-guide-to-3d-assets-for-your-odyssey/)
 :::
+
 
 :::warning
 It is important to consider how complex a model is when you upload it into your Odyssey. There are two important aspects that make a model complex: **file size** and **polycount**.
