@@ -29,10 +29,10 @@ In this example we will wrap a default cube with a custom image.
 The same image will be repeated on all the faces of the object
 :::
 
-1. Enter [Creator mode](enter-creator-mode.md)
+1. Enter Creator mode
 2. Click on the object you want to assign a functionality to
-3. Choose `Functionality` from the horizontal menu on top of the object
-4. Choose `Image` from the drop-down menu on the top-left (or any other functionality)
+3. Choose Functionality from the horizontal menu on top of the object
+4. Choose Image from the drop-down menu on the top-left (or any other functionality)
 5. Exit Creator mode by clicking on the `X` in the bottom-right corner
 6. Click on the object again, then on `Chenge image`, and finally on `Select image`
 7. Choose your image and click on `Change`
