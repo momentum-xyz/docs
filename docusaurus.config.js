@@ -119,37 +119,6 @@ async function createConfig() {
               label: 'Explore',
             },
             {
-              to: 'build/getting-started',
-              //docId: 'build/getting-started',
-              position: 'left',
-              label: 'Build',
-            },
-            {
-              to: 'api/develop',
-              position: 'left',
-              label: 'API',
-            },
-            {
-              to: 'blog',
-              label: 'Blog',
-              position: 'left'
-            },
-            {
-              to: 'about-us',
-              position: 'right',
-              label: 'About',
-            },
-            {
-              to: 'get-in-touch',
-              position: 'right',
-              label: 'Contact',
-            },
-            {
-              to: 'careers',
-              position: 'right',
-              label: 'Careers',
-            },
-            {
               href: 'https://github.com/momentum-xyz/',
               label: 'GitHub',
               position: 'right',
@@ -171,20 +140,12 @@ async function createConfig() {
               title: 'Discover Odyssey',
               items: [
                 {
-                  label: 'What is Odyssey?',
-                  to: '/what-is-odyssey/what-is-odyssey',
+                  label: 'Create',
+                  to: '/',
                 },
                 {
-                  label: 'Get Started',
-                  to: '/create-your-odyssey/create-your-odyssey',
-                },
-                {
-                  label: 'Explore the features',
-                  to: '/explore-the-features/explore-the-features',
-                },
-                {
-                  label: 'Build (Developers)',
-                  to: '/build/getting-started',
+                  label: 'Explore',
+                  to: '/explore-the-features/',
                 },
               ],
             },
@@ -214,27 +175,6 @@ async function createConfig() {
                 {
                   label: 'LinkedIn',
                   href: 'https://www.linkedin.com/company/odysseycreator/',
-                },
-              ],
-            },
-            {
-              title: 'Bits and bobs',
-              items: [
-                {
-                  label: 'About us',
-                  to: 'about-us',
-                },
-                {
-                  label: 'Get in touch',
-                  to: 'get-in-touch',
-                },
-                {
-                  label: 'Careers',
-                  to: 'careers',
-                },
-                {
-                  label: 'Legal',
-                  to: 'legal',
                 },
               ],
             },
