@@ -9,7 +9,7 @@ Objects are no good unless you can place them exactly how you want and make them
 
 ## Moving an object
 
-The moving gizmo is the first tool you see when you enter [creator mode](enter-creator-mode.md) and click on an object. `Click and drag` on the handles to change the positioning of your objects.
+The moving gizmo is the first tool you see when you enter Creator mode and click on an object. `Click and drag` on the handles to change the positioning of your objects.
 
 ## Rotating an object
 
