@@ -77,7 +77,7 @@ The power of the plugins is twofold:
 
 $MOM (Momentum) is a **utility token** used both for paying network fees (e.g. minting your Odyssey) and for connecting to other Odyssey—our implementation of staking which yields both the staker and the stakee. Read more about $MOM further down.
 
-## Apply for an Odyssey NFT
+## Get early access to Odyssey
 
 Odyssey Beta is now live on testnet.
 
