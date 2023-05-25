@@ -1,7 +1,7 @@
 ---
-title: Spawning objects
-description: What good is your own world if you can't put objects into it? In this article we explain how to add default and personal assets to your Odyssey
-sidebar_label: Spawning objects
+title: Spawning Objects
+description: In this article we explain how to add default and personal assets to your Odyssey.
+sidebar_label: Spawning Objects
 sidebar_position: 3
 ---
 
