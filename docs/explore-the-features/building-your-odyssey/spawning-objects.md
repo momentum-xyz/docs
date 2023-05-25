@@ -42,7 +42,7 @@ There are a few more steps to place a custom object in your Odyssey. Let's go th
 4. Click on `Upload your asset` and choose your custom 3D model (it must be a **.glb** file, the lighter, the better)
 5. Choose a name for your asset (as you want it to appear in the library) and click on `Add to library`
 6. Select the *Custom Object Library* tab (right above the one you were on) and look for your asset
-7. Click the `Select` button and ['follow the same steps as you would for a default object'](#spawning-a-default-object). Done!
+7. Click the `Select` button and 'follow the same steps as you would for a default object'. Done!
 
 <figure>
 

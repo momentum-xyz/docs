@@ -8,7 +8,7 @@ sidebar_position: 6
 To offer an amazing experience, it's not enough to crowd your Odyssey with pretty objects. Let's see how to make them do thing!
 
 :::info
-As of now, only [default primitives](spawning-assets.mdx#spawning-a-default-object) can be assigned functionalities. We are working on making the tool available for custom objects as well. 
+As of now, only XXX can be assigned functionalities. We are working on making the tool available for custom objects as well. 
 :::
 
 ## Available functionalities
