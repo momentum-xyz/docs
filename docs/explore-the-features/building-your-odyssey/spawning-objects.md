@@ -30,7 +30,6 @@ There are a few more steps to place a custom object in your Odyssey. Let's go th
 4. Once you have clicked on upload custom object; you will be asked to upload your custom object; either by dragging and dropping your file or by using the button to upload your file. Once your file is uploaded your will see a preview of it. You then need to name your object and may also give a name for the artists of the object. 
 The user may select if they want this object to be available for public use of just for their own private library (private library is an under construction feature and not available yet)
 Once you have named it you can press the button that says publish; this will put your custom object into the community library. 
-
 5. Once you have published your file; you must select it from the community object library and spawn it using the same flow as described above. You can find your object either by scrolling for it or by using the search function. Select your object to proceed
 6. Once you have clicked your custom object you will see more details about the object; such as who uploaded it (you); when it was added and who created it. For now give your object a name and select spawn object. 
 7. You will see a holographic transparent ghost version of the cube before you. This ghostly object will follow you enabling you to fly the object to where you want to place it. Once you are happy with its location; press the tick mark along the toolbar in the centre bottom of your screen. 
