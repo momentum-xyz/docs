@@ -107,7 +107,7 @@ async function createConfig() {
           },
           items: [
             {
-              to: 'create-your-odyssey',
+              to: 'what-is-odyssey/get-a-wallet/',
               //docId: 'create-your-odyssey/create-your-odyssey',
               position: 'left',
               label: 'Create',
