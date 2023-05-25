@@ -6,7 +6,7 @@ sidebar_position: 4
 ---
 # Odyssey controls
 
-In Odyssey, you use a combination of keyboard and mouse to move in the 3D space. Let’s see what they are.
+In Odyssey, you use a combination of keyboard and mouse to move in the 3D space:
 
 |Key|Function|
 |---|---|
@@ -17,7 +17,6 @@ In Odyssey, you use a combination of keyboard and mouse to move in the 3D space.
 | `E` | Move up |
 | `Q` | Move down |
 | `SHIFT` | Go faster |
-| `RMC (hold)` or `SPACE BAR (hold)` | Hold right mouse button or space bar to look around |
 | `LMC` | Left mouse click to select objects |
 
-![Keyboard and mouse controls for Odyssey](img/controls.png)
+![Keyboard and mouse controls for Odyssey](img/COntrols.png)
