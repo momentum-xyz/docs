@@ -1,7 +1,7 @@
 ---
-title: Assign functionalities
+title: Assign Functionalities
 description: Every object in your Odyssey and be assigned a specific function. For example, display an image, play a video, or even a sound (coming soon).
-sidebar_label: Assign functionalities
+sidebar_label: Assign Functionalities
 sidebar_position: 6
 ---
 
