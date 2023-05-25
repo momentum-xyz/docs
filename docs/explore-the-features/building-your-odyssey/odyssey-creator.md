@@ -11,7 +11,9 @@ Everything that has to do with shaping the whole experience users have in your O
 
 In order to enter Creator mode you need to simply click on the Odyssey Creator icon in the centre of the toolbar along the bottom. You must be the owner of the world in order for this icon to appear.
 
-You will see a secondary toolbar of features appear on the right side of your screen. For now you can
+You will see a secondary toolbar of features appear on the right side of your screen.
+
+For now you can:
 
 - Add objects 
 - Change skybox. 
