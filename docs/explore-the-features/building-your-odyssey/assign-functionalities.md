@@ -2,7 +2,7 @@
 title: Assign Functionalities
 description: Every object in your Odyssey and be assigned a specific function. For example, display an image, play a video, or even a sound (coming soon).
 sidebar_label: Assign Functionalities
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 To offer an amazing experience, it's not enough to crowd your Odyssey with pretty objects. Let's see how to make them do thing!
