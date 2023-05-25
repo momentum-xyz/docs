@@ -9,7 +9,7 @@ The skybox is the background of your Odyssey and allows you to set a unique vibe
 
 ## How to change the skybox
 
-1. Enter [Creator mode]
+1. Enter Creator mode
 2. Click on the `skybox` button (it's the first one from the top in the tools panel on the left)
 3. Choose `Add skybox`
 4. Upload your 360 image (we recommend it's at least 4000x2000 pixels, but 2000x1000 should be fine as well), and click on `Add skybox`
