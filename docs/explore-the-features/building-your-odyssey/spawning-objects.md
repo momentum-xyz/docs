@@ -2,7 +2,7 @@
 title: Spawning assets
 description: What good is your own world if you can't put objects into it? In this article we explain how to add default and personal assets to your Odyssey
 sidebar_label: Spawning assets
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 In Odyssey there are two types of objects: the default primitives we put at your disposal, and your own assets. Let's see how to place them in your Odyssey. We'll start with the default primitives, because they are easier to handle.
