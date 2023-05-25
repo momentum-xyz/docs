@@ -39,8 +39,6 @@ The same image will be repeated on all the faces of the object
 
 You should now see your object wrapped in that image.
 
-![Animation showing how to assign a functionality to an asset in Odyssey](img/assign-functionality-image.gif)
-
 :::tip
 🌋 **Lava-hot tip**: If you wrap an object in an image and then assign it another functionality (for example *video*), it will keep the image wrapping. This is particularly useful if you want to give a hint of what happens if the user clicks on an object.
 :::
@@ -48,5 +46,3 @@ You should now see your object wrapped in that image.
 ## Change an object's functionality
 
 To change the functionality of an object, the process is exactly the same as assigning it. As mentioned above, keep in mind that if you have assigned an image to the object, that image will be kept even after you change the functionality of the asset. Here is a quick gif that shows how it works.
-
-![Animation showing how to change the functionality of an object in Odyssey](img/change-functionality-video.gif)

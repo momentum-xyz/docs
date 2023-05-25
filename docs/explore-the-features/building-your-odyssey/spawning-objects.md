@@ -25,8 +25,6 @@ To get you started, we give you some default shapes (cones, cubes, spheres, etc.
 
 🧨 Boom! There is your object!
 
-![Animation that shows how to spawn a default object in an Odyssey](img/asset-spawning-default.gif)
-
 ## Changing the colour of basic objects
 
 1. After you have spawned an object from the *Basic Asset Pack* tab, click on it
@@ -49,8 +47,6 @@ There are a few more steps to place a custom object in your Odyssey. Let's go th
 7. Click the `Select` button and ['follow the same steps as you would for a default object'](#spawning-a-default-object). Done!
 
 <figure>
-
-![Animation describing how to spawn a custom 3D asset in an Odyssey](img/asset-spawning-custom.gif)
 
 <figcaption>Voxel scene artwork by Mike Judge</figcaption>
 </figure>
