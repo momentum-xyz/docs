@@ -20,7 +20,7 @@ To get you started, we give you some default shapes (cones, cubes, spheres, etc.
 1. Enter Creator mode
 2. Click on the `+` (plus) button on the left side of your screen
 3. Choose your object from the *Basic Asset Pack* or *Standard Asset Pack* tabs and click `Select`
-4. Tick the `Visible in Navigation` box and assign your object a name (this will appear in the [minimap](/explore-the-features/other-features/minimap/))
+4. Tick the `Visible in Navigation` box and assign your object a name (this will appear in the minimap
 5. Click on `Spawn object`
 
 🧨 Boom! There is your object!
@@ -31,8 +31,6 @@ To get you started, we give you some default shapes (cones, cubes, spheres, etc.
 2. Choose `Colour` from the toolbar
 3. A colour picker will appear in the top-left corner of your screen. Drag the circle or input the HEX code of the colour you want your object to be
 4. Click `Save` to confirm
-
-![Animation that shows how to change an object's colour in Odyssey](img/colour-picker.gif)
 
 ## Spawning a custom object
 
