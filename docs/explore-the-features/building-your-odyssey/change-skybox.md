@@ -2,7 +2,7 @@
 title: Changing skybox
 description: You can change the whole way your Odyssey feels by changing the skybox (the background in which your Odyssey is wrapped). This article expains how to change the background of your Odyssey.
 sidebar_label: Changing skybox
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 The skybox is the background of your Odyssey and allows you to set a unique vibe in your 3D world.
