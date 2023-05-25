@@ -32,6 +32,6 @@ To rotate an object, make sure you have this object selected. Then using one of 
 Furthermore; you can also rotate an object with the inspector panel; simply select the inspector panel icon from the toolbar. This will bring up the inspector panel. From here you can manually enter a numerical value for all axis rotation values and rotate your object like this as well. 
 
 
-:::tip
-**🌋 Lava-hot tip:** With all gizmos, the selected axis will turn yellow when you hover over it, so you'll know which one is selected, and you can start dragging to modify your object.
+:::warning
+Currently babylon.js does not support the scaling of an object along one rotational axis and then using the gizmo to rotate an object. One possible work around for this is to scale your object and then rotate it with the inspector panel; or to rotate your object first; and then to scale it. 
 :::
