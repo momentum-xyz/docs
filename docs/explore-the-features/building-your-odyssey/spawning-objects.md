@@ -14,17 +14,11 @@ First of all... what the heck is spawning? It's just a fancy term for "placing",
 To get you started, we give you some default shapes (cones, cubes, spheres, etc.) that you can place in your Odyssey. To add one of these objects follow these steps:
 
 1. Enter Experience Creator mode by pressing the pencil button from the centre of the toolbar along the bottom
-
 2. Click on the ‘Add Object’ ‘+’ (plus) button on the top right of your screen
-
 3. Choose your object from the Community Library Pack. At the top of the community object library you will see the wrappable asset pack; consisting of 12 wrappable shapes that can be placed in your world. Select any one of these shapes (for example the cube with image) to spawn this object in your world. 
-
 4. Once you have clicked on an object you will see more details about the object; such as who uploaded it; when it was added and who created it. This information is more relevant for custom objects that have been added to the library; but we will get to that later. For now give your object a name and select spawn object.
-
 5. You will see a holographic transparent ghost version of the cube before you. This ghostly object will follow you enabling you to fly the object to where you want to place it. Once you are happy with its location; press the tick mark along the toolbar in the centre bottom of your screen. 
-
 6. You have no successfully spawned an object in your world. Congratulations!
-
 
 ## Spawning a custom object
 
