@@ -8,4 +8,3 @@ In this section we give an overview of all the feature you can use to create and
 
 ## Features overview
 
-
