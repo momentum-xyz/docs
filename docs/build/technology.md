@@ -16,7 +16,7 @@ In the heart of the Odyssey stack lies the back end, a vital set of systems resp
 
 Lastly, the blockchain part handles all things related to blockchain technology. This includes operations concerning smart contracts, tokens, NFTs, staking, airdrop faucets, and cross-chain transactions via a bridge. Significantly, the back end and blockchain components are architected to be easily extensible, facilitating additional functionalities and the inclusion of more crypto networks in the future. This attribute reinforces the Odyssey stack's adaptability, scalability, and readiness for future advancements in the technology, browser and blockchain worlds.
 
-Learn more about the specifics of the [front-end](front-end)
+Learn more about the specifics of the [front-end](build/front-end)
 
-Learn more about the specifics of the [back-end](back-end)
+Learn more about the specifics of the [back-end](build/back-end)
 
