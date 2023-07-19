@@ -29,8 +29,3 @@ Here is how to set up your Talisman wallet.
 
 https://medium.com/pendulum-chain/how-to-setup-a-talisman-wallet-in-minutes-1feeda58bf74
 
-## Polkadot.js
-
-Find the instructions on how to set up your Polkadot.js wallet below.
-
-https://support.polkadot.network/support/solutions/articles/65000169953-polkadot-extension-where-to-download-it
